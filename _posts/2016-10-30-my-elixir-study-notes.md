@@ -15,6 +15,7 @@ I basically copied, slightly altered and omitted great part of the content to fo
 ## Notes
 * * *
 + Get some help:
+
 ```
 iex> i 'hello'
 Term
@@ -27,7 +28,7 @@ Raw representation
   [104, 101, 108, 108, 111]
 Reference modules
   List
-  ```
+```
 + When “counting” the number of elements in a data structure, Elixir also abides by a simple rule: the function is named size if the operation is in constant time (i.e. the value is pre-calculated) or length if the operation is linear (i.e. calculating the length gets slower as the input grows).
 + String concatenation is done with: `<>`.
 +  Operators `or`, `and`, `not` can only accept boolean values. Besides these boolean operators, Elixir also provides `||`, `&&` and `!` which accept arguments of any type. For these operators, all values except `false` and `nil` will evaluate to `true`.

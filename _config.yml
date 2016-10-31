@@ -6,7 +6,6 @@ title:               Collateral Software
 tagline:             fschuindt
 paginate:            1
 baseurl:             https://fschuindt.github.io/blog/
-markdown:            kramdown
 
 # Assets
 #
@@ -25,16 +24,6 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/fschuindt/blog.git
-
-kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
-  toc_levels:     1..6
-  smart_quotes:   lsquo,rsquo,ldquo,rdquo
-  input:          GFM
-  hard_wrap:      false
-  footnote_nr:    1
 
 # Gems
 gems:
