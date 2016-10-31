@@ -217,7 +217,7 @@ nil
 ```
 
 ### `do` / `end` blocks
-Equivalent to `{` / ` }`, it's also possible things like:
+Equivalent to `{` / `}`, it's also possible things like:
 
 ```
 iex> if false, do: :this, else: :that
