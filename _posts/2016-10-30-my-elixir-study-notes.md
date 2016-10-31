@@ -398,6 +398,7 @@ $ elixirc math.ex
 This will generate a file named Elixir.Math.beam containing the bytecode for the defined module. If we start iex again, our module definition will be available (provided that iex is started in the same directory the bytecode file is in).  
 
 Elixir projects are usually organized into three directories:
+
 + `ebin` - contains the compiled bytecode
 + `lib` - contains elixir code (usually .ex files)
 + `test` - contains tests (usually .exs files)
@@ -405,6 +406,7 @@ Elixir projects are usually organized into three directories:
 When working on actual projects, the build tool called mix will be responsible for compiling and setting up the proper paths for you.
 
 ### Scripted mode
+
 + `.ex` - files to be compiled
 + `.exs` - files to run in scripted mode (Learning purposes)
 
@@ -415,6 +417,7 @@ $ elixir math.exs
 ```
 
 ### Named functions
+
 + `def/2` - defines a function
 + `defp/2` - defines a private function
 
@@ -1069,6 +1072,7 @@ end
 
 ### As annotations
 Elixir has a handful of reserved attributes. Here are a few of them, the most commonly used ones:
+
 + `@moduledoc` - provides documentation for the current module.
 + `@doc` - provides documentation for the function or macro that follows the attribute.
 + `@behaviour` - (notice the British spelling) used for specifying an OTP or user-defined behaviour.
@@ -1647,6 +1651,7 @@ cleaning up!
 
 ### Types and specs
 It's used for:
+
 + declaring custom data types;
 + declaring typed function signatures (specifications).
 
@@ -1693,6 +1698,7 @@ Typespecs are not only useful to developers and as additional documentation. The
 
 ### Behaviours
 Behaviours provide a way to:
+
 + Define a set of functions that have to be implemented by a module;
 + Ensure that a module implements all the functions in that set.
 
