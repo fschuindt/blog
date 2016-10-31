@@ -1812,3 +1812,8 @@ iex> :rand.uniform(6)
 
 ### The zip and zlib modules
 [The `zip` module](http://erlang.org/doc/man/zip.html) lets you read and write zip files to and from disk or memory, as well as extracting file information.
+
+## References
+
++ http://elixir-lang.org/getting-started/introduction.html/
++ The cover picture: *The Banquet in the Pine Forest (1482/3) is the third painting in Sandro Botticelli's series The Story of Nastagio degli Onesti, which illustrates events from the Eighth Story of the Fifth Day.* (Public Domain)
