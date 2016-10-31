@@ -10,6 +10,7 @@ I basically copied, slightly altered and omitted great part of the content to fo
 
 ## Important Links
 * * *
+
 + [Writing Assertive Code With Elixir](http://blog.plataformatec.com.br/2014/09/writing-assertive-code-with-elixir/)
 
 ## Notes
@@ -145,6 +146,7 @@ iex> {y, ^x} = {2, 2}
 
 ## `case`, `cond` and `if`
 * * *
+
 ### `case`
 Behavious pretty much as the classic `case` statement.
 
@@ -236,6 +238,7 @@ true
 
 ## Binaries, strings and char lists
 * * *
+
 ### Binaries and bitstrings
 You can define a binary using `<<>>`. It's just a sequence of bytes.
 + The string concatenation operation is actually a binary concatenation operator `<>`.
@@ -255,6 +258,7 @@ Char list contains the code points of the characters between single-quotes (note
 
 ## Keywords and maps
 * * *
+
 ### Keyword list
 It's a associative data structure. In Elixir, when we have a list of tuples and the first item of the tuple (i.e. the key) is an atom, we call it a keyword list:
 
@@ -360,6 +364,7 @@ There is more to learn about `put_in/2` and `update_in/2`, including the `get_an
 
 ## Modules
 * * *
+
 In Elixir we group several functions into modules.
 
 ```
@@ -526,6 +531,7 @@ IO.puts Concat.join("Hello")               #=> Hello
 
 ## Recursion
 * * *
+
 ### Loops through recursion
 Beautifully without mutating:
 
@@ -607,6 +613,7 @@ iex> Enum.map([1, 2, 3], &(&1 * 2))
 
 ## Enumerables and Streams
 * * *
+
 [The `Enum` module](http://elixir-lang.org/docs/stable/elixir/Enum.html) provides a huge range of functions to transform, sort, group, filter and retrieve items from enumerables. It is one of the modules developers use frequently in their Elixir code.
 
  For specific operations, like inserting and updating particular elements, you may need to reach for modules specific to the data type. For example, if you want to insert an element at a given position in a list, you should use the `List.insert_at/3` function from the List module.
@@ -671,6 +678,7 @@ The example above will fetch the first 10 lines of the file you have selected. T
 
 ## Processes
 * * *
+
 In Elixir, all code runs inside processes. Processes are isolated from each other, run concurrent to one another and communicate via message passing.
 
 ### `spawn`
@@ -857,6 +865,7 @@ A `:name` option could also be given to `Agent.start_link/2` and it would be aut
 
 ## IO and the file system
 * * *
+
 The IO module is the main mechanism in Elixir for reading and writing to standard input/output (`:stdio`), standard error (`:stderr`), files and other IO devices. Usage of the module is pretty straightforward:
 
 ```
@@ -1053,6 +1062,7 @@ end
 
 ## Module attributes
 * * *
+
 + They serve to annotate the module, often with information to be used by the user or the VM.
 + They work as constants.
 + They work as a temporary module storage to be used during compilation.
@@ -1107,6 +1117,7 @@ end
 
 ## Structs
 * * *
+
 Structs are extensions built on top of maps that provide compile-time checks and default values.
 
 ```
@@ -1156,6 +1167,7 @@ iex> %User{} = %{}
 
 ## Protocols
 * * *
+
 Protocols are a mechanism to achieve polymorphism in Elixir. Dispatching on a protocol is available to any data type as long as it implements the protocol.
 
 Let's implement that to specify a `blank?` protocol that returns a boolean for other data types that should be considered blank.
@@ -1249,6 +1261,7 @@ end
 
 ## Comprehensions
 * * *
+
 Declared by `for`:
 
 ```
@@ -1365,6 +1378,7 @@ $ elixir triple.exs
 
 ## Sigils
 * * *
+
 Is one of the mechanisms provided by the language for working with textual representations (also allowing extensibility). Sigils start with the tilde (`~`) character which is followed by a letter (which identifies the sigil) and then a delimiter; optionally, modifiers can be added after the final delimiter.
 
 The most common sigil in Elixir is `~r`, which is used to create [regular expressions](https://en.wikipedia.org/wiki/Regular_Expressions):
@@ -1493,6 +1507,7 @@ Sigils can also be used to do compile-time work with the help of macros. For exa
 
 ## `try`, `catch` and `rescue`
 * * *
+
 ### Errors
 Errors (or *exceptions*) are used when exceptional things happen in the code. A sample error can be retrieved by trying to add a number into an atom:
 
@@ -1629,6 +1644,7 @@ cleaning up!
 
 ## Typespecs and behaviours
 * * *
+
 ### Types and specs
 It's used for:
 + declaring custom data types;
@@ -1713,6 +1729,7 @@ end
 
 ## Erlang libraries
 * * *
+
 As you grow more proficient in Elixir, you may want to explore the Erlang [STDLIB Reference Manual](http://erlang.org/doc/apps/stdlib/index.html) in more detail. Check below some of the most widely used libraries.
 
 ### The binary module
