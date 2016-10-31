@@ -52,6 +52,7 @@ iex> f.(-1, 3)
 
 ## Basic Types
 * * *
+
 ### Booleans
 All good, just `true` and `false`. Nothing special.
 
