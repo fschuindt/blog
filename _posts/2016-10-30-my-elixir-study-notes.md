@@ -240,10 +240,7 @@ true
 * * *
 
 ### Binaries and bitstrings
-You can define a binary using `<<>>`. It's just a sequence of bytes.
-+ The string concatenation operation is actually a binary concatenation operator `<>`.
-+ **A binary is a bitstring where the number of bits is divisible by 8. Smaller bit are just bitstrings!**
-+ A string is a UTF-8 encoded binary, and a binary is a bitstring where the number of bits is divisible by 8.
+You can define a binary using `<<>>`. It's just a sequence of bytes. The string concatenation operation is actually a binary concatenation operator `<>`.
 
 A common trick in Elixir is to concatenate the null byte `<<0>>` to a string to see its inner binary representation:
 
@@ -252,8 +249,13 @@ iex> "hełło" <> <<0>>
 <<104, 101, 197, 130, 197, 130, 111, 0>>
 ```
 
+**A binary is a bitstring where the number of bits is divisible by 8. Smaller bit are just bitstrings!**
+
+A string is a UTF-8 encoded binary, and a binary is a bitstring where the number of bits is divisible by 8.
+
 ### Char lists
 A char list is nothing more than a list of characters.  
+
 Char list contains the code points of the characters between single-quotes (note that IEx will only output code points if any of the chars is outside the ASCII range). So while double-quotes represent a string (i.e. a binary), single-quotes represents a char list (i.e. a list).
 
 ## Keywords and maps
@@ -463,7 +465,7 @@ iex> fun.(0)
 true
 ```
 
-Local or imported functions, like is_function/1, can be captured without the module:
+Local or imported functions, like `is_function/1`, can be captured without the module:
 
 ```
 iex> &is_function/1
@@ -904,7 +906,7 @@ iex> File.read "hello"
 
 A file can also be opened with `:utf8` encoding, which tells the `File` module to interpret the bytes read from the file as UTF-8-encoded bytes.
 
-It also provides Unix like functions: File.rm/1, File.mkdir/1, File.mkdir_p/1, etc. (Checkout the [module documentation](http://elixir-lang.org/docs/stable/elixir/File.html)) Also notice the variations with a trailing bang `!`.
+It also provides Unix like functions: `File.rm/1`, `File.mkdir/1`, `File.mkdir_p/1`, etc. (Checkout the [module documentation](http://elixir-lang.org/docs/stable/elixir/File.html)) Notice the variations with a trailing bang `!`.
 
 ```
 iex> File.read "hello"
