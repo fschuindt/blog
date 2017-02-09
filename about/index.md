@@ -34,7 +34,7 @@ title: About The Author
 + *fschuindt* at irc.freenode.net
 
 <div style="height: 20px;"></div>
-### Contact me
+<h3>Contact me</h3>
 <div style="height: 10px;"></div>
 ![Nothing important :)](https://s28.postimg.org/a71hma8yl/bea3d3e1f093ad000f86ee3d6f4d0fcd.png)
 If you wish, you can use my PGP public key, as verified [here](https://keybase.io/fschuindt) by Keybase.io.  
