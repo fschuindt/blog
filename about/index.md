@@ -33,6 +33,9 @@ title: About The Author
 + [https://linkedin.com/in/fschuindt](https://linkedin.com/in/fschuindt)
 + *fschuindt* at irc.freenode.net
 
+<div style="height: 30px;"></div>
+Check my Twitter list on Elixir: [https://twitter.com/fschuindt/lists/elixir](https://twitter.com/fschuindt/lists/elixir)
+
 <div style="height: 20px;"></div>
 <h3>Contact me</h3>
 <div style="height: 10px;"></div>
