@@ -1818,5 +1818,5 @@ iex> :rand.uniform(6)
 ## References
 * * *
 
-+ [http://elixir-lang.org/getting-started/introduction.html/](http://elixir-lang.org/getting-started/introduction.html/)
++ [http://elixir-lang.org/getting-started/introduction.html/](http://elixir-lang.org/getting-started/introduction.html)
 + Cover picture: *The Banquet in the Pine Forest (1482/3) is the third painting in Sandro Botticelli's series The Story of Nastagio degli Onesti, which illustrates events from the Eighth Story of the Fifth Day.* (Public Domain)
