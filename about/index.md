@@ -6,15 +6,11 @@ title: About The Author
 * * *
 
 <div style="width: 100%">
-  <img style="width: 30%; float: left;" src="https://s30.postimg.org/6ism3x9b5/fernando_schuindt.jpg" alt="Fernando Schuindt picture" />
+  <img style="width: 30%; float: left;" src="https://s12.postimg.org/yu9m4mwd9/fernando_schuindt_blog.png" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, Brazilian, 25yo, software developer, bassist and amateur
+    <p><strong>Fernando Schuindt</strong>, 25 years old Brazilian, software developer at <a href="http://www.quezmedia.com/">QuézMedia</a>, bassist and amateur
     chess player. That's (in part) me.</p>
-
-    <p>I've been playing with programming languages and operational systems since my
-    childhood. Started with Linux and PHP when I was 12 and today I work remotely
-    with Ruby on Rails at <a href="http://www.quezmedia.com/">QuézMedia</a>.</p>
 
     <p>Recently I'm focusing my studies in functional programming and that's my blog
     about it. Here I will keep my personal notes, codes, and useful stuff I find in
