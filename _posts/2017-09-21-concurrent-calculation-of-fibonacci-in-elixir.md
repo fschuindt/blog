@@ -11,7 +11,7 @@ Which according with this [list](https://oeis.org/A000045/b000045.txt), is fine:
 
 *The actual 1200th term position is 251 digit long, so I've posted a equivalent notation here.*
 
-A cool (and unrelated) fact is that it uses the [Golden Ratio](https://en.wikipedia.org/wiki/Golden_ratio) in the calculation `(1 + √5) / 2`, and what it seems a reverse form of it `(1 - √5) / 2`.
+A cool (and unrelated) fact is that it uses the [Golden Ratio](https://en.wikipedia.org/wiki/Golden_ratio) in the calculation `(1 + √5) / 2`, and what seems a reverse form of it `(1 - √5) / 2`.
 
 So, the formula I've described as:
 ```
