@@ -1,5 +1,3 @@
-# Concurrent calculation of Fibonacci in Elixir
-
 There's a known formula to evaluate a *n* Fibonacci term position without iteration or recursion.
 ![Formula](https://s30.postimg.org/ndks6gohd/fib_formula.jpg)
 
@@ -66,7 +64,7 @@ end
 And the result is beautiful:  
 ![Demonstration 1](https://media.giphy.com/media/l378rfb3u84kmLFAY/giphy.gif)
 
-It's amazing how simply it can execute more than 1400 concurrent processes in less than a blink of an eye
+A simple code and it executes more than 1400 parallel processes in less than a blink of an eye.
 
 Also the unordered result is evident:
 ```
@@ -87,7 +85,7 @@ def list do
 end
 ```
 
-This will repeat the `1..1474` list approximately seven times, to result in a list containing 10.000 elements.
+This will repeat the `1..1474` list approximately 7x, to result in a list containing 10.000 elements.
 
 Let's see how it goes:  
 ![Demonstration 2](https://media.giphy.com/media/3ov9k2pMG5VDnD6ZyM/giphy.gif)
@@ -95,7 +93,6 @@ Let's see how it goes:
 You can see it takes more time, obviously.  
 But let's think about it. It's ten thousand parallel executions, ten thousand processes.
 
-I have even tested with 100.000 processes, in my `4GB RAM i5@1.7GHz` notebook it takes 5.47 seconds.  
-One hundred thousand processes in 5 seconds.
+I have even tested with 100.000 processes, in my `4GB RAM i5@1.7GHz` notebook it takes 5.47 seconds. One hundred thousand processes in 5 seconds.
 
 I have to say I'm impressed.
