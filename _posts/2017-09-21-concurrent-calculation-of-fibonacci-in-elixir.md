@@ -9,11 +9,11 @@ Which according with this [list](https://oeis.org/A000045/b000045.txt), is fine:
 + Term `n(26) = 121393`
 + Term `n(1200) = 272.698844554059974143456202000 × 10²⁷`
 
-*The actual 1200th term position is 251 digit long, so I've posted a equivalent notation here*
+*The actual 1200th term position is 251 digit long, so I've posted a equivalent notation here.*
 
 A cool (and unrelated) fact is that it uses the [Golden Ratio](https://en.wikipedia.org/wiki/Golden_ratio) in the calculation `(1 + √5) / 2`, and what it seems a reverse form of it `(1 - √5) / 2`.
 
-So, the formula, I've described as:
+So, the formula I've described as:
 ```
 defmodule FibonacciCalculus do
   @golden_n :math.sqrt(5)
@@ -32,17 +32,17 @@ defmodule FibonacciCalculus do
 end
 ```
 
-By the way, if you haven't already wondered, after the term `1474` it crashes.
+By the way, if you haven't already wondered, after the term `1474` it crashes:  
 ![Crash output](https://s26.postimg.org/4g4r3i049/Screen_Shot_2017-09-21_at_02.16.56.png)
 
-That's because Erlang's `math` module operates only with numbers that can be represented with floating points and such a big number can't.
+That's because Erlang's `math` module operates only with numbers that can be represented with floating points, and such a big number can't.
 
 But anyway, my goal here isn't to calculate Fibonacci at all.  
 I'm just wanting to see Elixir's power doing hundreds of those big number calculations at the same time.
 
 I want to give Elixir a sequential integer list, in this case from `1` to `1474`, which is the apparent limit. Then ask it to spawn a Erlang process for each one of those elements. Each process should receive the element and return the result of its `FibonacciCalculus.of(n)`, being `n` the element.
 
-I should end up with a unordered result, as reflects of the concurrent computation.
+I should end up with a unordered result, as reflect of the concurrent computation.
 
 So, I've described the module:
 ```
