@@ -96,3 +96,5 @@ But let's think about it. It's ten thousand parallel executions, ten thousand pr
 I have even tested with 100.000 processes, in my `4GB RAM i5@1.7GHz` notebook it takes 5.47 seconds. One hundred thousand processes in 5 seconds.
 
 I have to say I'm impressed.
+
+I'm about one year playing with Elixir in my spare time, it's a really fun language, especially if you never programmed functional before.
