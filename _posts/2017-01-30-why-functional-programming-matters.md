@@ -1,3 +1,8 @@
+---
+layout: post
+title: Why Functional Programming Matters
+---
+
 [![Article screenshot](https://s23.postimg.org/55usdxykr/paper.jpg)](http://worrydream.com/refs/Hughes-WhyFunctionalProgrammingMatters.pdf)
 
 <div style="height: 25px;"></div>

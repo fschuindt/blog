@@ -9,7 +9,7 @@ title: About The Author
   <img style="width: 30%; float: left;" src="https://s12.postimg.org/yu9m4mwd9/fernando_schuindt_blog.png" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, 25 years old Brazilian, software developer at <a href="http://www.quezmedia.com/">QuézMedia</a>, bassist and amateur
+    <p><strong>Fernando Schuindt</strong>, 26 years old Brazilian, software developer at <a href="http://www.quezmedia.com/">QuézMedia</a>, bassist and amateur
     chess player. That's (in part) me.</p>
 
     <p>Recently I'm focusing my studies in functional programming and that's my blog

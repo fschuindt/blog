@@ -1,3 +1,8 @@
+---
+layout: post
+title: Concurrent Calculation Of Fibonacci In Elixir
+---
+
 There's a known formula to evaluate a *n* Fibonacci term position without iteration or recursion.
 ![Formula](https://s30.postimg.org/ndks6gohd/fib_formula.jpg)
 

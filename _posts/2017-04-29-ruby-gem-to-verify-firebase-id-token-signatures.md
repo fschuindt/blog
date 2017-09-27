@@ -1,3 +1,8 @@
+---
+layout: post
+title: Ruby Gem To Verify Firebase Id Token Signatures
+---
+
 ![Article screenshot](https://s27.postimg.org/w2oxaldn7/firebase_banner.png)
 
 <div style="height: 25px;"></div>
