@@ -22,7 +22,7 @@ I basically copied, slightly altered and omitted great part of the content to fo
 * * *
 + Get some help:
 
-```
+```elixir
 iex> i 'hello'
 Term
   'hello'
@@ -42,7 +42,7 @@ Reference modules
 + The variable `_` is special in that it can never be read from. Trying to read from it gives an unbound variable error.
 + Guard Clauses are neat:
 
-```
+```elixir
 # Anonymous functions can have guard clauses:
 # They also apply to the 'case' statement, 'when'.
 iex> f = fn
@@ -68,7 +68,7 @@ Pretty much like Lisp's Atoms, A.K.A. Symbols in Ruby.
 ### Anonymous Functions
 Anonymous Functions (function literal, lambda abstraction) is delimited between `fn` and `end`.
 
-```
+```elixir
 # first class citizens (can be passed as arguments)
 iex> add = fn a, b -> a + b end
 iex> add.(3, 2)
@@ -79,7 +79,7 @@ Anonymous functions are closures and as such they can access variables that are 
 ### Lists
 Describes itself.
 
-```
+```elixir
 # Add or subtract using ++ or --
 iex> [2, 23, 42, 11, true]
 iex> list = [1, 2, 3]
@@ -96,7 +96,7 @@ iex>tl(list)
 ### Tuples
 Similar to lists, but stored in memory, all data is availible with no recursion needed.
 
-```
+```elixir
 iex> {:ok, "hello"}
 {:ok, "hello"}
 iex> tuple_size {:ok, "hello"}
@@ -114,7 +114,7 @@ When “counting” the number of elements in a data structure, Elixir also abid
 * * *
 The match operator is not only used to match against simple values, but it is also useful for destructuring more complex data types. For example, we can pattern match on tuples:
 
-```
+```elixir
 iex> {a, b, c} = {:hello, "world", 42}
 {:hello, "world", 42}
 iex> a
@@ -125,7 +125,7 @@ iex> b
 
 A list also supports matching on its own head and tail:
 
-```
+```elixir
 iex> [head | tail] = [1, 2, 3]
 [1, 2, 3]
 iex> head
@@ -136,7 +136,7 @@ iex> tail
 
 **The pin operator `^` should be used when you want to pattern match against an existing variable’s value rather than rebinding the variable.**
 
-```
+```elixir
 iex> x = 1
 1
 iex> ^x = 2
@@ -155,7 +155,7 @@ iex> {y, ^x} = {2, 2}
 ### `case`
 Behavious pretty much as the classic `case` statement.
 
-```
+```elixir
 iex> case {1, 2, 3} do
 ...>   {4, 5, 6} ->
 ...>     "This clause won't match"
@@ -168,7 +168,7 @@ iex> case {1, 2, 3} do
 
 If you want to pattern match against an existing variable, you need to use the `^` operator:
 
-```
+```elixir
 iex> x = 1
 1
 iex> case 10 do
@@ -179,7 +179,7 @@ iex> case 10 do
 
 Another cool example, now with clauses conditions:
 
-```
+```elixir
 iex> case {1, 2, 3} do
 ...>   {1, x, 3} when x > 0 ->
 ...>     "Will match"
@@ -193,7 +193,7 @@ iex> case {1, 2, 3} do
 ### `cond`
 `case` is useful when you need to match against different values. However, in many circumstances, we want to check different conditions and find the first one that evaluates to true. In such cases, one may use `cond`.
 
-```
+```elixir
 iex> cond do
 ...>   2 + 2 == 5 ->
 ...>     "This will not be true"
@@ -210,7 +210,7 @@ iex> cond do
 ### `if` and `unless`
 Are useful when you need to check for just one condition, also pro provides a `else` statement.
 
-```
+```elixir
 iex> if true do
 ...>   "This works!"
 ...> end
@@ -224,11 +224,11 @@ nil
 ### `do` / `end` blocks
 Equivalent to `{` / `}`, it's also possible things like:
 
-```
+```elixir
 iex> if false, do: :this, else: :that
 ```
 
-```
+```elixir
 # Expressions like:
 iex> is_number if true do
 ...>  1 + 2
@@ -249,7 +249,7 @@ You can define a binary using `<<>>`. It's just a sequence of bytes. The string 
 
 A common trick in Elixir is to concatenate the null byte `<<0>>` to a string to see its inner binary representation:
 
-```
+```elixir
 iex> "hełło" <> <<0>>
 <<104, 101, 197, 130, 197, 130, 111, 0>>
 ```
@@ -269,7 +269,7 @@ Char list contains the code points of the characters between single-quotes (note
 ### Keyword list
 It's a associative data structure. In Elixir, when we have a list of tuples and the first item of the tuple (i.e. the key) is an atom, we call it a keyword list:
 
-```
+```elixir
 iex> list = [{:a, 1}, {:b, 2}]
 [a: 1, b: 2]
 iex> list == [a: 1, b: 2]
@@ -286,7 +286,7 @@ iex> list[:a]
 ### Maps
 Whenever you need a key-value store, maps are the “go to” data structure in Elixir:
 
-```
+```elixir
 iex> map = %{:a => 1, 2 => :b}
 %{2 => :b, :a => 1}
 iex> map[:a]
@@ -302,7 +302,7 @@ nil
 
 Interacts great with pattern matching:
 
-```
+```elixir
 iex> %{} = %{:a => 1, 2 => :b}
 %{:a => 1, 2 => :b}
 iex> %{:a => a} = %{:a => 1, 2 => :b}
@@ -315,13 +315,13 @@ iex> %{:c => c} = %{:a => 1, 2 => :b}
 
 Better syntax when all keys are atoms:
 
-```
+```elixir
 iex> map = %{a: 1, b: 2}
 ```
 
 Another interesting property of maps is that they provide their own syntax for updating and accessing atom keys:
 
-```
+```elixir
 iex> map = %{:a => 1, 2 => :b}
 %{:a => 1, 2 => :b}
 iex> map.a
@@ -337,7 +337,7 @@ iex> %{map | :c => 3}
 
 ### Nested data structures (`put_in/2` and `update_in/2`)
 
-```
+```elixir
 iex> users = [
   john: %{name: "John", age: 27, languages: ["Erlang", "Ruby", "Elixir"]},
   mary: %{name: "Mary", age: 29, languages: ["Elixir", "F#", "Clojure"]}
@@ -346,14 +346,14 @@ iex> users = [
 
 We have a keyword list of users where each value is a map containing the name, age and a list of programming languages each user likes. If we wanted to access the age for john, we could write:
 
-```
+```elixir
 iex> users[:john].age
 27
 ```
 
 It happens we can also use this same syntax for updating the value:
 
-```
+```elixir
 iex> users = put_in users[:john].age, 31
 [john: %{age: 31, languages: ["Erlang", "Ruby", "Elixir"], name: "John"},
  mary: %{age: 29, languages: ["Elixir", "F#", "Clojure"], name: "Mary"}]
@@ -361,7 +361,7 @@ iex> users = put_in users[:john].age, 31
 
 The `update_in/2` macro is similar but allows us to pass a function that controls how the value changes. For example, let’s remove “Clojure” from Mary’s list of languages:
 
-```
+```elixir
 iex> users = update_in users[:mary].languages, &List.delete(&1, "Clojure")
 [john: %{age: 31, languages: ["Erlang", "Ruby", "Elixir"], name: "John"},
 mary: %{age: 29, languages: ["Elixir", "F#"], name: "Mary"}]
@@ -374,7 +374,7 @@ There is more to learn about `put_in/2` and `update_in/2`, including the `get_an
 
 In Elixir we group several functions into modules.
 
-```
+```elixir
 iex> defmodule Math do
 ...>   def sum(a, b) do
 ...>     a + b
@@ -388,7 +388,7 @@ iex> Math.sum(1, 2)
 ### Compilation
 Given a file `math.ex`:
 
-```
+```elixir
 defmodule Math do
   def sum(a, b) do
     a + b
@@ -398,7 +398,7 @@ end
 
 This file can be compiled using `elixirc`:
 
-```
+```elixir
 $ elixirc math.ex
 ```
 
@@ -419,7 +419,7 @@ When working on actual projects, the build tool called mix will be responsible f
 
 Executing:
 
-```
+```elixir
 $ elixir math.exs
 ```
 
@@ -430,7 +430,7 @@ $ elixir math.exs
 
 Function declarations also support guards and multiple clauses. If a function has several clauses, Elixir will try each clause until it finds one that matches.
 
-```
+```elixir
 defmodule Math do
   def zero?(0) do
     true
@@ -449,7 +449,7 @@ IO.puts Math.zero?(0.0)       #=> ** (FunctionClauseError)
 
 Similar to constructs like `if`, named functions support both `do:` and `do/end` block syntax, as we learned `do/end` is just a convenient syntax for the keyword list format. For example, we can edit `math.exs` to look like this:
 
-```
+```elixir
 defmodule Math do
   def zero?(0), do: true
   def zero?(x) when is_integer(x), do: false
@@ -459,7 +459,7 @@ end
 ### Function capturing
 Can actually be used to retrieve a named function as a function type. (Given the file)
 
-```
+```elixir
 iex> Math.zero?(0)
 true
 iex> fun = &Math.zero?/1
@@ -472,7 +472,7 @@ true
 
 Local or imported functions, like `is_function/1`, can be captured without the module:
 
-```
+```elixir
 iex> &is_function/1
 &:erlang.is_function/1
 iex> (&is_function/1).(fun)
@@ -481,7 +481,7 @@ true
 
 Note the capture syntax can also be used as a shortcut for creating functions:
 
-```
+```elixir
 iex> fun = &(&1 + 1)
 #Function<6.71889879/1 in :erl_eval.expr/5>
 iex> fun.(1)
@@ -493,7 +493,7 @@ The above is the same as `fn x -> x + 1 end`. It's useful for short function def
 
 If you want to capture a function from a module, you can do `&Module.function()`:
 
-```
+```elixir
 iex> fun = &List.flatten(&1, &2)
 &List.flatten/2
 iex> fun.([1, [[2], 3]], [4, 5])
@@ -505,7 +505,7 @@ iex> fun.([1, [[2], 3]], [4, 5])
 ### Default arguments
 Named functions default arguments:
 
-```
+```elixir
 defmodule Concat do
   def join(a, b, sep \\ " ") do
     a <> sep <> b
@@ -518,7 +518,7 @@ IO.puts Concat.join("Hello", "world", "_") #=> Hello_world
 
 If a function with default values has multiple clauses, it is required to create a function head (without an actual body) for declaring defaults:
 
-```
+```elixir
 defmodule Concat do
   def join(a, b \\ nil, sep \\ " ")
 
@@ -545,7 +545,7 @@ IO.puts Concat.join("Hello")               #=> Hello
 ### Loops through recursion
 Beautifully without mutating:
 
-```
+```elixir
 defmodule Recursion do
   def print_multiple_times(msg, n) when n <= 1 do
     IO.puts msg
@@ -566,7 +566,7 @@ Recursion.print_multiple_times("Hello!", 3)
 ### Reduce and map algorithms
 Let’s now see how we can use the power of recursion to sum a list of numbers:
 
-```
+```elixir
 defmodule Math do
   def sum_list([head | tail], accumulator) do
     sum_list(tail, head + accumulator)
@@ -584,7 +584,7 @@ IO.puts Math.sum_list([1, 2, 3], 0) #=> 6
 
 What if we instead want to double all of the values in our list?
 
-```
+```elixir
 defmodule Math do
   def double_each([head | tail]) do
     [head * 2 | double_each(tail)]
@@ -596,7 +596,7 @@ defmodule Math do
 end
 ```
 
-```
+```elixir
 $ iex math.exs
 iex> Math.double_each([1, 2, 3]) #=> [2, 4, 6]
 ```
@@ -605,7 +605,7 @@ Here we have used recursion to traverse a list, doubling each element and return
 
 Recursion and [tail call](https://en.wikipedia.org/wiki/Tail_call) optimization are an important part of Elixir. **However, when programming in Elixir you will rarely use recursion as above.** The `Enum` [module](http://elixir-lang.org/docs/stable/elixir/Enum.html), (next chapter), already provides many conveniences for working with lists. For instance, the examples above could be written as:
 
-```
+```elixir
 iex> Enum.reduce([1, 2, 3], 0, fn(x, acc) -> x + acc end)
 6
 iex> Enum.map([1, 2, 3], fn(x) -> x * 2 end)
@@ -614,7 +614,7 @@ iex> Enum.map([1, 2, 3], fn(x) -> x * 2 end)
 
 Or, using the capture syntax:
 
-```
+```elixir
 iex> Enum.reduce([1, 2, 3], 0, &+/2)
 6
 iex> Enum.map([1, 2, 3], &(&1 * 2))
@@ -632,7 +632,7 @@ iex> Enum.map([1, 2, 3], &(&1 * 2))
 
  BTW, Elixir also provides ranges:
 
-```
+```elixir
 iex> Enum.map(1..3, fn x -> x * 2 end)
 [2, 4, 6]
 iex> Enum.reduce(1..3, 0, &+/2)
@@ -642,7 +642,7 @@ iex> Enum.reduce(1..3, 0, &+/2)
 ### Eager vs Lazy
 All the functions in the `Enum` module are eager. Many functions expect an enumerable and return a list back. This means that when performing multiple operations with `Enum`, each operation is going to generate an intermediate list until we reach the result:
 
-```
+```elixir
 iex> 1..100_000 |> Enum.map(&(&1 * 3)) |> Enum.filter(odd?) |> Enum.sum
 7500000000
 ```
@@ -653,14 +653,14 @@ The `|>` symbol used in the snippet above is the [pipe operator](http://elixir-l
 ### Streams
 As an alternative to `Enum`, Elixir provides [the `Stream` module](http://elixir-lang.org/docs/stable/elixir/Stream.html) which supports lazy operations:
 
-```
+```elixir
 iex> 1..100_000 |> Stream.map(&(&1 * 3)) |> Stream.filter(odd?) |> Enum.sum
 7500000000
 ```
 
 In the example above, `1..100_000 |> Stream.map(&(&1 * 3))` returns a data type, an actual stream, that represents the `map` computation over the range `1..100_000`. Furthermore, they are composable because we can pipe many stream operations:
 
-```
+```elixir
 iex> 1..100_000 |> Stream.map(&(&1 * 3)) |> Stream.filter(odd?)
 #Stream<[enum: 1..100000, funs: [...]]>
 ```
@@ -669,7 +669,7 @@ Instead of generating intermediate lists, streams build a series of computations
 
 It also provides functions for creating streams. For example, `Stream.cycle/1` can be used to create a stream that cycles a given enumerable infinitely:
 
-```
+```elixir
 iex> stream = Stream.cycle([1, 2, 3])
 #Function<15.16982430/2 in Stream.cycle/1>
 iex> Enum.take(stream, 10)
@@ -678,7 +678,7 @@ iex> Enum.take(stream, 10)
 
 Another interesting function is `Stream.resource/3` which can be used to wrap around resources, guaranteeing they are opened right before enumeration and closed afterwards, even in the case of failures. For example, we can use it to stream a file:
 
-```
+```elixir
 iex> stream = File.stream!("path/to/file")
 #Function<18.16982430/2 in Stream.resource/3>
 iex> Enum.take(stream, 10)
@@ -694,7 +694,7 @@ In Elixir, all code runs inside processes. Processes are isolated from each othe
 ### `spawn`
 The basic mechanism for spawning new processes is with the auto-imported `spawn/1` function:
 
-```
+```elixir
 iex> pid = spawn fn -> 1 + 2 end
 #PID<0.43.0>
 iex> Process.alive?(pid)
@@ -706,7 +706,7 @@ We can retrieve the PID of the current process by calling `self/0`.
 ### `send` and `receive`
 We can send messages to a process with `send/2` and receive them with `receive/1`:
 
-```
+```elixir
 iex> send self(), {:hello, "world"}
 {:hello, "world"}
 iex> receive do
@@ -720,7 +720,7 @@ When a message is sent to a process, the message is stored in the process mailbo
 
 If there is no message in the mailbox matching any of the patterns, the current process will wait until a matching message arrives. A timeout can also be specified (A timeout of `0` can be given when you already expect the message to be in the mailbox):
 
-```
+```elixir
 iex> receive do
 ...>   {:hello, msg}  -> msg
 ...> after
@@ -731,7 +731,7 @@ iex> receive do
 
 Let’s put it all together and send messages between processes:
 
-```
+```elixir
 iex> parent = self()
 #PID<0.41.0>
 iex> spawn fn -> send(parent, {:hello, self()}) end
@@ -744,7 +744,7 @@ iex> receive do
 
 While in the shell, you may find the helper `flush/0` quite useful. It flushes and prints all the messages in the mailbox.
 
-```
+```elixir
 iex> send self(), :hello
 :hello
 iex> flush()
@@ -755,7 +755,7 @@ iex> flush()
 ### Links
 The most common form of spawning in Elixir is actually via `spawn_link/1`. Before we show an example with `spawn_link/1`, let’s try to see what happens when a process fails:
 
-```
+```elixir
 iex> spawn fn -> raise "oops" end
 #PID<0.58.0>
 
@@ -766,7 +766,7 @@ iex> spawn fn -> raise "oops" end
 
 It merely logged an error but the spawning process is still running. That’s because processes are isolated. If we want the failure in one process to propagate to another one, we should link them. This can be done with `spawn_link/1`:
 
-```
+```elixir
 iex> spawn_link fn -> raise "oops" end
 #PID<0.41.0>
 
@@ -784,7 +784,7 @@ While other languages would require us to catch/handle exceptions, in Elixir we 
 ### Tasks
 Tasks build on top of the spawn functions to provide better error reports and introspection:
 
-```
+```elixir
 iex(1)> Task.start fn -> raise "oops" end
 {:ok, #PID<0.55.0>}
 
@@ -804,7 +804,7 @@ We haven’t talked about state so far in this guide. If you are building an app
 
 Processes are the most common answer to this question. We can write processes that loop infinitely, maintain state, and send and receive messages. As an example, let’s write a module that starts new processes that work as a key-value store in a file named `kv.exs`:
 
-```
+```elixir
 defmodule KV do
   def start_link do
     Task.start_link(fn -> loop(%{}) end)
@@ -824,7 +824,7 @@ end
 
 Let’s give it a try by running `$ iex kv.exs`:
 
-```
+```elixir
 iex> {:ok, pid} = KV.start_link
 #PID<0.62.0>
 iex> send pid, {:get, :hello, self()}
@@ -836,7 +836,7 @@ nil
 
 At first, the process map has no keys, so sending a `:get` message and then flushing the current process inbox returns `nil`. Let’s send a `:put` message and try it again:
 
-```
+```elixir
 iex> send pid, {:put, :hello, :world}
 {:put, :hello, :world}
 iex> send pid, {:get, :hello, self()}
@@ -850,7 +850,7 @@ Notice how the process is keeping a state and we can get and update this state b
 
 It is also possible to register the `pid`, giving it a name, and allowing everyone that knows the name to send it messages:
 
-```
+```elixir
 iex> Process.register(pid, :kv)
 true
 iex> send :kv, {:get, :hello, self()}
@@ -862,7 +862,7 @@ iex> flush
 
 Using processes around state and name registering are very common patterns in Elixir applications. However, most of the time, we won’t implement those patterns manually as above, but by using one of the many abstractions that ship with Elixir. For example, Elixir provides [agents](http://elixir-lang.org/docs/stable/elixir/Agent.html), which are simple abstractions around state:
 
-```
+```elixir
 iex> {:ok, pid} = Agent.start_link(fn -> %{} end)
 {:ok, #PID<0.72.0>}
 iex> Agent.update(pid, fn map -> Map.put(map, :hello, :world) end)
@@ -878,7 +878,7 @@ A `:name` option could also be given to `Agent.start_link/2` and it would be aut
 
 The IO module is the main mechanism in Elixir for reading and writing to standard input/output (`:stdio`), standard error (`:stderr`), files and other IO devices. Usage of the module is pretty straightforward:
 
-```
+```elixir
 iex> IO.puts "hello world"
 hello world
 :ok
@@ -889,7 +889,7 @@ yes or no? yes
 
 By default, functions in the `IO` module read from the standard input and write to the standard output. We can change that by passing, for example, `:stderr` as an argument (in order to write to the standard error device):
 
-```
+```elixir
 iex> IO.puts :stderr, "hello world"
 hello world
 :ok
@@ -898,7 +898,7 @@ hello world
 ### The `File` module
 The `File` module contains functions that allow us to open files as IO devices. By default, files are opened in binary mode, which requires developers to use the specific `IO.binread/2` and `IO.binwrite/2` functions from the `IO` module:
 
-```
+```elixir
 iex> {:ok, file} = File.open "hello", [:write]
 {:ok, #PID<0.47.0>}
 iex> IO.binwrite file, "world"
@@ -913,7 +913,7 @@ A file can also be opened with `:utf8` encoding, which tells the `File` module t
 
 It also provides Unix like functions: `File.rm/1`, `File.mkdir/1`, `File.mkdir_p/1`, etc. (Checkout the [module documentation](http://elixir-lang.org/docs/stable/elixir/File.html)) Notice the variations with a trailing bang `!`.
 
-```
+```elixir
 iex> File.read "hello"
 {:ok, "world"}
 iex> File.read! "hello"
@@ -926,7 +926,7 @@ iex> File.read! "unknown"
 
 Notice that when the file does not exist, the version with `!` raises an error. The version without `!` is preferred when you want to handle different outcomes using pattern matching:
 
-```
+```elixir
 case File.read(file) do
   {:ok, body}      -> # do something with the `body`
   {:error, reason} -> # handle the error caused by `reason`
@@ -940,7 +940,7 @@ Therefore, if you don’t want to handle the error outcomes, prefer using `File.
 ### The `Path` module
 The majority of the functions in the `File` module expect paths as arguments. Most commonly, those paths will be regular binaries. The [Path](http://elixir-lang.org/docs/stable/elixir/Path.html) module provides facilities for working with such paths:
 
-```
+```elixir
 iex> Path.join("foo", "bar")
 "foo/bar"
 iex> Path.expand("~/hello")
@@ -952,7 +952,7 @@ By modelling IO devices with processes, the Erlang VM allows different nodes in 
 
 When you write to `:stdio`, you are actually sending a message to the group leader, which writes to the standard-output file descriptor:
 
-```
+```elixir
 iex> IO.puts :stdio, "hello"
 hello
 :ok
@@ -966,7 +966,7 @@ The group leader can be configured per process and is used in different situatio
 ## `alias`, `require` and `import`
 * * *
 
-```
+```elixir
 # Alias the module so it can be called as Bar instead of Foo.Bar
 alias Foo.Bar, as: Bar
 
@@ -984,7 +984,7 @@ We are going to explore them in detail now. Keep in mind the first three are cal
 
 ### `alias`
 
-```
+```elixir
 defmodule Math do
   alias Math.List, as: List
 end
@@ -992,7 +992,7 @@ end
 
 From now on, any reference to `List` will automatically expand to `Math.List`. In case one wants to access the original `List`, it can be done by prefixing the module name with `Elixir.`:
 
-```
+```elixir
 List.flatten             #=> uses Math.List.flatten
 Elixir.List.flatten      #=> uses List.flatten
 Elixir.Math.List.flatten #=> uses Math.List.flatten
@@ -1002,7 +1002,7 @@ Elixir.Math.List.flatten #=> uses Math.List.flatten
 
 Note that alias is lexically scoped, which allows you to set aliases inside specific functions:
 
-```
+```elixir
 defmodule Math do
   def plus(a, b) do
     alias Math.List
@@ -1018,7 +1018,7 @@ end
 ### `require`
 In order to use a macro, we need to guarantee its module and implementation are available during compilation. This is done with the require directive:
 
-```
+```elixir
 iex> Integer.is_odd(3)
 ** (CompileError) iex:1: you must require Integer before invoking the macro Integer.is_odd/1
 iex> require Integer
@@ -1032,7 +1032,7 @@ Note that like the `alias` directive, `require` is also **lexically scoped**.
 ### `import`
 We use `import` whenever we want to easily access functions or macros from other modules without using the fully-qualified name. For instance, if we want to use the `duplicate/2` function from the `List` module several times, we can import it:
 
-```
+```elixir
 iex> import List, only: [duplicate: 2]
 List
 iex> duplicate :ok, 3
@@ -1044,7 +1044,7 @@ iex> duplicate :ok, 3
 
 Note that `import` is **lexically scoped** too. This means that we can import specific macros or functions inside function definitions:
 
-```
+```elixir
 defmodule Math do
   def some_function do
     import List, only: [duplicate: 2]
@@ -1060,7 +1060,7 @@ Although not a directive, `use` is a macro tightly related to `require` that all
 
 For example, in order to write tests using the ExUnit framework, a developer should use the `ExUnit.Case module`:
 
-```
+```elixir
 defmodule AssertionTest do
   use ExUnit.Case, async: true
 
@@ -1087,7 +1087,7 @@ Elixir has a handful of reserved attributes. Here are a few of them, the most co
 
 ### As constants
 
-```
+```elixir
 defmodule MyServer do
   @initial_state %{host: "147.0.0.1", port: 3456}
   IO.inspect @initial_state
@@ -1098,7 +1098,7 @@ end
 
 Attributes can also be read inside functions:
 
-```
+```elixir
 defmodule MyServer do
   @my_data 14
   def first_data, do: @my_data
@@ -1115,7 +1115,7 @@ MyServer.second_data #=> 13
 ### As temporary storage
 Attributes can be used to do so. The [ExUnit framework](http://elixir-lang.org/docs/stable/ex_unit/) which uses module attributes as annotation and storage:
 
-```
+```elixir
 defmodule MyTest do
   use ExUnit.Case
 
@@ -1131,7 +1131,7 @@ end
 
 Structs are extensions built on top of maps that provide compile-time checks and default values.
 
-```
+```elixir
 iex> defmodule User do
 ...>   defstruct name: "John", age: 27
 ...> end
@@ -1139,7 +1139,7 @@ iex> defmodule User do
 
 Structs take the name of the module they’re defined in. In the example above, we defined a struct named `User`. Let's create one so:
 
-```
+```elixir
 iex> %User{}
 %User{age: 27, name: "John"}
 iex> %User{name: "Meg"}
@@ -1148,7 +1148,7 @@ iex> %User{name: "Meg"}
 
 To access and update:
 
-```
+```elixir
 iex> john = %User{}
 %User{age: 27, name: "John"}
 iex> john.name
@@ -1163,7 +1163,7 @@ When using the update syntax (`|`), the VM is aware that no new keys will be add
 
 Structs can also be used in pattern matching, both for matching on the value of specific keys as well as for ensuring that the matching value is a struct of the same type as the matched value.
 
-```
+```elixir
 iex> %User{name: name} = john
 %User{age: 27, name: "John"}
 iex> name
@@ -1183,7 +1183,7 @@ Protocols are a mechanism to achieve polymorphism in Elixir. Dispatching on a pr
 
 Let's implement that to specify a `blank?` protocol that returns a boolean for other data types that should be considered blank.
 
-```
+```elixir
 defprotocol Blank do
   @doc "Returns true if data is considered blank/empty"
   def blank?(data)
@@ -1192,7 +1192,7 @@ end
 
 The protocol expects a function called `blank?` that receives one argument to be implemented. We can implement this protocol for different Elixir data types as follows:
 
-```
+```elixir
 # Integers are never blank
 defimpl Blank, for: Integer do
   def blank?(_), do: false
@@ -1220,7 +1220,7 @@ defimpl Blank, for: Atom do
 end
 ```
 
-```
+```elixir
 iex> Blank.blank?(0)
 false
 iex> Blank.blank?([])
@@ -1247,13 +1247,13 @@ Manually implementing protocols for all types can quickly become repetitive and 
 
 ### Deriving
 
-```
+```elixir
 defimpl Blank, for: Any do
   def blank?(_), do: false
 end
 ```
 
-```
+```elixir
 defmodule DeriveUser do
   @derive Blank
   defstruct name: "john", age: 27
@@ -1263,7 +1263,7 @@ end
 ### Fallback to `Any`
 Another alternative to `@derive` is to explicitly tell the protocol to fallback to `Any` when an implementation cannot be found. This can be achieved by setting `@fallback_to_any` to `true` in the protocol definition:
 
-```
+```elixir
 defprotocol Blank do
   @fallback_to_any true
   def blank?(data)
@@ -1275,7 +1275,7 @@ end
 
 Declared by `for`:
 
-```
+```elixir
 # Map a list of integers into their squared values.
 iex> for n <- [1, 2, 3, 4], do: n * n
 [1, 4, 9, 16]
@@ -1286,14 +1286,14 @@ iex> for n <- [1, 2, 3, 4], do: n * n
 ### Generators and filters
 In the expression above, `n <- [1, 2, 3, 4]` is the **generator**. It is literally generating values to be used in the comprehension. Any enumerable can be passed in the right-hand side of the generator expression:
 
-```
+```elixir
 iex> for n <- 1..4, do: n * n
 [1, 4, 9, 16]
 ```
 
 It also supports pattern matching:
 
-```
+```elixir
 iex> values = [good: 1, good: 2, bad: 3, good: 4]
 iex> for {:good, n} <- values, do: n * n
 [1, 4, 16]
@@ -1301,7 +1301,7 @@ iex> for {:good, n} <- values, do: n * n
 
 Alternatively to pattern matching, filters can be used to select some particular elements:
 
-```
+```elixir
 iex> multiple_of_3? = fn(n) -> rem(n, 3) == 0 end
 iex> for n <- 0..5, multiple_of_3?.(n), do: n * n
 [0, 9]
@@ -1309,7 +1309,7 @@ iex> for n <- 0..5, multiple_of_3?.(n), do: n * n
 
 Comprehensions also allow multiple generators and filters to be given. Here is an example that receives a list of directories and gets the size of each file in those directories:
 
-```
+```elixir
 for dir  <- dirs,
     file <- File.ls!(dir),
     path = Path.join(dir, file),
@@ -1320,14 +1320,14 @@ end
 
 Calculating the cartesian product of two lists:
 
-```
+```elixir
 iex> for i <- [:a, :b, :c], j <- [1, 2], do:  {i, j}
 [a: 1, a: 2, b: 1, b: 2, c: 1, c: 2]
 ```
 
 A more advanced example of multiple generators and filters is Pythagorean triples. A Pythagorean triple is a set of positive integers such that `a*a + b*b = c*c`, let’s write a comprehension in a file named `triple.exs`:
 
-```
+```elixir
 defmodule Triple do
   def pythagorean(n) when n > 0 do
     for a <- 1..n,
@@ -1342,7 +1342,7 @@ end
 
 Outputs:
 
-```
+```elixir
 $ iex triple.exs
 iex> Triple.pythagorean(5)
 []
@@ -1355,7 +1355,7 @@ iex> Triple.pythagorean(48)
 
  Take a closer look on how it performs without filters:
 
-```
+```elixir
  defmodule Triple do
   def pythagorean(n) when n > 0 do
     for a <- 1..n,
@@ -1370,7 +1370,7 @@ Triple.pythagorean(10)
 
 Outputs:
 
-```
+```elixir
 $ elixir triple.exs
 1 1 1
 1 1 2
@@ -1394,7 +1394,7 @@ Is one of the mechanisms provided by the language for working with textual repre
 
 The most common sigil in Elixir is `~r`, which is used to create [regular expressions](https://en.wikipedia.org/wiki/Regular_Expressions):
 
-```
+```elixir
 # A regular expression that matches strings which contain "foo" or "bar":
 iex> regex = ~r/foo|bar/
 ~r/foo|bar/
@@ -1406,7 +1406,7 @@ false
 
 So far, all examples have used `/` to delimit a regular expression. However sigils support 8 different delimiters:
 
-```
+```elixir
 ~r/hello/
 ~r|hello|
 ~r"hello"
@@ -1420,28 +1420,28 @@ So far, all examples have used `/` to delimit a regular expression. However sigi
 ### Strings
 The `~s` sigil is used to generate strings, like double quotes are. The `~s` sigil is useful, for example, when a string contains both double and single quotes:
 
-```
+```elixir
 iex> ~s(this is a string with "double" quotes, not 'single' ones)
 "this is a string with \"double\" quotes, not 'single' ones"
 ```
 
 ### Char lists
 
-```
+```elixir
 iex> ~c(this is a char list containing 'single quotes')
 'this is a char list containing \'single quotes\''
 ```
 
 ### Word lists (words are just regular strings)
 
-```
+```elixir
 iex> ~w(foo bar bat)
 ["foo", "bar", "bat"]
 ```
 
 The `~w` sigil also accepts the `c`, `s` and `a` modifiers (for char lists, strings and atoms, respectively), which specify the data type of the elements of the resulting list:
 
-```
+```elixir
 iex> ~w(foo bar bat)a
 [:foo, :bar, :bat]
 ```
@@ -1449,7 +1449,7 @@ iex> ~w(foo bar bat)a
 ### Interpolation and escaping in sigils
 Besides lowercase sigils, Elixir supports uppercase sigils to deal with escaping characters and interpolation.
 
-```
+```elixir
 iex> ~s(String with escape codes \x26 #{"inter" <> "polation"})
 "String with escape codes & interpolation"
 iex> ~S(String without escape codes \x26 without #{interpolation})
@@ -1477,7 +1477,7 @@ The following escape codes can be used in strings and char lists:
 
 Also supports herecods:
 
-```
+```elixir
 iex> ~s"""
 ...> this is
 ...> a heredoc string
@@ -1486,7 +1486,7 @@ iex> ~s"""
 
 Writing escape characters in documentation would soon become error prone because of the need to double-escape some characters. By using `~S`, this problem can be avoided altogether:
 
-```
+```elixir
 @doc ~S"""
 Converts double-quotes to single-quotes.
 
@@ -1502,7 +1502,7 @@ def convert(...)
 ### Custom sigils
 We can also provide our own sigils by implementing functions that follow the `sigil_{identifier}` pattern. For example, let’s implement the `~i` sigil that returns an integer (with the optional `n` modifier to make it negative):
 
-```
+```elixir
 iex> defmodule MySigils do
 ...>   def sigil_i(string, []), do: String.to_integer(string)
 ...>   def sigil_i(string, [?n]), do: -String.to_integer(string)
@@ -1522,7 +1522,7 @@ Sigils can also be used to do compile-time work with the help of macros. For exa
 ### Errors
 Errors (or *exceptions*) are used when exceptional things happen in the code. A sample error can be retrieved by trying to add a number into an atom:
 
-```
+```elixir
 iex> :foo + 1
 ** (ArithmeticError) bad argument in arithmetic expression
      :erlang.+(:foo, 1)
@@ -1530,21 +1530,21 @@ iex> :foo + 1
 
 A runtime error can be raised any time by using `raise/1`:
 
-```
+```elixir
 iex> raise "oops"
 ** (RuntimeError) oops
 ```
 
 Other errors can be raised with `raise/2` passing the error name and a list of keyword arguments:
 
-```
+```elixir
 iex> raise ArgumentError, message: "invalid argument foo"
 ** (ArgumentError) invalid argument fo
 ```
 
 You can also define your own errors by creating a module and using the `defexception` construct inside it; this way, you’ll create an error with the same name as the module it’s defined in. The most common case is to define a custom exception with a message field:
 
-```
+```elixir
 iex> defmodule MyError do
 iex>   defexception message: "default message"
 iex> end
@@ -1556,7 +1556,7 @@ iex> raise MyError, message: "custom message"
 
 Errors can be **rescued** using the `try/rescue` construct:
 
-```
+```elixir
 iex> try do
 ...>   raise "oops"
 ...> rescue
@@ -1567,7 +1567,7 @@ iex> try do
 
 If you don’t have any use for the error, you don’t have to provide it:
 
-```
+```elixir
 iex> try do
 ...>   raise "oops"
 ...> rescue
@@ -1583,7 +1583,7 @@ In Elixir, a value can be thrown and later be caught. `throw` and `catch` are re
 
 Those situations are quite uncommon in practice except when interfacing with libraries that do not provide a proper API. For example, let’s imagine the `Enum` module did not provide any API for finding a value and that we needed to find the first multiple of 13 in a list of numbers:
 
-```
+```elixir
 iex> try do
 ...>   Enum.each -50..50, fn(x) ->
 ...>     if rem(x, 13) == 0, do: throw(x)
@@ -1597,7 +1597,7 @@ iex> try do
 
 Since `Enum` **does** provide a proper API, in practice `Enum.find/2` is the way to go:
 
-```
+```elixir
 iex> Enum.find -50..50, &(rem(&1, 13) == 0)
 -39
 ```
@@ -1605,7 +1605,7 @@ iex> Enum.find -50..50, &(rem(&1, 13) == 0)
 ### Exits
 All Elixir code runs inside processes that communicate with each other. When a process dies of “natural causes” (e.g., unhandled exceptions), it sends an exit signal. A process can also die by explicitly sending an `exit` signal:
 
-```
+```elixir
 iex> spawn_link fn -> exit(1) end
 #PID<0.56.0>
 ** (EXIT from #PID<0.56.0>) 1
@@ -1613,7 +1613,7 @@ iex> spawn_link fn -> exit(1) end
 
 `exit` can also be “caught” using `try/catch`:
 
-```
+```elixir
 iex> try do
 ...>   exit "I am exiting"
 ...> catch
@@ -1627,7 +1627,7 @@ iex> try do
 ### After
 Sometimes it’s necessary to ensure that a resource is cleaned up after some action that could potentially raise an error. The `try/after` construct allows you to do that. For example, we can open a file and use an `after` clause to close it–even if something goes wrong:
 
-```
+```elixir
 iex> {:ok, file} = File.open "sample", [:utf8, :write]
 iex> try do
 ...>   IO.write file, "olá"
@@ -1640,7 +1640,7 @@ iex> try do
 
 Sometimes you may want to wrap the entire body of a function in a `try` construct, often to guarantee some code will be executed afterwards. In such cases, Elixir allows you to omit the `try` line:
 
-```
+```elixir
 iex> defmodule RunAfter do
 ...>   def without_even_trying do
 ...>     raise "oops"
@@ -1664,14 +1664,14 @@ It's used for:
 
 #### Function specifications
 
-```
+```elixir
 @spec round(number) :: integer
 def round(number), do: # implementation...
 ```
 
 #### Defining custom types
 
-```
+```elixir
 defmodule LousyCalculator do
   @typedoc """
   Just a number followed by a string.
@@ -1688,7 +1688,7 @@ end
 
 Custom types defined through `@type` are exported and available outside the module they’re defined in:
 
-```
+```elixir
 defmodule QuietCalculator do
   @spec add(number, number) :: number
   def add(x, y), do: make_quiet(LousyCalculator.add(x, y))
@@ -1711,7 +1711,7 @@ Behaviours provide a way to:
 
 #### Defining behaviours
 
-```
+```elixir
 defmodule Parser do
   @callback parse(String.t) :: any
   @callback extensions() :: [String.t]
@@ -1722,7 +1722,7 @@ Modules adopting the `Parser` behaviour will have to implement all the functions
 
 Adopting a behaviour is straightforward:
 
-```
+```elixir
 defmodule JSONParser do
   @behaviour Parser
 
@@ -1731,7 +1731,7 @@ defmodule JSONParser do
 end
 ```
 
-```
+```elixir
 defmodule YAMLParser do
   @behaviour Parser
 
@@ -1754,7 +1754,7 @@ Elixir does not contain a function similar to `printf` found in C and other lang
 ### The crypto module
 [The crypto module](http://erlang.org/doc/man/crypto.html) contains hashing functions, digital signatures, encryption and more:
 
-```
+```elixir
 iex> Base.encode16(:crypto.hash(:sha256, "Elixir"))
 "3315715A7A3AD57428298676C5AE465DADA38D951BDFAC9348A8A31E9C7401CB"
 ```
@@ -1771,7 +1771,7 @@ ETS lets you create a table containing tuples. By default, ETS tables are protec
 
 The functions in the `ets` module will modify the state of the table as a side-effect.
 
-```
+```elixir
 iex> table = :ets.new(:ets_test, [])
 # Store as tuples with {name, population}
 iex> :ets.insert(table, {"China", 1_374_000_000})
@@ -1789,7 +1789,7 @@ iex> :ets.i(table)
 ### The queue module
 [The `queue`](http://erlang.org/doc/man/queue.html) is a data structure that implements (double-ended) FIFO (first-in first-out) queues efficiently:
 
-```
+```elixir
 iex> q = :queue.new
 iex> q = :queue.in("A", q)
 iex> q = :queue.in("B", q)
@@ -1807,7 +1807,7 @@ iex> value
 ### The rand module
 [`rand` has functions](http://erlang.org/doc/man/rand.html) for returning random values and setting the random seed.
 
-```
+```elixir
 iex> :rand.uniform()
 0.8175669086010815
 iex> _ = :rand.seed(:exs1024, {123, 123534, 345345})

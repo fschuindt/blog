@@ -19,7 +19,7 @@ Which according with this [list](https://oeis.org/A000045/b000045.txt), is fine:
 A cool (and unrelated) fact is that it uses the [Golden Ratio](https://en.wikipedia.org/wiki/Golden_ratio) in the calculation `(1 + √5) / 2`, and what seems a reverse form of it `(1 - √5) / 2`.
 
 So, the formula I've described as:
-```
+```elixir
 defmodule FibonacciCalculus do
   @golden_n :math.sqrt(5)
 
@@ -50,7 +50,7 @@ I want to give Elixir a sequential integer list, in this case from `1` to `1474`
 I should end up with a unordered result, as reflect of the concurrent computation.
 
 So, I've described the module:
-```
+```elixir
 defmodule ConcurrentFibonacci do
   def start do
     parallel_map(1..1474, fn(x) ->
@@ -84,7 +84,7 @@ Fibonacci of 1470 is: 7.28360130920199e306
 ```
 
 In an attempt to go deeper, instead of using the `1..1474` list, I'm using the following function:
-```
+```elixir
 def list do
   Enum.take(Stream.cycle(1..1474), 10_000)
 end
