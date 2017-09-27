@@ -1,6 +1,6 @@
 comments:
   allowedFields: ["name", "email", "url", "comment"]
-  branch: "master"
+  branch: "gh-pages"
   commitMessage: "Add Staticman comment"
   filename: "entry{@timestamp}"
   format: "yaml"
