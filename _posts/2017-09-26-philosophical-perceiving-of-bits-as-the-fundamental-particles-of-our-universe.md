@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Philosophical Perceiving Of Bits As The Fundamental Particles Of Our Universe
-published: false
 ---
+
+![Part of: Les Tres Riches Heures du Duc de Berry](https://s1.postimg.org/5uccc36axr/de_berry.jpg)
+
+## Off-topic
 
 Modern physics describe our Universe as built of *[Fundamental Particles](https://en.wikipedia.org/wiki/Elementary_particle)*. In 1814, the French mathematician, physicist and astronomer [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) stated:
 
@@ -14,11 +17,15 @@ Knowing each one of the fundamental particles of our Universe, where they are an
 
 ![Standard Model of Elementary Particles](https://s26.postimg.org/5vjbyv0bd/1024px-_Standard_Model_of_Elementary_Particles.jpg)
 
-**This raises us questions about the capability of create a digital/simulated Universe**: You may say we already live in a simulation just like Matrix (wich satisfies the [Simulation Hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)), or that we live in a real* world. But none of those conditions remove us the possibility of create ourselves a Universe simulation inside this one.
+Thinking about it raises me questions about the capability of creating a digital/simulated Universe.
+
+You may say we already live in a simulation just like Matrix (which satisfies the [Simulation Hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)), or we live in a *real* world. But none of those conditions remove us the possibility of creating ourselves a Universe simulation inside this one.
 
 Once you know the nature of everything in a system, you can compute it. Incomputable programs only exists when some information is missing. That means everything in the Universe is computable, we just don't have the information.
 
-But from here we all must agree that consciousness (human thinking, emotions, imagination) is also computable. It fits inside a `(x, y, z)` dimensioned brain, which is inside this universe, no need to wonder. But we may be separated here, no matter what you believe in, if we aren't in agreement with each other, it's due to religion/beliefs. I just want you to know that.
+But from here we all must agree that consciousness (human thinking, emotions, imagination) is also computable. It fits inside a `(x, y, z)` dimensioned brain, which is inside this universe, no need to wonder.
+
+No matter what you believe in, if we aren't in agreement with each other, it's due to some kind of religion/spiritual thing.
 
 If you assume:
 + It's indeed possible.
@@ -29,7 +36,9 @@ Then:
 + You assume every *Fundamental Particle* can be described in terms of 0 and 1.
 
 So the real *Fundamental Particles* of the Universe can be perceived as **0** and **1**.  
-The minimal components to describe it.
+The minimal components to describe all the other particles(?).
+
+That's a big question.
 
 Now I see myself in the obligation to quote this part of the [Yin and yang Wikipedia page](https://en.wikipedia.org/wiki/Yin_and_yang):
 >In Chinese philosophy, yin and yang (陰陽 yīnyáng, lit. "dark-bright", "negative-positive") describe how seemingly opposite or contrary forces may actually be complementary, interconnected, and interdependent in the natural world, and how they may give rise to each other as they interrelate to one another.
@@ -38,7 +47,9 @@ Nature seems to replicate itself in different scales, from galaxies, moons, part
 
 ### Clarifying the Uncertainty Principle
 
-Some people thinks that in Quantum Mechanics particles (and/or information) are created from nothing or just to please the observer. This is wrong. The Uncertainty Principle exists because we don't posses a device to measure things in subatomic level without interact with the system. To look to a particle using something like (let's say) an optic microscope, you will need to fire light to the particle so it reflects its image back to you. But the photon will interact with the particle and will change its state. So the measurement is uncertain.
+Some people thinks that in Quantum Mechanics particles (and/or information) are created from nothing or just to please the observer. This is wrong. The Uncertainty Principle exists because we don't posses a device to proceed those measurements in subatomic level without interacting with the system.
+
+To look to a particle using something like (let's say) an optic microscope, you will need to fire light to the particle so it reflects its image back to you. But the photon will interact with the particle and will change its state. So the measurement is uncertain.
 
 
 #### References
@@ -51,3 +62,7 @@ In order of relevance.
 + [Heisenberg's Microscope](https://www.youtube.com/watch?v=dgoA_jmGIcA) [VIDEO]
 + [Single Photon Interference](https://www.youtube.com/watch?v=GzbKb59my3U) [VIDEO]
 + [Why Black Holes Could Delete The Universe – The Information Paradox](https://www.youtube.com/watch?v=yWO-cvGETRQ) [VIDEO]
+
+#### Illustrations
++ A part of *Les Tres Riches Heures du Duc de Berry* from the *Books of Hours*.
++ Standard Model of Elementary Particles from [Wikipedia](https://en.wikipedia.org/wiki/Standard_Model#/media/File:Standard_Model_of_Elementary_Particles.svg).
