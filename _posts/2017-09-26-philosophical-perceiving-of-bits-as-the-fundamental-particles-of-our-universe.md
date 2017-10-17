@@ -47,7 +47,7 @@ Nature seems to replicate itself in different scales, from galaxies, moons, part
 
 ### Clarifying the Uncertainty Principle
 
-Some people thinks that in Quantum Mechanics particles (and/or information) are created from nothing or just to please the observer. This is wrong. The Uncertainty Principle exists because we don't posses a device to proceed those measurements in subatomic level without interacting with the system.
+Some people think that in Quantum Mechanics particles (and/or information) are created from nothing or just to please the observer. This is wrong. The Uncertainty Principle exists because we don't posses a device to proceed those measurements in subatomic level without interacting with the system.
 
 To look to a particle using something like (let's say) an optic microscope, you will need to fire light to the particle so it reflects its image back to you. But the photon will interact with the particle and will change its state. So the measurement is uncertain.
 
