@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About The Author
+title: The Author
 ---
 
 * * *
 
 <div style="width: 100%">
-  <img style="width: 30%; float: left;" src="https://s12.postimg.org/yu9m4mwd9/fernando_schuindt_blog.png" alt="Fernando Schuindt picture" />
+  <img style="width: 30%; float: left;" src="https://s10.postimg.org/4dtndycah/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, 26 years old Brazilian, software developer at <a href="http://www.quezmedia.com/">QuézMedia</a>, bassist and amateur
-    chess player. That's (in part) me.</p>
+    <p><strong>Fernando Schuindt</strong>, 26 years old, Brazilian.<br />
+    7 years of professional experience in back-end, mostly Ruby.<br />
+    Learning code for 14 years.</p>
 
-    <p>I made this blog willing to capture and log thoughts and ideas during my journey through computer science.</p>
+    <p>Software developer at <a href="http://nexaas.com//">Nexaas</a>, Rio de Janeiro.</p>
+
+    <p>This blog is willing to capture and log thoughts and ideas during my journey through computer science.</p>
   </div>
 
   <div style="clear: both;">
@@ -28,7 +31,7 @@ title: About The Author
 + *fschuindt* at irc.freenode.net
 
 <div style="height: 30px;"></div>
-Check my Twitter list on Elixir: [https://twitter.com/fschuindt/lists/elixir](https://twitter.com/fschuindt/lists/elixir)
+My Twitter list on Elixir: [https://twitter.com/fschuindt/lists/elixir](https://twitter.com/fschuindt/lists/elixir)
 
 <div style="height: 20px;"></div>
 <h3>Contact me</h3>
