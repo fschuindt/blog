@@ -6,7 +6,7 @@ title: The Author
 * * *
 
 <div style="width: 100%">
-  <img style="width: 30%; float: left;" src="https://s10.postimg.org/4dtndycah/fschuindt.jpg" alt="Fernando Schuindt picture" />
+  <img style="width: 30%; float: left;" src="https://s10.postimage.org/4dtndycah/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
     <p><strong>Fernando Schuindt</strong>, 26 years old, Brazilian.<br />
@@ -36,7 +36,7 @@ My Twitter list on Elixir: [https://twitter.com/fschuindt/lists/elixir](https://
 <div style="height: 20px;"></div>
 <h3>Contact me</h3>
 <div style="height: 10px;"></div>
-![Nothing important :)](https://s28.postimg.org/a71hma8yl/bea3d3e1f093ad000f86ee3d6f4d0fcd.png)
+![Nothing important :)](https://s28.postimage.org/a71hma8yl/bea3d3e1f093ad000f86ee3d6f4d0fcd.png)
 And if you wish, here is my PGP:
 
 ```

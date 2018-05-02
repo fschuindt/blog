@@ -4,7 +4,7 @@ title: Concurrent Calculation Of Fibonacci In Elixir
 ---
 
 There's a known formula to evaluate a *n* Fibonacci term position without iteration or recursion.
-![Formula](https://s30.postimg.org/ndks6gohd/fib_formula.jpg)
+![Formula](https://s30.postimage.org/ndks6gohd/fib_formula.jpg)
 
 This formula give us a precise approximation:  
 + Term `n(26) = 121393.00000000009`
@@ -38,7 +38,7 @@ end
 ```
 
 By the way, if you haven't already wondered, after the term `1474` it crashes:  
-![Crash output](https://s26.postimg.org/4g4r3i049/Screen_Shot_2017-09-21_at_02.16.56.png)
+![Crash output](https://s26.postimage.org/4g4r3i049/Screen_Shot_2017-09-21_at_02.16.56.png)
 
 That's because Erlang's `math` module operates only with numbers that can be represented with floating points, and such a big number can't.
 

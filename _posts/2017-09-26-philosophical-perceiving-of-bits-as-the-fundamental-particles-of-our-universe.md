@@ -3,7 +3,7 @@ layout: post
 title: Philosophical Perceiving Of Bits As The Fundamental Particles Of Our Universe
 ---
 
-![Part of: Les Tres Riches Heures du Duc de Berry](https://s1.postimg.org/5uccc36axr/de_berry.jpg)
+![Part of: Les Tres Riches Heures du Duc de Berry](https://s1.postimage.org/5uccc36axr/de_berry.jpg)
 
 ## Off-topic
 
@@ -15,7 +15,7 @@ This philosophical perception became known as the [Laplace's Demon](https://en.w
 
 Knowing each one of the fundamental particles of our Universe, where they are and how they interact with each other is enough to compute the whole past, present and future of everything in it.
 
-![Standard Model of Elementary Particles](https://s26.postimg.org/5vjbyv0bd/1024px-_Standard_Model_of_Elementary_Particles.jpg)
+![Standard Model of Elementary Particles](https://s26.postimage.org/5vjbyv0bd/1024px-_Standard_Model_of_Elementary_Particles.jpg)
 
 Thinking about it raises me questions about the capability of creating a digital/simulated Universe.
 
