@@ -13,7 +13,7 @@ title: The Author
     7 years of professional experience in back-end, mostly Ruby.<br />
     Learning code for 14 years.</p>
 
-    <p>Software developer at <a href="http://nexaas.com//">Nexaas</a>, Rio de Janeiro.</p>
+    <p>Software developer at <a href="https://beautydate.com.br/">Beauty Date</a> (Mainly Elixir), remote from Rio de Janeiro.</p>
 
     <p>This blog is willing to capture and log thoughts and ideas during my journey through computer science.</p>
   </div>
