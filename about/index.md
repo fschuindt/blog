@@ -9,13 +9,12 @@ title: The Author
   <img style="width: 30%; float: left;" src="https://s10.postimage.org/4dtndycah/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, 26 years old, Brazilian.<br />
-    7 years of professional experience in back-end, mostly Ruby.<br />
-    Learning code for 14 years.</p>
+    <p><strong>Fernando Schuindt</strong>, 26 years old, passionate developer with 8 years of experience in professional back-end development, mostly working with Elixir, Ruby on Rails and DevOps.<br />Studying code for 14 years and having a lot of fun with it since the childhood.</p>
+    
+    <p><strong>Hobbies and Interests:</strong> Astronomy, chess, bass guitar, NWOBHM, software defined radio and amateur radio astronomy, physics, mathematics, functional programming, lambda calculus, models of computation, history, philosofy, logic, algebra, geometry, calculus, virtualization, clusters, RPG, electronic, science teaching, almost anything related to space, RC aviaiton models, ArduPilot, ArduSat, Raspberry Pi, woodwork, camping, biology and nature, wifi cracking, telescopes, microscopes and backyard chemistry.</p>
+    
 
-    <p>Software developer at <a href="https://beautydate.com.br/">Beauty Date</a> (Mainly Elixir).<br />Remote from Rio de Janeiro.</p>
-
-    <p>This blog is willing to capture and log thoughts and ideas during my journey through computer science.</p>
+    <p>This blog is willing to capture and log thoughts during my journey through computer science.</p>
   </div>
 
   <div style="clear: both;">
