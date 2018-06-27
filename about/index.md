@@ -9,7 +9,7 @@ title: The Author
   <img style="width: 30%; float: left;" src="https://s10.postimage.org/4dtndycah/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, 26 years old, passionate developer with 8 years of experience in professional back-end development, mostly working with Elixir, Ruby on Rails and DevOps.<br />Studying code for 14 years and having a lot of fun with it since the childhood.</p>
+    <p><strong>Fernando Schuindt</strong>, 26 years old, passionate developer with 8 years of experience in professional back-end development. Mostly working with Elixir, Ruby on Rails and DevOps.<br />I’ve been studying code for 14 years, having a lot of fun with it since my childhood.</p>
     
     <p><strong>Hobbies and Interests:</strong> Astronomy, chess, bass guitar, NWOBHM, software defined radio and amateur radio astronomy, physics, mathematics, functional programming, lambda calculus, models of computation, history, philosophy, logic, algebra, geometry, calculus, virtualization, clusters, RPG, electronic, science teaching, almost anything related to space, RC aviation models, ArduPilot, ArduSat, Raspberry Pi, woodwork, camping, biology and nature, wifi cracking, telescopes, microscopes and backyard chemistry.</p>
     
