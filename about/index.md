@@ -9,33 +9,55 @@ title: The Author
   <img style="width: 30%; float: left;" src="https://s10.postimage.org/4dtndycah/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, 26 years old, passionate developer with 8 years of experience in professional back-end development. Mostly working with Elixir, Ruby on Rails and DevOps.<br />I’ve been studying code for 14 years, having a lot of fun with it since my childhood.</p>
-    
-    <p><strong>Hobbies and Interests:</strong> Astronomy, chess, bass guitar, NWOBHM, software defined radio and amateur radio astronomy, physics, mathematics, functional programming, lambda calculus, models of computation, history, philosophy, logic, algebra, geometry, calculus, virtualization, clusters, RPG, electronic, science teaching, almost anything related to space, RC aviation models, ArduPilot, ArduSat, Raspberry Pi, woodwork, camping, biology and nature, wifi cracking, telescopes, microscopes and backyard chemistry.</p>
-    
-
-    <p>This blog is willing to capture and log thoughts during my journey through computer science.</p>
+    <p><strong>Fernando Schuindt</strong>, 27yo Brazilian.<br />Software Engineer <i>(Elixir)</i> @ <a href="https://foxbox.co/">foxbox.co</a></p>
+    <p>A passionate developer.<br />14 years of codding, 9 years of professional experience.<br /></p>
+    <div style="height: 30px;"></div>
+    <p>Mostly working with back-end and DevOps.<br />Highly experienced with Elixir and Ruby.</p>
+    <p>I do send copies of my <i>resumé</i>, just ask me. (Preferably via e-mail)</p>
   </div>
 
   <div style="clear: both;">
   </div>
 </div>
 
+<div style="height: 60px;"></div>
+<p><i>This <a href="https://fschuindt.github.io/blog/">blog</a> is willing to capture and log thoughts during my journey through computer science.</i></p>
+<div style="height: 30px;"></div>
+
+<p>Right now I'm involved with many parallel projects (mostly weekend projects) besides my full-time job at Foxbox and being the husband of a lovely inspiring woman.</p>
+
+<p>I'm codding a Elixir SaaS named <a href="https://docsh.io/">docsh.io</a>, I'm trying to build a amateur radio-telescope for <a href="https://en.wikipedia.org/wiki/Pulsar">Pulsar</a> detection using SDRs and I'm also working on a table-top chess computer project. In the meantime I'm maintaining three Kubernetes clusters for OTP environments and wondering about loop-quantum-cosmology or anything related with cheap Physics (Math too).</p>
+
+<p>That may work as a excuse for spending the entire 2018 without a single post.</p>
+
+<div style="height: 30px;">
+</div>
+
+Some of my open source projects:  
++ [Toucan, A Ruby framework for CLI applications](https://github.com/fschuindt/toucan)
++ [firebase_id_token, a Ruby Gem for validating Firebase JWT](https://github.com/fschuindt/firebase_id_token)
++ [Amethyst, a GraphQL banking server in Elixir](https://github.com/fschuindt/amethyst)
++ [ExGrams, a n-grams concurrent abstraction in Elixir](https://github.com/fschuindt/exgrams)
++ [kswap, a Bash script for swapping DO Kubernetes config files](https://github.com/fschuindt/kswap)
++ [my Emacs configuration](https://github.com/fschuindt/.emacs.d)
+
 <div style="height: 60px;">
 </div>
 
+And you can find me at:
 + [https://github.com/fschuindt](https://github.com/fschuindt)
++ [https://gitlab.com/fschuindt](https://gitlab.com/fschuindt)
 + [https://twitter.com/fschuindt](https://twitter.com/fschuindt)
 + [https://linkedin.com/in/fschuindt](https://linkedin.com/in/fschuindt)
 + *fschuindt* at irc.freenode.net
 
 <div style="height: 30px;"></div>
-My Twitter list on Elixir: [https://twitter.com/fschuindt/lists/elixir](https://twitter.com/fschuindt/lists/elixir)
+Here's my Twitter list on Elixir: [https://twitter.com/fschuindt/lists/elixir](https://twitter.com/fschuindt/lists/elixir)
 
 <div style="height: 20px;"></div>
 <h3>Contact me</h3>
 <div style="height: 10px;"></div>
-![Nothing important :)](https://s28.postimage.org/a71hma8yl/bea3d3e1f093ad000f86ee3d6f4d0fcd.png)
+![Nothing important :)](https://i.postimg.cc/rpdzRwkw/5889966.png)
 
 And just in case you're feeling generous today:  
 *(It's also a PayPal account)*  
@@ -66,7 +88,8 @@ aFjZi5mdnh/yENpxVGXB
 -----END PGP SIGNATURE-----
 ```
 
-If you wish, here is my PGP:
+If you wish, here is my PGP:  
+*Or via [https](https://github.com/fschuindt.gpg)*.
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
