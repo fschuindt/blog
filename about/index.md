@@ -44,7 +44,6 @@ Some of my open source projects:
 
 <div style="height: 60px;">
 </div>
-
 And you can find me at:
 + [https://github.com/fschuindt](https://github.com/fschuindt)
 + [https://gitlab.com/fschuindt](https://gitlab.com/fschuindt)
