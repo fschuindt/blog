@@ -39,6 +39,7 @@ Some of my open source projects:
 + [Amethyst, a GraphQL banking server in Elixir](https://github.com/fschuindt/amethyst)
 + [ExGrams, a n-grams concurrent abstraction in Elixir](https://github.com/fschuindt/exgrams)
 + [kswap, a Bash script for swapping DO Kubernetes config files](https://github.com/fschuindt/kswap)
++ [ktools, Set of tools to work with Kubernetes clusters](https://github.com/foxbox-studios/ktools)
 + [my Emacs configuration](https://github.com/fschuindt/.emacs.d)
 
 <div style="height: 60px;">
