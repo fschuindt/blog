@@ -24,7 +24,7 @@ title: The Author
 <p><i>This <a href="https://fschuindt.github.io/blog/">blog</a> is willing to capture and log thoughts during my journey through computer science.</i></p>
 <div style="height: 30px;"></div>
 
-<p>Right now I'm involved with many parallel projects (mostly weekend projects) besides my full-time job at Foxbox and being the husband of a lovely inspiring woman.</p>
+<p>Right now I'm involved with many "concurrent" projects (mostly weekend projects) besides my full-time job at Foxbox and being the husband of a lovely inspiring woman.</p>
 
 <p>I'm codding a Elixir SaaS named <a href="https://docsh.io/">docsh.io</a>, I'm trying to build a amateur radio-telescope for <a href="https://en.wikipedia.org/wiki/Pulsar">Pulsar</a> detection using SDRs and I'm also working on a table-top chess computer project. In the meantime I'm maintaining three Kubernetes clusters for OTP environments and wondering about loop-quantum-cosmology or anything related with cheap Physics (Math too).</p>
 

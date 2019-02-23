@@ -53,12 +53,12 @@ So, I've described the module:
 ```elixir
 defmodule ConcurrentFibonacci do
   def start do
-    parallel_map(1..1474, fn(x) ->
+    concurrent_map(1..1474, fn(x) ->
       "Fibonacci of #{x} is: #{FibonacciCalculus.of(x)}"
     end)
   end
 
-  def parallel_map(list, func) do
+  def concurrent_map(list, func) do
     list |> Enum.map(fn e -> spawn(fn ->
       IO.puts func.(e)
     end) end)
@@ -69,7 +69,7 @@ end
 And the result is beautiful:  
 ![Demonstration 1](https://media.giphy.com/media/l378rfb3u84kmLFAY/giphy.gif)
 
-A simple code and it executes more than 1400 parallel processes in less than a blink of an eye.
+A simple code and it executes more than 1400 concurrent processes in less than a blink of an eye.
 
 Also the unordered result is evident:
 ```
@@ -96,7 +96,7 @@ Let's see how it goes:
 ![Demonstration 2](https://media.giphy.com/media/3ov9k2pMG5VDnD6ZyM/giphy.gif)
 
 You can see it takes more time, obviously.  
-But let's think about it. It's ten thousand parallel executions, ten thousand processes.
+But let's think about it. It's ten thousand concurrent executions, ten thousand processes.
 
 I have even tested with 100.000 processes, in my `4GB RAM i5@1.7GHz` notebook it takes 5.47 seconds. One hundred thousand processes in 5 seconds.
 
