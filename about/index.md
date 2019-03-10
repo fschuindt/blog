@@ -40,6 +40,7 @@ Some of my open source projects:
 + [ExGrams, a n-grams concurrent abstraction in Elixir](https://github.com/fschuindt/exgrams)
 + [kswap, a Bash script for swapping DO Kubernetes config files](https://github.com/fschuindt/kswap)
 + [ktools, Set of tools to work with Kubernetes clusters](https://github.com/foxbox-studios/ktools)
++ [knpm - Kubernetes NGINX PHP-FPM and MariaDB](https://github.com/fschuindt/knpm)
 + [my Emacs configuration](https://github.com/fschuindt/.emacs.d)
 
 <div style="height: 60px;">
