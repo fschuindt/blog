@@ -30,7 +30,7 @@ title: The Author
 
 We're currently working in the `nwitch.io` project, which is a notification gateway SaaS. You can check its OpenAPI specifications <a href="https://app.swaggerhub.com/apis-docs/722/nwitch-staging/1.0">here</a>. I'm acting as the lead back-end developer (Elixir) and project architect, but I'm also managing its DevOps with Kubernetes.
 
-<p>Apart from that, I'm codding another Elixir SaaS named <a href="https://docsh.io/">docsh.io</a> (another WIP). At this one I'm working by myself and progress is slow. But I'm already hosting some documentations:</p>
+<p>Apart from that, I'm codding another Elixir SaaS named <a href="https://docsh.io/">docsh.io</a> (another WIP). At this one I'm working by myself and progress is slow, but I'm already hosting some documentations:</p>
 - <a href="https://fschuindt.docsh.io/github/amethyst">https://fschuindt.docsh.io/github/amethyst</a>
 - <a href="https://fschuindt.docsh.io/github/exgrams">https://fschuindt.docsh.io/github/exgrams</a>
 
@@ -59,6 +59,7 @@ Some of my open source projects:
 + [kswap, a Bash script for swapping DO Kubernetes config files](https://github.com/fschuindt/kswap)
 + [ktools, Set of tools to work with Kubernetes clusters](https://github.com/foxbox-studios/ktools)
 + [knpm - Kubernetes NGINX PHP-FPM and MariaDB](https://github.com/fschuindt/knpm)
++ [arm_on_qemu - A QEMU boot for programming ARM Assembly on x86 machines](https://github.com/fschuindt/arm_on_qemu)
 + [my Emacs configuration](https://github.com/fschuindt/.emacs.d)
 
 <div style="height: 60px;">
