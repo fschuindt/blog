@@ -26,9 +26,27 @@ title: The Author
 
 <p>Right now I'm involved with many "concurrent" projects (mostly weekend projects) besides my full-time job at Foxbox and being the husband of a lovely inspiring woman.</p>
 
-<p>I'm codding a Elixir SaaS named <a href="https://docsh.io/">docsh.io</a>, I'm trying to build a amateur radio-telescope for <a href="https://en.wikipedia.org/wiki/Pulsar">Pulsar</a> detection using SDRs and I'm also working on a table-top chess computer project. In the meantime I'm maintaining three Kubernetes clusters for OTP environments and wondering about loop-quantum-cosmology or anything related with cheap Physics (Math too).</p>
+<p>First of all I'm working with a small group of close friends into a "virtual hackerspace", which is basically a Slack set up as a company where we chat about software and work on projects together. And we named it the <a href="https://722.network/">722.network</a>.</p>
 
-<p>That may work as a excuse for spending the entire 2018 without a single post.</p>
+We're currently working in the `nwitch.io` project, which is a notification gateway SaaS. You can check its OpenAPI specifications <a href="https://app.swaggerhub.com/apis-docs/722/nwitch-staging/1.0">here</a>. I'm acting as the lead back-end developer (Elixir) and project architect, but I'm also managing its DevOps with Kubernetes.
+
+<p>Apart from that, I'm codding another Elixir SaaS named <a href="https://docsh.io/">docsh.io</a> (another WIP). At this one I'm working by myself and progress is slow. But I'm already hosting some documentations:</p>
+- <a href="https://fschuindt.docsh.io/github/amethyst">https://fschuindt.docsh.io/github/amethyst</a>
+- <a href="https://fschuindt.docsh.io/github/exgrams">https://fschuindt.docsh.io/github/exgrams</a>
+
+And here's the "Staging" environment just in case: <a href="http://docsh-staging.xyz">docsh-staging.xyz</a>.
+
+By the way, I'm also managing everything with Kubernetes.
+
+Then, I'm also sporadically giving consultancy to a relative who owns a medical web platform built with CodeIgniter. This app is already in production being used by medical centers in Brazil, she developed the system by herself and now we're doing business together. I'm giving her technical advices (mostly related with security) and also managing all infrastructure with Kubernetes.
+
+Then by last I'm also:
+- Trying to build a amateur radio-telescope for Pulsar detection using SDRs.
+- Working on a table-top chess computer project.
+
+But these are really in "stand by" mode.
+
+And that may work as a excuse for spending the entire 2018 without a single post.
 
 <div style="height: 30px;">
 </div>
@@ -58,7 +76,7 @@ Here's my Twitter list on Elixir: [https://twitter.com/fschuindt/lists/elixir](h
 <div style="height: 20px;"></div>
 <h3>Contact me</h3>
 <div style="height: 10px;"></div>
-![Nothing important :)](https://i.postimg.cc/rpdzRwkw/5889966.png)
+![Nothing important :)](https://i.postimg.cc/859qVXgY/nothing-important.png)
 
 And just in case you're feeling generous today:  
 *(It's also a PayPal account)*  
