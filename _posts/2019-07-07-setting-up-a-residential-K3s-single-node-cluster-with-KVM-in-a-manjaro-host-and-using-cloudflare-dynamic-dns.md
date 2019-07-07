@@ -326,7 +326,7 @@ spec:
 And edit it to fit your needs. Especially the `ConfigMap` section, where you want to provide your Cloudflare credentials with the domain/subdomain names. I've created space for up to 10 subdomains, but if you want more you can easily edit the `entrypoint.sh` file of the image.
 
 Here's the ddclient image GitHub repository if you want:  
-https://github.com/fschuindt/ddclient
+[https://github.com/fschuindt/ddclient](https://github.com/fschuindt/ddclient)
 
 Now we can just spawn the job into K3s:
 ```
@@ -360,7 +360,7 @@ And that will let the router know to which device to send the incoming connectio
 Right now we have only one DNS pointing to the cluster, which is `fschuindt.722.network`. I'm going to deploy a service to operate on this address, more precisely a [Ingress resource](https://kubernetes.io/docs/concepts/services-networking/ingress/).
 
 The service we're going to deploy is a simple HTTP "ping/pong" echo. It serves only one route `GET /ping`, which will reply `200 OK, "pong"`. I wrote this service using Elixir and it's on GitHub here:  
-https://github.com/fschuindt/http_echo
+[https://github.com/fschuindt/http_echo](https://github.com/fschuindt/http_echo)
 
 It already comes with its own `Dockerfile` and its image is [publicly available at DockerHub](https://cloud.docker.com/u/zfschuindt/repository/docker/zfschuindt/http_echo). Plus if you check the `/k8s` folder on the repository you will find a group of Kubernetes resources for deploying it into Kubernetes. This will make everything easier.
 
@@ -496,7 +496,7 @@ spec:
 $ kubectl create -f deployment.yml
 ```
 
-And that shall make the http://fschuindt.722.network:72222/ping available and serving the HTTP echo service to the world. :)
+And that shall make the [http://fschuindt.722.network:72222/ping](http://fschuindt.722.network:72222/ping) available and serving the HTTP echo service to the world. :)
 
 It may be already offline by the time you're reading this, but believe me, it worked.
 
@@ -514,8 +514,8 @@ See you soon. :)
 
 ## References
 
-- https://computingforgeeks.com/how-to-create-and-use-network-bridge-on-arch-linux-and-manjaro/
-- https://blog.alexellis.io/kvm-kubernetes-primer/
-- https://linuxconfig.org/how-to-configure-static-ip-address-on-ubuntu-18-04-bionic-beaver-linux
+- [https://computingforgeeks.com/how-to-create-and-use-network-bridge-on-arch-linux-and-manjaro/](https://computingforgeeks.com/how-to-create-and-use-network-bridge-on-arch-linux-and-manjaro/)
+- [https://blog.alexellis.io/kvm-kubernetes-primer/](https://blog.alexellis.io/kvm-kubernetes-primer/)
+- [https://linuxconfig.org/how-to-configure-static-ip-address-on-ubuntu-18-04-bionic-beaver-linux](https://linuxconfig.org/how-to-configure-static-ip-address-on-ubuntu-18-04-bionic-beaver-linux)
 
 *Cover picture: "Gutenberg Publishes the World's First Printed Book (Illustration) Civil Rights Medieval Times Famous Historical Events Visual Arts"*
