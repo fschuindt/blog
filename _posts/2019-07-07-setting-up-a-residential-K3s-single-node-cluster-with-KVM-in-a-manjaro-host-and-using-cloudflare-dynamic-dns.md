@@ -1,3 +1,5 @@
+![press](https://i.postimg.cc/cHxJtSrX/press.jpg)
+
 For long I've been playing with Kubernetes in production environments, at my job and in other projects. But everything was done using managed solutions like the one from Digital Ocean, which is great by the way. But I was willing to put a bit of my hands on it.
 
 I happen to have a desktop computer (i5 8400 16GB RAM running Manjaro) which I'm not using that much, so I planned to setup a VM on it and run a single node Kubernetes cluster myself. But wait a second, for that we had [Minikube](https://github.com/kubernetes/minikube), right? Yes, the problem being it's designed to work inside your own computer and not to have contact with the external world, not even your local network. I was having trouble to make that work when I remembered about [K3s](https://k3s.io/), which is a Kubernetes distribution that's actually simpler than Minikube, it's great and it's also production ready.
@@ -515,3 +517,5 @@ See you soon. :)
 - https://computingforgeeks.com/how-to-create-and-use-network-bridge-on-arch-linux-and-manjaro/
 - https://blog.alexellis.io/kvm-kubernetes-primer/
 - https://linuxconfig.org/how-to-configure-static-ip-address-on-ubuntu-18-04-bionic-beaver-linux
+
+*Cover picture: "Gutenberg Publishes the World's First Printed Book (Illustration) Civil Rights Medieval Times Famous Historical Events Visual Arts"*
