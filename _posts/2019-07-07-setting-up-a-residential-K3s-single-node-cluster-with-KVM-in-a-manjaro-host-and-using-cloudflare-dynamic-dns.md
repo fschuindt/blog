@@ -1,5 +1,3 @@
-# Setting up a residential K3s single-node cluster with KVM in a Manjaro host and using Cloudflare's Dynamic DNS
-
 For long I've been playing with Kubernetes in production environments, at my job and in other projects. But everything was done using managed solutions like the one from Digital Ocean, which is great by the way. But I was willing to put a bit of my hands on it.
 
 I happen to have a desktop computer (i5 8400 16GB RAM running Manjaro) which I'm not using that much, so I planned to setup a VM on it and run a single node Kubernetes cluster myself. But wait a second, for that we had [Minikube](https://github.com/kubernetes/minikube), right? Yes, the problem being it's designed to work inside your own computer and not to have contact with the external world, not even your local network. I was having trouble to make that work when I remembered about [K3s](https://k3s.io/), which is a Kubernetes distribution that's actually simpler than Minikube, it's great and it's also production ready.
