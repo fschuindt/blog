@@ -496,7 +496,7 @@ spec:
 $ kubectl create -f deployment.yml
 ```
 
-And that shall make the [http://fschuindt.722.network:72222/ping](http://fschuindt.722.network:72222/ping) available and serving the HTTP echo service to the world. :)
+And that shall make the http://fschuindt.722.network:72222/ping available and serving the HTTP echo service to the world. :)
 
 It may be already offline by the time you're reading this, but believe me, it worked.
 
