@@ -9,10 +9,10 @@ title: The Author
   <img style="width: 30%; float: left;" src="https://s10.postimage.org/4dtndycah/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, 27yo Brazilian.<br />Software Engineer <i>(Elixir)</i> @ <a href="https://foxbox.co/">foxbox.co</a></p>
-    <p>A passionate developer.<br />14 years of codding, 9 years of professional experience.<br /></p>
+    <p><strong>Fernando Schuindt</strong>, 28yo Brazilian.<br />Software Engineer <i>(Elixir)</i> @ <a href="https://foxbox.co/">foxbox.co</a></p>
+    <p>A passionate developer.<br />16 years of codding, 10 years of professional experience.<br /></p>
     <div style="height: 30px;"></div>
-    <p>Mostly working with back-end and DevOps.<br />Highly experienced with Elixir and Ruby.</p>
+    <p>Mostly working with back-end and DevOps.<br />Highly experienced with Elixir, Kubernetes and Ruby.</p>
     <p>I do send copies of my <i>resumé</i>, just ask me. (Preferably via e-mail)</p>
   </div>
 
@@ -24,29 +24,23 @@ title: The Author
 <p><i>This <a href="https://fschuindt.github.io/blog/">blog</a> is willing to capture and log thoughts during my journey through computer science.</i></p>
 <div style="height: 30px;"></div>
 
-<p>Right now I'm involved with many "concurrent" projects (mostly weekend projects) besides my full-time job at Foxbox and being the husband of a lovely inspiring woman.</p>
+<p>At my current position I'm dedicating around 40 hours/week between software development and DevOps administration. I'm codding HTTP APIs using Elixir but I'm also managing all our back-end infrastructure. As the lead back-end DevOps engineer, I've developed our entire CI/CD process, K8s clusters, monitoring (Prometheus w/ Grafana, AppSignal), logging (ELK) and service-meshing (Linkerd). I'm also the one in charge of our VPNs and some services running in our clusters.</p>
 
-<p>First of all I'm working with a small group of close friends into a "virtual hackerspace", which is basically a Slack set up as a company where we chat about software and work on projects together. And we named it the <a href="https://722.network/">722.network</a>.</p>
+<p>Besides my full-time job at Foxbox and being the husband of a lovely and inspiring woman, I'm involved with many "concurrent" projects (mostly weekend projects).</p>
 
-We're currently working in the `nwitch.io` project, which is a notification gateway SaaS. You can check its OpenAPI specifications <a href="https://app.swaggerhub.com/apis-docs/722/nwitch-staging/1.0">here</a>. I'm acting as the lead back-end developer (Elixir) and project architect, but I'm also managing its DevOps with Kubernetes.
+<p>The first of them is actually a small group of close friends in the form of a virtual hackerspace, which is basically a Slack set up as a company where we chat about software and work on projects together. And we named it the <a href="https://722.network/">722.network</a>.</p>
 
-<p>Apart from that, I'm codding another Elixir SaaS named <a href="https://docsh.io/">docsh.io</a> (another WIP). At this one I'm working by myself and progress is slow, but I'm already hosting some documentations:</p>
-- <a href="https://fschuindt.docsh.io/github/amethyst">https://fschuindt.docsh.io/github/amethyst</a>
-- <a href="https://fschuindt.docsh.io/github/exgrams">https://fschuindt.docsh.io/github/exgrams</a>
+<p>We're currently working in the `nwitch.io` project, which is a notification gateway SaaS. You can check its OpenAPI specifications <a href="https://app.swaggerhub.com/apis-docs/722/nwitch-staging/1.0">here</a>. I'm acting as the lead back-end developer (Elixir) and project architect, but I'm also managing its DevOps with Kubernetes.</p>
 
-And here's the "Staging" environment just in case: <a href="http://docsh-staging.xyz">docsh-staging.xyz</a>.
+<p>Apart from that, I'm sparsely codding in a dozen other projects: `Docsh` for authenticating static documentation. Also working with the `kproject` which is a application-level platform for deploying environments as "recipes" within Kubernetes clusters, there's `Gigs` too, a small bot for monitoring earnings on currency investments. All in Elixir running within Kubernetes. Those are the ones which I think is worth mentioning now.</p>
 
-By the way, I'm also managing everything with Kubernetes.
-
-Then, I'm also sporadically giving consultancy to a relative who owns a medical web platform built with CodeIgniter. This app is already in production being used by medical centers in Brazil, she developed the system by herself and now we're doing business together. I'm giving her technical advices (mostly related with security) and also managing all infrastructure with Kubernetes.
+<p>I'm also a partner and lead tech adviser at the M&S company in Brazil. I'm helping them to build and maintain their cloud infrastructure using Kubernetes and AWS tools. From CI/CD to registry management, DBA and VPNs. M&S is responsible to develop and sell SaaS solutions to the local health industry.</p>
 
 Then by last I'm also:
-- Trying to build a amateur radio-telescope for Pulsar detection using SDRs.
-- Working on a table-top chess computer project.
+- Trying to build an amateur radio-telescope for Pulsar detection using SDRs.
+- Working on a homemade table-top chess computer.
 
-But these are really in "stand by" mode.
-
-And that may work as a excuse for spending the entire 2018 without a single post.
+And that may work as an excuse for spending the entire 2018 without a single post.
 
 <div style="height: 30px;">
 </div>
@@ -60,6 +54,7 @@ Some of my open source projects:
 + [ktools, Set of tools to work with Kubernetes clusters](https://github.com/foxbox-studios/ktools)
 + [knpm - Kubernetes NGINX PHP-FPM and MariaDB](https://github.com/fschuindt/knpm)
 + [arm_on_qemu - A QEMU boot for programming ARM Assembly on x86 machines](https://github.com/fschuindt/arm_on_qemu)
++ [HTTP Echo - A Elixir HTTP echo server for DevOps probing](https://github.com/fschuindt/http_echo)
 + [my Emacs configuration](https://github.com/fschuindt/.emacs.d)
 
 <div style="height: 60px;">
