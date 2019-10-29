@@ -30,17 +30,15 @@ title: The Author
 
 <p>The first of them is actually a small group of close friends in the form of a virtual hackerspace, which is basically a Slack set up as a company where we chat about software and work on projects together. And we named it the <a href="https://722.network/">722.network</a>.</p>
 
-<p>We're currently working in the `nwitch.io` project, which is a notification gateway SaaS. You can check its OpenAPI specifications <a href="https://app.swaggerhub.com/apis-docs/722/nwitch-staging/1.0">here</a>. I'm acting as the lead back-end developer (Elixir) and project architect, but I'm also managing its DevOps with Kubernetes.</p>
+We're currently working in the `nwitch.io` project, which is a notification gateway SaaS. You can check its OpenAPI specifications <a href="https://app.swaggerhub.com/apis-docs/722/nwitch-staging/1.0">here</a>. I'm acting as the lead back-end developer (Elixir) and project architect, but I'm also managing its DevOps with Kubernetes.
 
-<p>Apart from that, I'm sparsely codding in a dozen other projects: `Docsh` for authenticating static documentation. Also working with the `kproject` which is a application-level platform for deploying environments as "recipes" within Kubernetes clusters, there's `Gigs` too, a small bot for monitoring earnings on currency investments. All in Elixir running within Kubernetes. Those are the ones which I think is worth mentioning now.</p>
+Apart from that, I'm sparsely codding in a dozen other projects: `Docsh` for authenticating static documentation. Also working with the `kproject` which is a application-level platform for deploying environments as "recipes" within Kubernetes clusters, and there's `Gigs` too, a small bot for monitoring earnings on currency investments. All in Elixir running within Kubernetes. Those are the ones which I think is worth mentioning now.
 
-<p>I'm also a partner and lead tech adviser at the M&S company in Brazil. I'm helping them to build and maintain their cloud infrastructure using Kubernetes and AWS tools. From CI/CD to registry management, DBA and VPNs. M&S is responsible to develop and sell SaaS solutions to the local health industry.</p>
+<p>I'm also a partner and tech adviser at the M&S company in Brazil. I'm helping them to build and maintain their cloud infrastructure using Kubernetes, Linkerd and AWS tools. From CI/CD to registry management, DBA and VPNs. M&S is responsible to develop and sell SaaS solutions to the local health industry.</p>
 
 Then by last I'm also:
 - Trying to build an amateur radio-telescope for Pulsar detection using SDRs.
 - Working on a homemade table-top chess computer.
-
-And that may work as an excuse for spending the entire 2018 without a single post.
 
 <div style="height: 30px;">
 </div>
