@@ -68,7 +68,7 @@ Here's my Twitter list on Elixir: [https://twitter.com/fschuindt/lists/elixir](h
 <div style="height: 20px;"></div>
 <h3>Contact me</h3>
 <div style="height: 10px;"></div>
-![Nothing important :)](https://i.postimg.cc/859qVXgY/nothing-important.png)
+![Nothing important](https://i.postimg.cc/859qVXgY/nothing-important.png)
 
 And just in case you're feeling generous today:  
 *(It's also a PayPal account)*  
