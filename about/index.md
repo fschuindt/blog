@@ -13,7 +13,7 @@ title: The Author
     <p>A passionate developer.<br />16 years of codding, 10 years of professional experience.<br /></p>
     <div style="height: 30px;"></div>
     <p>Mostly working with back-end and DevOps.<br />Highly experienced with Elixir, Kubernetes and Ruby.</p>
-    <p>I do send copies of my <i>resumé</i>, just ask me. (Preferably via e-mail)</p>
+    <p>I do send copies of my <i>resumé</i>, just ask me. (Preferably via email)</p>
   </div>
 
   <div style="clear: both;">
@@ -21,8 +21,6 @@ title: The Author
 </div>
 
 <div style="height: 60px;"></div>
-<p><i>This <a href="https://fschuindt.github.io/blog/">blog</a> is willing to capture and log thoughts during my journey through computer science.</i></p>
-<div style="height: 30px;"></div>
 
 <p>At my current position I'm dedicating around 40 hours/week between software development and DevOps administration. I'm codding HTTP APIs using Elixir but I'm also managing all our back-end infrastructure. As the lead back-end DevOps engineer, I've developed our entire CI/CD process, K8s clusters, monitoring (Prometheus w/ Grafana, AppSignal), logging (ELK) and service-meshing (Linkerd). I'm also the one in charge of our VPNs and some services running in our clusters.</p>
 
@@ -30,13 +28,13 @@ title: The Author
 
 <p>The first of them is actually a small group of close friends in the form of a virtual hackerspace, which is basically a Slack set up as a company where we chat about software and work on projects together. And we named it the <a href="https://722.network/">722.network</a>.</p>
 
-We're currently working in the `nwitch.io` project, which is a notification gateway SaaS. You can check its OpenAPI specifications <a href="https://app.swaggerhub.com/apis-docs/722/nwitch-staging/1.0">here</a>. I'm acting as the lead back-end developer (Elixir) and project architect, but I'm also managing its DevOps with Kubernetes.
+We're currently working in the `nwitch.io` project, which is a notification gateway SaaS. You can check its OpenAPI specifications <a href="https://app.swaggerhub.com/apis-docs/722/nwitch-staging/1.0">here</a>. I'm acting as the lead back-end developer (Elixir) and project manager, but I'm also building and maintaining its DevOps with Kubernetes.
 
-Apart from that, I'm sparsely codding in a dozen other projects: `Docsh` for authenticating static documentation. Also working with the `kproject` which is a application-level platform for deploying environments as "recipes" within Kubernetes clusters, and there's `Gigs` too, a small bot for monitoring earnings on currency investments. All in Elixir running within Kubernetes. Those are the ones which I think is worth mentioning now.
+Apart from that, I'm sparsely codding in a dozen other projects: `Docsh` for authenticating static documentation, `kproject` which is a application-level platform for deploying environments as "recipes" within Kubernetes clusters, and `Gigs`, a small bot for monitoring earnings on currency investments. All in Elixir running within Kubernetes.
 
 <p>I'm also a partner and tech adviser at the M&S company in Brazil. I'm helping them to build and maintain their cloud infrastructure using Kubernetes, Linkerd and AWS tools. From CI/CD to registry management, DBA and VPNs. M&S is responsible to develop and sell SaaS solutions to the local health industry.</p>
 
-Then by last I'm also:
+And my two garage projects:
 - Trying to build an amateur radio-telescope for Pulsar detection using SDRs.
 - Working on a homemade table-top chess computer.
 
@@ -59,7 +57,7 @@ Some of my open source projects:
 </div>
 And you can find me at:
 + [https://github.com/fschuindt](https://github.com/fschuindt)
-+ [https://gitlab.com/fschuindt](https://gitlab.com/fschuindt)
++ [https://gitlab.com/fschuindt](https://gitlab.com/fschuindt) (Most of my recent activity is here)
 + [https://twitter.com/fschuindt](https://twitter.com/fschuindt)
 + [https://linkedin.com/in/fschuindt](https://linkedin.com/in/fschuindt)
 + *fschuindt* at irc.freenode.net
