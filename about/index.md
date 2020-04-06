@@ -9,8 +9,8 @@ title: The Author
   <img style="width: 30%; float: left;" src="https://s10.postimage.org/4dtndycah/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, 28yo Brazilian.<br />Software Engineer <i>(Elixir)</i> @ <a href="https://foxbox.co/">foxbox.co</a></p>
-    <p>A passionate developer.<br />16 years of codding, 10 years of professional experience.<br /></p>
+    <p><strong>Fernando Schuindt</strong>, 28yo Brazilian.<br />Software Engineer @ <a href="https://foxbox.com/about/">foxbox.com</a></p>
+    <p>A passionate developer.<br />16 years of coding and 10 years of professional experience.<br /></p>
     <div style="height: 30px;"></div>
     <p>Mostly working with back-end and DevOps.<br />Highly experienced with Elixir, Kubernetes and Ruby.</p>
     <p>I do send copies of my <i>resumé</i>, just ask me. (Preferably via email)</p>
@@ -22,29 +22,32 @@ title: The Author
 
 <div style="height: 60px;"></div>
 
-<p>At my current position I'm dedicating around 40 hours/week between software development and DevOps administration. I'm codding HTTP APIs using Elixir but I'm also managing all our back-end infrastructure. As the lead back-end DevOps engineer, I've developed our entire CI/CD process, K8s clusters, monitoring (Prometheus w/ Grafana, AppSignal), logging (ELK) and service-meshing (Linkerd). I'm also the one in charge of our VPNs and some services running in our clusters.</p>
+<p>At my current <i>fulltime</i> position I'm dividing myself between software development and DevOps administration.</p>
 
-<p>Besides my full-time job at Foxbox and being the husband of a lovely and inspiring woman, I'm involved with many "concurrent" projects (mostly weekend projects).</p>
+<p>As a back-end Software Engineer, I work building and helping to build RESTful json HTTP APIS to power our set of mobile/front-end applications. Those APIs are all written in Elixir and are hosted on our Kubernetes clusters (that I also manage myself).</p>
 
-<p>The first of them is actually a small group of close friends in the form of a virtual hackerspace, which is basically a Slack set up as a company where we chat about software and work on projects together. And we named it the <a href="https://722.network/">722.network</a>.</p>
+<p>As the lead back-end DevOps Engineer, I'm managing our entire CI/CD process, Kubernetes clusters, monitoring (Prometheus with Grafana and AppSignal), logging (now with Fluentd), service-meshing (Linkerd) and other standard (and non-standard) things. I'm also maintaining multiple Shell script tools for developers to interact with our running services, giving them full control over it. Then by last I'm the housekeeper for all our servers, VPNs, Load Balancers, DNS, etc.</p>
 
-We're currently working in the `nwitch.io` project, which is a notification gateway SaaS. You can check its OpenAPI specifications <a href="https://app.swaggerhub.com/apis-docs/722/nwitch-staging/1.0">here</a>. I'm acting as the lead back-end developer (Elixir) and project manager, but I'm also building and maintaining its DevOps with Kubernetes.
+<p>Besides my full-time job at Foxbox and being the husband of a lovely and inspiring woman, I'm involved with many "concurrent" projects (mostly weekend projects), some worth mentioning.</p>
 
-Apart from that, I'm sparsely codding in a dozen other projects: `Docsh` for authenticating static documentation, `kproject` which is a application-level platform for deploying environments as "recipes" within Kubernetes clusters, and `Gigs`, a small bot for monitoring earnings on currency investments. All in Elixir running within Kubernetes.
+<p>I'm a partner and tech adviser at the M&S company in Brazil, where my responsibility is to take care of DevOps and security. I'm helping them to build and maintain their cloud infrastructure using Kubernetes, and AWS tools. I have developed a set of softwares that turns their single-tenant PHP solution into a "multi-tenancy lookalike" robust system powered by Kubernetes. Using the Kubernetes REST API to add and remove instances of their customers. From CI/CD to registry management, DBA and VPNs, I help them to cover it all. M&S is responsible to develop and sell SaaS and CRM solutions to the local health industry.</p>
 
-<p>I'm also a partner and tech adviser at the M&S company in Brazil. I'm helping them to build and maintain their cloud infrastructure using Kubernetes, Linkerd and AWS tools. From CI/CD to registry management, DBA and VPNs. M&S is responsible to develop and sell SaaS solutions to the local health industry.</p>
+<p>I'm also a member of the <a href="https://722.network/">722.network</a> virtual hackerspace, which is basically a Slack workspace set up as a company where we chat about software and work on projects together.</p>
 
-And my two garage projects:
-- Trying to build an amateur radio-telescope for Pulsar detection using SDRs.
-- Working on a homemade table-top chess computer.
+<p>And last but not least, my two main hobbies: astronomy and music.</p>
+
+<p>I'm trying to build an amateur Newtonian telescope. It's a <b>210mm≈8.27"</b> aperture, <b>f/6.62</b>. plus I'm also learning how to do astrophotography. I'm covering this adventure in <a href="http://boredprogrammer.postach.io/">this blog</a>.</p>
+
+<p>At the end of it all music ends up being just a pastime, but I love it too. I've been playing bass guitar since I was 13 years old and still to this day a passion I have reserved for the sad, happy and the <i>compiling/building</i> times.</p>
 
 <div style="height: 30px;">
 </div>
 
-Some of my open source projects:  
+Some of my open source:  
 + [Toucan, A Ruby framework for CLI applications](https://github.com/fschuindt/toucan)
 + [firebase_id_token, a Ruby Gem for validating Firebase JWT](https://github.com/fschuindt/firebase_id_token)
 + [Amethyst, a GraphQL banking server in Elixir](https://github.com/fschuindt/amethyst)
++ [docker-smb - A containerized Samba server to share Docker host directories](https://github.com/fschuindt/docker-smb)
 + [ExGrams, a n-grams concurrent abstraction in Elixir](https://github.com/fschuindt/exgrams)
 + [kswap, a Bash script for swapping DO Kubernetes config files](https://github.com/fschuindt/kswap)
 + [ktools, Set of tools to work with Kubernetes clusters](https://github.com/foxbox-studios/ktools)
@@ -56,8 +59,8 @@ Some of my open source projects:
 <div style="height: 60px;">
 </div>
 And you can find me at:
-+ [https://github.com/fschuindt](https://github.com/fschuindt)
 + [https://gitlab.com/fschuindt](https://gitlab.com/fschuindt) (Most of my recent activity is here)
++ [https://github.com/fschuindt](https://github.com/fschuindt)
 + [https://twitter.com/fschuindt](https://twitter.com/fschuindt)
 + [https://linkedin.com/in/fschuindt](https://linkedin.com/in/fschuindt)
 + *fschuindt* at irc.freenode.net
@@ -70,8 +73,7 @@ Here's my Twitter list on Elixir: [https://twitter.com/fschuindt/lists/elixir](h
 <div style="height: 10px;"></div>
 ![Nothing important](https://i.postimg.cc/859qVXgY/nothing-important.png)
 
-And just in case you're feeling generous today:  
-*(It's also a PayPal account)*  
+BTC Wallet and PayPal address:  
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
