@@ -24,22 +24,6 @@ title: The Author
 
 <p>At my current <i>fulltime</i> position I'm dividing myself between software development and DevOps administration.</p>
 
-<p>As a back-end Software Engineer, I work building and helping to build RESTful json HTTP APIS to power our set of mobile/front-end applications. Those APIs are all written in Elixir and are hosted on our Kubernetes clusters (that I also manage myself).</p>
-
-<p>As the lead back-end DevOps Engineer, I'm managing our entire CI/CD process, Kubernetes clusters, monitoring (Prometheus with Grafana and AppSignal), logging (now with Fluentd), service-meshing (Linkerd) and other standard (and non-standard) things. I'm also maintaining multiple Shell script tools for developers to interact with our running services, giving them full control over it. Then by last I'm the housekeeper for all our servers, VPNs, Load Balancers, DNS, etc.</p>
-
-<p>Besides my full-time job at Foxbox and being the husband of a lovely and inspiring woman, I'm involved with many "concurrent" projects (mostly weekend projects), some worth mentioning.</p>
-
-<p>I'm a partner and tech adviser at the M&S company in Brazil, where my responsibility is to take care of DevOps and security. I'm helping them to build and maintain their cloud infrastructure using Kubernetes, and AWS tools. I have developed a set of softwares that turns their single-tenant PHP solution into a "multi-tenancy lookalike" robust system powered by Kubernetes. Using the Kubernetes REST API to add and remove instances of their customers. From CI/CD to registry management, DBA and VPNs, I help them to cover it all. M&S is responsible to develop and sell SaaS and CRM solutions to the local health industry.</p>
-
-<p>I'm also a member of the <a href="https://722.network/">722.network</a> virtual hackerspace, which is basically a Slack workspace set up as a company where we chat about software and work on projects together.</p>
-
-<p>And last but not least, my two main hobbies: astronomy and music.</p>
-
-<p>I'm trying to build an amateur Newtonian telescope. It's a <b>210mm≈8.27"</b> aperture, <b>f/6.62</b>. plus I'm also learning how to do astrophotography. I'm covering this adventure in <a href="http://boredprogrammer.postach.io/">this blog</a>.</p>
-
-<p>At the end of it all music ends up being just a pastime, but I love it too. I've been playing bass guitar since I was 13 years old and still to this day a passion I have reserved for the sad, happy and the <i>compiling/building</i> times.</p>
-
 <div style="height: 30px;">
 </div>
 
