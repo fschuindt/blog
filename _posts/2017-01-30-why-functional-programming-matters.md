@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Functional Programming Matters
+categories: IT
 ---
 
 [![Article screenshot]({{ site.url }}/images/2017-01-30-why-functional-programming-matters/paper.jpg)](http://worrydream.com/refs/Hughes-WhyFunctionalProgrammingMatters.pdf)

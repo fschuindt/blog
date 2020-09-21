@@ -2,6 +2,60 @@
 //
 // Styles for managing the structural hierarchy of the site.
 
+.table_of_contents h3 {
+  font-size: 20px;
+  margin-bottom: 22px;
+}
+
+.table_of_contents ul {
+  margin: 0px 0px 6px 0px;
+  padding: 0px;
+}
+
+.table_of_contents li {
+  margin: 0px;
+  padding: 0px;
+}
+
+.table_of_contents a {
+  margin: 0px;
+}
+
+.table_of_contents time {
+  display: inline;
+  margin-right: 6px;
+}
+
+.table_of_contents {
+  font-size: 18px;
+}
+
+.category_switch {
+  margin: 55px 0px 35px 0px;
+}
+
+.category_switch_image {
+  float: left;
+}
+
+.category_switch_text {
+  float: left;
+  margin: 0px 0px 0px 25px;
+}
+
+.category_switch_image img {
+  max-width: 90px;
+  margin: 0px;
+}
+
+.category_switch p {
+  margin: 0px;
+}
+
+.clear {
+  clear: both;
+}
+
 .container {
   max-width: 48rem;
   padding-left:  1.5rem;

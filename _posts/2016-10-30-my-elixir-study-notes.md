@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Elixir Study Notes
+categories: IT
 ---
 
 ![Article illustration]({{ site.url }}/images/2016-10-30-my-elixir-study-notes/header.jpg)

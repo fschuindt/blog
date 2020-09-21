@@ -1,3 +1,9 @@
+---
+layout: post
+title: Setting up a residential K3s single node cluster with KVM in a Manjaro host and using Cloudflare dynamic DNS
+categories: IT
+---
+
 ![press]({{ site.url }}/images/2019-07-07-setting-up-a-residential-K3s-single-node-cluster-with-KVM-in-a-manjaro-host-and-using-cloudflare-dynamic-dns/press.jpg)
 
 For long I've been playing with Kubernetes in production environments, at my job and in other projects. But everything was done using managed solutions like the one from Digital Ocean, which is great by the way. But I was willing to put a bit of my hands on it.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Structure And Interpretation Of Computer Programs
+categories: IT
 ---
 
 ![Book cover illustration]({{ site.url }}/images/2017-01-30-structure-and-interpretation-of-computer-programs/sicp.jpg)

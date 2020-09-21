@@ -1,10 +1,10 @@
 ---
-layout: default
-title: Home
+layout: page
 ---
+
 <div class="table_of_contents">
-  <h3>Table of Contents (IT only)</h3>
-  {% for post in site.categories.IT %}
+  <h3>Table of Contents (Astronomy and Others)</h3>
+  {% for post in site.categories.Astronomy %}
   <ul>
     <li>
       <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -18,8 +18,8 @@ title: Home
     <img src="{{ site.url }}/images/pointing_hand.png"/>
   </div>
   <div class="category_switch_text">
-    <p>The "home" of this blog is for IT related topics only.</p>
-    <p><a href="{{ site.baseurl }}/astronomy">Click here</a> to see my posts about amateur astronomy and others.</p>
+    <p>This page lists posts of Astronomy and other topics.</p>
+    <p><a href="{{ site.baseurl }}/">Click here</a> to see my posts about IT.</p>
     <p>Or <a href="{{ site.baseurl }}/all">click here</a> to see all.</p>
   </div>
   <div class="clear">
@@ -27,7 +27,7 @@ title: Home
 </div>
 
 <div class="posts">
-  {% for post in site.categories.IT %}
+  {% for post in site.categories.Astronomy %}
   <article class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Philosophical Perceiving Of Bits As The Fundamental Particles Of Our Universe
+categories: IT
 ---
 
 ![Part of: Les Tres Riches Heures du Duc de Berry]({{ site.url }}/images/2017-09-26-philosophical-perceiving-of-bits-as-the-fundamental-particles-of-our-universe/de_berry.jpg)
