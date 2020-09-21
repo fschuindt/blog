@@ -3,7 +3,7 @@ layout: post
 title: Structure And Interpretation Of Computer Programs
 ---
 
-![Book cover illustration](https://s27.postimage.org/8ggkykimb/sicp.jpg)
+![Book cover illustration]({{ site.url }}/images/2017-01-30-structure-and-interpretation-of-computer-programs/sicp.jpg)
 
 <div style="height: 25px;"></div>
 

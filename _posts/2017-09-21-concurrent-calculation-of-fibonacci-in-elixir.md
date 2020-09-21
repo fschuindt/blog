@@ -4,7 +4,7 @@ title: Concurrent Calculation Of Fibonacci In Elixir
 ---
 
 There's a known formula to evaluate a *n* Fibonacci term position without iteration or recursion.
-![Formula](https://s30.postimage.org/ndks6gohd/fib_formula.jpg)
+![Formula]({{ site.url }}/images/2017-09-21-concurrent-calculation-of-fibonacci-in-elixir/fib_formula.jpg)
 
 This formula give us a precise approximation:  
 + Term `n(26) = 121393.00000000009`
@@ -38,7 +38,7 @@ end
 ```
 
 By the way, if you haven't already wondered, after the term `1474` it crashes:  
-![Crash output](https://s26.postimage.org/4g4r3i049/Screen_Shot_2017-09-21_at_02.16.56.png)
+![Crash output]({{ site.url }}/images/2017-09-21-concurrent-calculation-of-fibonacci-in-elixir/crash_report.png)
 
 That's because Erlang's `math` module operates only with numbers that can be represented with floating points, and such a big number can't.
 
@@ -67,7 +67,7 @@ end
 ```
 
 And the result is beautiful:  
-![Demonstration 1](https://media.giphy.com/media/l378rfb3u84kmLFAY/giphy.gif)
+![Demonstration 1]({{ site.url }}/images/2017-09-21-concurrent-calculation-of-fibonacci-in-elixir/demo1.gif)
 
 A simple code and it executes more than 1400 concurrent processes in less than a blink of an eye.
 
@@ -93,7 +93,7 @@ end
 This will repeat the `1..1474` list approximately 7x, to result in a list containing 10.000 elements.
 
 Let's see how it goes:  
-![Demonstration 2](https://media.giphy.com/media/3ov9k2pMG5VDnD6ZyM/giphy.gif)
+![Demonstration 2]({{ site.url }}/images/2017-09-21-concurrent-calculation-of-fibonacci-in-elixir/demo2.gif)
 
 You can see it takes more time, obviously.  
 But let's think about it. It's ten thousand concurrent executions, ten thousand processes.

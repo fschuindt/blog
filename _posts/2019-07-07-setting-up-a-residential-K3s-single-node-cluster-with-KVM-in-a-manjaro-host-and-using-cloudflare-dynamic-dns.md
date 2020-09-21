@@ -1,4 +1,4 @@
-![press](https://i.postimg.cc/cHxJtSrX/press.jpg)
+![press]({{ site.url }}/images/2019-07-07-setting-up-a-residential-K3s-single-node-cluster-with-KVM-in-a-manjaro-host-and-using-cloudflare-dynamic-dns/press.jpg)
 
 For long I've been playing with Kubernetes in production environments, at my job and in other projects. But everything was done using managed solutions like the one from Digital Ocean, which is great by the way. But I was willing to put a bit of my hands on it.
 
@@ -13,7 +13,7 @@ For the VM OS I'm going to choose Ubuntu Server 18.04 and its hostname will be n
 All the servers, `redwitch` and `warlock` will have static IPv4 address on the local network. All other devices, including my laptop will be using DHCP.
 
 Here's how it's going to look like after finished:  
-![the big picture](https://i.postimg.cc/LHGgh76h/virt-2.png)
+![the big picture]({{ site.url }}/images/2019-07-07-setting-up-a-residential-K3s-single-node-cluster-with-KVM-in-a-manjaro-host-and-using-cloudflare-dynamic-dns/the_big_picture.png)
 
 *You can ignore the HDMI KVM Switch device for the purpose of this guide.*
 
@@ -349,7 +349,7 @@ For me I added two entries on the port-forwarding rules list. One forwarding eve
 
 It's looking like this:
 
-![port-forwading](https://i.postimg.cc/rFV0KKZ6/Screenshot-20190706162317-1017x442.png)
+![port-forwading]({{ site.url }}/images/2019-07-07-setting-up-a-residential-K3s-single-node-cluster-with-KVM-in-a-manjaro-host-and-using-cloudflare-dynamic-dns/port_forwarding.png)
 
 And that will let the router know to which device to send the incoming connections. One more thing to do, let's deploy a service to the K3s and test the whole thing.
 
@@ -502,7 +502,7 @@ It may be already offline by the time you're reading this, but believe me, it wo
 
 And that's how my Kubernetes Dashboard looks like:
 
-![kubernetes dashboard](https://i.postimg.cc/L9hcL18t/k3s-dashboard.png)
+![kubernetes dashboard]({{ site.url }}/images/2019-07-07-setting-up-a-residential-K3s-single-node-cluster-with-KVM-in-a-manjaro-host-and-using-cloudflare-dynamic-dns/k3s-dashboard.png)
 
 By the way, if you want to install this dashboard on your cluster, check how to do it [here](https://github.com/kubernetes/dashboard).
 
