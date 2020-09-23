@@ -18,4 +18,4 @@ categories: [Astronomy, AP]
 **Timestamp (UTC):** 06-09-2020 03:00:00 (aprox.)  
 
 **Video:**  
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=AQzmR0Meiy4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQzmR0Meiy4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
