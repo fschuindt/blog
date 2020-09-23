@@ -26,7 +26,7 @@ When the frames arrived I thought I had messed up with something, they looked re
 
 To give an idea, this is how one of the frames looks like without any processing (the Red frame, smaller size tho):
 
-![Red Channel]({{ site.url }}/images/2020-01-06-my-first-picture-at-the-sso-ngc-3372/R.jpg)
+![Red Channel]({{ site.baseurl }}/images/2020-01-06-my-first-picture-at-the-sso-ngc-3372/R.jpg)
 
 But after the processing, that's the result:
 
@@ -47,11 +47,11 @@ But after the processing, that's the result:
 **HaRGB Picture Information:** [https://gist.github.com/fschuindt/996ef63e6cda908f390f8d7c8407b17e](https://gist.github.com/fschuindt/996ef63e6cda908f390f8d7c8407b17e)  
 **RGB Picture Information:** [https://gist.github.com/fschuindt/e66a200e3f1e766b46b2f2f4ac66d1bf](https://gist.github.com/fschuindt/e66a200e3f1e766b46b2f2f4ac66d1bf)  
 
-![Picture HaRGB]({{ site.url }}/images/2020-01-06-my-first-picture-at-the-sso-ngc-3372/medium_hargb.jpg)
+![Picture HaRGB]({{ site.baseurl }}/images/2020-01-06-my-first-picture-at-the-sso-ngc-3372/medium_hargb.jpg)
 
 I've also produced another image without the Ha filter:
 
-![Picture RGB]({{ site.url }}/images/2020-01-06-my-first-picture-at-the-sso-ngc-3372/medium_rgb.jpg)
+![Picture RGB]({{ site.baseurl }}/images/2020-01-06-my-first-picture-at-the-sso-ngc-3372/medium_rgb.jpg)
 
 Fun fact is that the [NGC 3532](https://en.wikipedia.org/wiki/NGC_3532) (Wishing Well Cluster) is right there in the bottom right corner, I loved it. So I'm already waiting for my new schedule to happen, I won't reveal it yet, but I'm hopping to see two galaxies in the next picture.
 

@@ -36,10 +36,10 @@ The images were stacked using DeepSky Stacker and stretched using Adobe Photosho
 **Picture Information:** [https://gist.github.com/fschuindt/41f8683fad81136dfd859efff534a1c2](https://gist.github.com/fschuindt/41f8683fad81136dfd859efff534a1c2)  
 **Astrometry:** [http://nova.astrometry.net/user_images/3312354#annotated](http://nova.astrometry.net/user_images/3312354#annotated)  
 
-![Picture]({{ site.url }}/images/2020-01-11-low-budget-imaging-of-ngc-3628-and-ngc-3627/DSS_LRGB_v3_large.jpg)
+![Picture]({{ site.baseurl }}/images/2020-01-11-low-budget-imaging-of-ngc-3628-and-ngc-3627/DSS_LRGB_v3_large.jpg)
 
-![Astrometry]({{ site.url }}/images/2020-01-11-low-budget-imaging-of-ngc-3628-and-ngc-3627/astrometry.jpeg)
+![Astrometry]({{ site.baseurl }}/images/2020-01-11-low-budget-imaging-of-ngc-3628-and-ngc-3627/astrometry.jpeg)
 
 And this time a courtesy negative gray scale picture. Using the four luminous frames stacked:
 
-![Negative]({{ site.url }}/images/2020-01-11-low-budget-imaging-of-ngc-3628-and-ngc-3627/DSS_L_GRAYSCALE_large.jpg)
+![Negative]({{ site.baseurl }}/images/2020-01-11-low-budget-imaging-of-ngc-3628-and-ngc-3627/DSS_L_GRAYSCALE_large.jpg)

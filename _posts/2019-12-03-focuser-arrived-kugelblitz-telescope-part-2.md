@@ -12,8 +12,8 @@ This is a SkyLife Foc-3 Focuser, designed to curve around 150mm tubes. The cente
 
 The overall finish is good, but this is not a high end piece. The inner tube will move when force is applied, so the weight of a DSLR may move the tube a bit, as it's common with practically all focusers with that design. But the price tag is excellent, I got it for USD 15 / 150 BRL and I'm really happy with it.
 
-![Image 1]({{ site.url }}/images/2019-12-03-focuser-arrived-kugelblitz-telescope-part-2/IMG_20191203_163718.jpg)
+![Image 1]({{ site.baseurl }}/images/2019-12-03-focuser-arrived-kugelblitz-telescope-part-2/IMG_20191203_163718.jpg)
 
-![Image 2]({{ site.url }}/images/2019-12-03-focuser-arrived-kugelblitz-telescope-part-2/IMG_20191203_163732.jpg)
+![Image 2]({{ site.baseurl }}/images/2019-12-03-focuser-arrived-kugelblitz-telescope-part-2/IMG_20191203_163732.jpg)
 
-![Image 3]({{ site.url }}/images/2019-12-03-focuser-arrived-kugelblitz-telescope-part-2/IMG_20191203_163812.jpg)
+![Image 3]({{ site.baseurl }}/images/2019-12-03-focuser-arrived-kugelblitz-telescope-part-2/IMG_20191203_163812.jpg)

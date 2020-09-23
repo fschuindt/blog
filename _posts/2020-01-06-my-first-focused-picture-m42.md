@@ -29,17 +29,17 @@ So I ended up with around 50 exposures, most of which were ruined by clouds. I s
 **Astrometry:** [http://nova.astrometry.net/status/3147368](http://nova.astrometry.net/status/3147368)  
 **Full Resolution Images:** [https://photos.app.goo.gl/cJ9S8e6YP1nwGmMp8](https://photos.app.goo.gl/cJ9S8e6YP1nwGmMp8)  
 
-![Picture]({{ site.url }}/images/2020-01-06-my-first-focused-picture-m42/L_0038_ISO400_10s__34C.jpg)
+![Picture]({{ site.baseurl }}/images/2020-01-06-my-first-focused-picture-m42/L_0038_ISO400_10s__34C.jpg)
 
-![Astrometry]({{ site.url }}/images/2020-01-06-my-first-focused-picture-m42/astrometry.jpg)
+![Astrometry]({{ site.baseurl }}/images/2020-01-06-my-first-focused-picture-m42/astrometry.jpg)
 
 The setup waiting the nightfall:
 
-![Gear]({{ site.url }}/images/2020-01-06-my-first-focused-picture-m42/IMG_20191228_165927.jpg)
+![Gear]({{ site.baseurl }}/images/2020-01-06-my-first-focused-picture-m42/IMG_20191228_165927.jpg)
 
 The property:
 
-![Property]({{ site.url }}/images/2020-01-06-my-first-focused-picture-m42/IMG_20191228_174312.jpg)
+![Property]({{ site.baseurl }}/images/2020-01-06-my-first-focused-picture-m42/IMG_20191228_174312.jpg)
 
 I just wanna say thanks to Catarina, my wife, for allowing me to play with her camera and lenses. To Terry F., my AP mentor, for the huge amount of knowledge and help he's providing to me. And for M. and his dad, for the always great hospitality, for allowing me to take these pictures in their property and for even turning the lights down for us to stargaze.
 

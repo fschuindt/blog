@@ -23,4 +23,4 @@ So obviously special thanks to Terry F. and to Catarina Dantas.
 **Other Gear:** OM Lens to Canon EOS adapter, generic tripod.  
 **Full Resolution Images:** [https://photos.app.goo.gl/2zRjU7Mz3wM9RoXK7](https://photos.app.goo.gl/2zRjU7Mz3wM9RoXK7)  
 
-![Picture]({{ site.url }}/images/2020-05-21-venus-and-mercury-conjunction-300mm-single-frame/IMG_0881_big.png)
+![Picture]({{ site.baseurl }}/images/2020-05-21-venus-and-mercury-conjunction-300mm-single-frame/IMG_0881_big.png)

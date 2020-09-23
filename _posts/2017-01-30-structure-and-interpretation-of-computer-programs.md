@@ -4,7 +4,7 @@ title: Structure And Interpretation Of Computer Programs
 categories: IT
 ---
 
-![Book cover illustration]({{ site.url }}/images/2017-01-30-structure-and-interpretation-of-computer-programs/sicp.jpg)
+![Book cover illustration]({{ site.baseurl }}/images/2017-01-30-structure-and-interpretation-of-computer-programs/sicp.jpg)
 
 <div style="height: 25px;"></div>
 

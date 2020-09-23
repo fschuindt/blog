@@ -6,7 +6,7 @@ title: The Author
 * * *
 
 <div style="width: 100%">
-  <img style="width: 30%; float: left;" src="{{ site.url }}/images/fschuindt.jpg" alt="Fernando Schuindt picture" />
+  <img style="width: 30%; float: left;" src="{{ site.baseurl }}/images/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
     <p><strong>Fernando Schuindt</strong>, 29yo Brazilian.<br />Software Engineer (Elixir) @ <a href="https://foxbox.com/about/">foxbox.com</a></p>
@@ -63,7 +63,7 @@ Here's my Twitter list on Elixir: [https://twitter.com/fschuindt/lists/elixir](h
 <div style="height: 20px;"></div>
 <h3>Contact me</h3>
 <div style="height: 10px;"></div>
-![Nothing important]({{ site.url }}/images/nothing-important.png)
+![Nothing important]({{ site.baseurl }}/images/nothing-important.png)
 
 BTC Wallet and PayPal address:  
 ```

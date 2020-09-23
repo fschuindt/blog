@@ -8,7 +8,7 @@ categories: [IT, Astronomy]
 
 I'm really happy to announce that I finished to building/setting up what I'm calling my "science station". It's a plastic box with a single board computer, a wifi router and some other stuff that allows me to control physical devices like equatorial telescope mounts and DSLR cameras remotely from my notebook with no wires in between.
 
-![01]({{ site.url }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200730_171105.jpg)
+![01]({{ site.baseurl }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200730_171105.jpg)
 
 I believe the idea here is really similar to products like [SkyFi](https://skysafariastronomy.com/skyfi-3-professional-astronomy-telescope-control.html) and [StellarMate](https://www.stellarmate.com/) but with a DIY element. Also I'm planning to later hook it up with non-astronomy related things, like [SDR](https://en.wikipedia.org/wiki/Software-defined_radio) devices.
 
@@ -36,16 +36,16 @@ On the notebook, the software I'm running to control everything is [KStars](http
 
 The next step is to configure a wired XBox-like joystick on the notebook to control the mount and later to set up my [RTL-SDR](https://www.rtl-sdr.com/) with a VHF antenna on the station itself.
 
-![02]({{ site.url }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200730_171508.jpg)
+![02]({{ site.baseurl }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200730_171508.jpg)
 
-![03]({{ site.url }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200730_170935.jpg)
+![03]({{ site.baseurl }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200730_170935.jpg)
 
-![04]({{ site.url }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200730_171003.jpg)
+![04]({{ site.baseurl }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200730_171003.jpg)
 
 **Update:** It's now working controlled by a USB joystick. The joystick is connected directly on the notebook.
 
-![05]({{ site.url }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200801_195434.jpg)
+![05]({{ site.baseurl }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200801_195434.jpg)
 
-![06]({{ site.url }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200801_192154.jpg)
+![06]({{ site.baseurl }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200801_192154.jpg)
 
-![07]({{ site.url }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200801_192751.jpg)
+![07]({{ site.baseurl }}/images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200801_192751.jpg)

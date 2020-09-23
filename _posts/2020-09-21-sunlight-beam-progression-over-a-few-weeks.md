@@ -12,11 +12,11 @@ In total 14 days were recorded, but not in a 14-day time span. The first picture
 
 I used a fixed metric ruler on the wall and took a picture every day roughly at the same time (4:30pm).
 
-![1]({{ site.url }}/images/2020-09-21-sunlight-beam-progression-over-a-few-weeks/header.png)
+![1]({{ site.baseurl }}/images/2020-09-21-sunlight-beam-progression-over-a-few-weeks/header.png)
 
 It changed every day. Not only the beam size was getting bigger but the "furthest" and "nearest" point were  both moving to the left. This chart plots the evolution:
 
-![2]({{ site.url }}/images/2020-09-21-sunlight-beam-progression-over-a-few-weeks/plot.png)
+![2]({{ site.baseurl }}/images/2020-09-21-sunlight-beam-progression-over-a-few-weeks/plot.png)
 
 That's the CSV data I created for this chart:
 ```c++
@@ -170,7 +170,7 @@ end
 
 According to [Wakatime](https://wakatime.com/@fschuindt/projects/kaxfupdexq?start=2020-09-20&end=2020-09-20) I took 1 hour and 33 minutes to write this one:
 
-![3]({{ site.url }}/images/2020-09-21-sunlight-beam-progression-over-a-few-weeks/wakatime.png)
+![3]({{ site.baseurl }}/images/2020-09-21-sunlight-beam-progression-over-a-few-weeks/wakatime.png)
 
 And the results are:
 - The "nearest point" moved to the left with a average speed of 1.34cm per day.
@@ -181,10 +181,10 @@ I made the calculations using only the first 8 days, as they were separated with
 
 And of course, that's the beam on the first day, August 20th:
 
-![4]({{ site.url }}/images/2020-09-21-sunlight-beam-progression-over-a-few-weeks/start.jpg)
+![4]({{ site.baseurl }}/images/2020-09-21-sunlight-beam-progression-over-a-few-weeks/start.jpg)
 
 Now it on the last day, September 12th:
 
-![5]({{ site.url }}/images/2020-09-21-sunlight-beam-progression-over-a-few-weeks/end.jpg)
+![5]({{ site.baseurl }}/images/2020-09-21-sunlight-beam-progression-over-a-few-weeks/end.jpg)
 
 [Click here](https://postimg.cc/gallery/GCX379B) to see all the images.

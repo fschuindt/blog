@@ -30,20 +30,20 @@ I really liked the fact that in this picture we can see not only the [Southern C
 **Astrometry:** [http://nova.astrometry.net/user_images/3414424](http://nova.astrometry.net/user_images/3414424)  
 **Full Resolution Images:** [https://photos.app.goo.gl/anvQzjiFkiXSafXC9](https://photos.app.goo.gl/anvQzjiFkiXSafXC9)  
 
-![Picture]({{ site.url }}/images/2020-02-25-improvised-dslr-single-shot-of-the-southern-cross-crux/IMG_0536.png)
+![Picture]({{ site.baseurl }}/images/2020-02-25-improvised-dslr-single-shot-of-the-southern-cross-crux/IMG_0536.png)
 
-![Astrometry]({{ site.url }}/images/2020-02-25-improvised-dslr-single-shot-of-the-southern-cross-crux/crux_annotated.jpeg)
+![Astrometry]({{ site.baseurl }}/images/2020-02-25-improvised-dslr-single-shot-of-the-southern-cross-crux/crux_annotated.jpeg)
 
 Here's a bonus picture of M42 with a coconut tree:
 
-![Bonus Picture]({{ site.url }}/images/2020-02-25-improvised-dslr-single-shot-of-the-southern-cross-crux/IMG_0464.png)
+![Bonus Picture]({{ site.baseurl }}/images/2020-02-25-improvised-dslr-single-shot-of-the-southern-cross-crux/IMG_0464.png)
 
 And some pictures of the estate:
 
-![Estate Picture 2]({{ site.url }}/images/2020-02-25-improvised-dslr-single-shot-of-the-southern-cross-crux/iago_estate_2.jpg)
+![Estate Picture 2]({{ site.baseurl }}/images/2020-02-25-improvised-dslr-single-shot-of-the-southern-cross-crux/iago_estate_2.jpg)
 
-![Estate Picture 3]({{ site.url }}/images/2020-02-25-improvised-dslr-single-shot-of-the-southern-cross-crux/iago_estate_3.jpg)
+![Estate Picture 3]({{ site.baseurl }}/images/2020-02-25-improvised-dslr-single-shot-of-the-southern-cross-crux/iago_estate_3.jpg)
 
-![Estate Picture 1]({{ site.url }}/images/2020-02-25-improvised-dslr-single-shot-of-the-southern-cross-crux/iago_estate_1.jpg)
+![Estate Picture 1]({{ site.baseurl }}/images/2020-02-25-improvised-dslr-single-shot-of-the-southern-cross-crux/iago_estate_1.jpg)
 
 Again, thank you Iago for such great experience, and thank you Catarina, for once more allowing me to play with the camera. I love you honey!

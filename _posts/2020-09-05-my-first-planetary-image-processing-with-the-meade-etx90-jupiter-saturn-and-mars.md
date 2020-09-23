@@ -23,21 +23,21 @@ I think it's a great time for these planets, Mars will be at opposition soon and
 **Other Gear:**  Meade LX85 GEM (unguided, no alignment), Canon EOS to M42 adapter, M42 to 1.25" adapter, Celestron Omni 2x Barlow  
 **Full Resolution Images:** [https://photos.app.goo.gl/f8soWfeexz54p9zK8](https://photos.app.goo.gl/f8soWfeexz54p9zK8)  
 
-![Jupiter]({{ site.url }}/images/2020-09-05-my-first-planetary-image-processing-with-the-meade-etx90-jupiter-saturn-and-mars/jupiter.jpg)
+![Jupiter]({{ site.baseurl }}/images/2020-09-05-my-first-planetary-image-processing-with-the-meade-etx90-jupiter-saturn-and-mars/jupiter.jpg)
 **Theme:** Jupiter  
 **Composition:** 4969 video frames, 2'45" duration, 930MB .MOV raw file.  
 **Processing:** PIPP pre-processing, AutoStakkert frame stacking, RegiStax 6 post-processing and Photoshop Camera Raw Filter  
 **Timestamp (Local Time):** 04-09-2020 22:11:19  
 **Timestamp (UTC):** 04-09-2020 01:11:19  
 
-![Saturn]({{ site.url }}/images/2020-09-05-my-first-planetary-image-processing-with-the-meade-etx90-jupiter-saturn-and-mars/saturn.jpg)
+![Saturn]({{ site.baseurl }}/images/2020-09-05-my-first-planetary-image-processing-with-the-meade-etx90-jupiter-saturn-and-mars/saturn.jpg)
 **Theme:** Saturn  
 **Composition:** 10750 video frames, 5'58" duration, 1.97GB .MOV raw file.  
 **Processing:** PIPP pre-processing, AutoStakkert frame stacking, RegiStax 6 post-processing and Photoshop Camera Raw Filter  
 **Timestamp (Local Time):** 04-09-2020 22:23:44  
 **Timestamp (UTC):** 04-09-2020 01:23:44  
 
-![Mars]({{ site.url }}/images/2020-09-05-my-first-planetary-image-processing-with-the-meade-etx90-jupiter-saturn-and-mars/mars.jpg)
+![Mars]({{ site.baseurl }}/images/2020-09-05-my-first-planetary-image-processing-with-the-meade-etx90-jupiter-saturn-and-mars/mars.jpg)
 **Theme:** Mars  
 **Composition:** 9248 video frames, 5'08" duration, 1.69GB .MOV raw file.  
 **Processing:** PIPP pre-processing, AutoStakkert frame stacking, RegiStax 6 post-processing and Photoshop Camera Raw Filter  

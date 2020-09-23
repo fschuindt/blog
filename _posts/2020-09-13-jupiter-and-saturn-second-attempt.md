@@ -19,14 +19,14 @@ But here is it:
 **Other Gear:**  Meade LX85 GEM (unguided, no alignment), Canon EOS to M42 adapter, M42 to 1.25" adapter, Celestron Omni 2x Barlow  
 **Full Resolution Images:** [https://photos.app.goo.gl/bjE8BSbU5iTLKrqj7](https://photos.app.goo.gl/bjE8BSbU5iTLKrqj7)  
 
-![Jupiter]({{ site.url }}/images/2020-09-13-jupiter-and-saturn-second-attempt/jupiter.png)]
+![Jupiter]({{ site.baseurl }}/images/2020-09-13-jupiter-and-saturn-second-attempt/jupiter.png)]
 **Theme:** Jupiter  
 **Composition:** aprox. 25' long, 6.83GB .MOV raw. (3 files in total)  
 **Processing:** PIPP pre-processing, AutoStakkert frame stacking, RegiStax 6 post-processing and Photoshop Camera Raw Filter  
 **Timestamp (Local Time):** 08-09-2020 20:50:00 (aprox.)  
 **Timestamp (UTC):** 08-09-2020 23:50:00 (aprox.)  
 
-![Saturn]({{ site.url }}/images/2020-09-13-jupiter-and-saturn-second-attempt/saturn.png)
+![Saturn]({{ site.baseurl }}/images/2020-09-13-jupiter-and-saturn-second-attempt/saturn.png)
 **Theme:** Saturn  
 **Composition:** aprox. 28' long, 8.13GB .MOV raw. (4 files in total)  
 **Processing:** PIPP pre-processing, AutoStakkert frame stacking, RegiStax 6 post-processing and Photoshop Camera Raw Filter  

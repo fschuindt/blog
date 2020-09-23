@@ -33,14 +33,14 @@ Then I packed the stuff and got up back to the office, performed a really quick/
 **Other Gear:**  Meade LX85 GEM, Canon EOS to M42 adapter, M42 to 1.25" adapter.  
 **Full Resolution Images:** [https://photos.app.goo.gl/GG4DzQkPTRJuuFJQ7](https://photos.app.goo.gl/GG4DzQkPTRJuuFJQ7)  
 
-![Picture 1]({{ site.url }}/images/2020-07-11-my-first-light-with-the-meade-etx90-beautiful-waning-gibbous-moon/01.png)
+![Picture 1]({{ site.baseurl }}/images/2020-07-11-my-first-light-with-the-meade-etx90-beautiful-waning-gibbous-moon/01.png)
 **Composition:** 1x Light Frames @ 1/160" ISO800 f/13.88  
 **Processing:** Photoshop resize, Camera Raw Filter  
 **Timestamp (Local Time):** 07-11-2020 01:19:51  
 **Timestamp (UTC):** 07-11-2020 04:19:51  
 **Theme:** Waning gibbous Moon 78.06%  
 
-![Picture 2]({{ site.url }}/images/2020-07-11-my-first-light-with-the-meade-etx90-beautiful-waning-gibbous-moon/02.png)
+![Picture 2]({{ site.baseurl }}/images/2020-07-11-my-first-light-with-the-meade-etx90-beautiful-waning-gibbous-moon/02.png)
 **Composition:** 1x Light Frames @ 1/100" ISO3200 f/13.88  
 **Processing:** Photoshop resize, Camera Raw Filter  
 **Timestamp (Local Time):** 07-11-2020 01:11:47  
@@ -48,7 +48,7 @@ Then I packed the stuff and got up back to the office, performed a really quick/
 **Theme:** Waning gibbous Moon 78.06%  
 **Other gear:** Celestron Omni 2x Barlow  
 
-![Picture 3]({{ site.url }}/images/2020-07-11-my-first-light-with-the-meade-etx90-beautiful-waning-gibbous-moon/03.png)
+![Picture 3]({{ site.baseurl }}/images/2020-07-11-my-first-light-with-the-meade-etx90-beautiful-waning-gibbous-moon/03.png)
 **Composition:** 1x Light Frames @ 1/160" ISO3200 f/13.88  
 **Processing:** Photoshop resize, Camera Raw Filter  
 **Timestamp (Local Time):** 07-11-2020 01:13:18  
@@ -56,7 +56,7 @@ Then I packed the stuff and got up back to the office, performed a really quick/
 **Theme:** Waning gibbous Moon 78.06%  
 **Other gear:** Celestron Omni 2x Barlow  
 
-![Picture 4]({{ site.url }}/images/2020-07-11-my-first-light-with-the-meade-etx90-beautiful-waning-gibbous-moon/04.jpg)
+![Picture 4]({{ site.baseurl }}/images/2020-07-11-my-first-light-with-the-meade-etx90-beautiful-waning-gibbous-moon/04.jpg)
 **Composition:** 1x Light Frames @ 1/25" ISO3200 f/13.88  
 **Processing:** Photoshop resize, Camera Raw Filter, crop, manual background noise removal  
 **Timestamp (Local Time):** 07-11-2020 00:58:06  
@@ -65,6 +65,6 @@ Then I packed the stuff and got up back to the office, performed a really quick/
 **Other gear:** Celestron Omni 2x Barlow  
 
 **Gear:**
-![Gear 1]({{ site.url }}/images/2020-07-11-my-first-light-with-the-meade-etx90-beautiful-waning-gibbous-moon/05.jpg)
+![Gear 1]({{ site.baseurl }}/images/2020-07-11-my-first-light-with-the-meade-etx90-beautiful-waning-gibbous-moon/05.jpg)
 
-![Gear 2]({{ site.url }}/images/2020-07-11-my-first-light-with-the-meade-etx90-beautiful-waning-gibbous-moon/06.jpg)
+![Gear 2]({{ site.baseurl }}/images/2020-07-11-my-first-light-with-the-meade-etx90-beautiful-waning-gibbous-moon/06.jpg)

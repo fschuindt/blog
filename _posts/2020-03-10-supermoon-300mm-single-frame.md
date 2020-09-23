@@ -25,4 +25,4 @@ This was taken using the donated DSLR and lens.
 **Other Gear:** 4/3 to OM Lens Adapter, generic tripod.  
 **Full Resolution Images:** [https://photos.app.goo.gl/FDiB8tBYP6o2AmPZA](https://photos.app.goo.gl/FDiB8tBYP6o2AmPZA)  
 
-![Picture]({{ site.url }}/images/2020-03-10-supermoon-300mm-single-frame/P3093128.png)
+![Picture]({{ site.baseurl }}/images/2020-03-10-supermoon-300mm-single-frame/P3093128.png)

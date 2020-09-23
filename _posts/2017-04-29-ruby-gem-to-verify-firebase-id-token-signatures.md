@@ -4,7 +4,7 @@ title: Ruby Gem To Verify Firebase Id Token Signatures
 categories: IT
 ---
 
-![Article screenshot]({{ site.url }}/images/2017-04-29-ruby-gem-to-verify-firebase-id-token-signatures/firebase_banner.png)
+![Article screenshot]({{ site.baseurl }}/images/2017-04-29-ruby-gem-to-verify-firebase-id-token-signatures/firebase_banner.png)
 
 <div style="height: 25px;"></div>
 

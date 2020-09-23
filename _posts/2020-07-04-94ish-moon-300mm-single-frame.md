@@ -26,12 +26,12 @@ I think my Photoshop edit killed it, but I liked it anyway.
 **Other Gear:** OM Lens to Canon EOS adapter, generic tripod, USB cable, APT software.  
 **Full Resolution Images:** [https://photos.app.goo.gl/TQdzXrnCT9Emh3x76](https://photos.app.goo.gl/TQdzXrnCT9Emh3x76)  
 
-![Picture]({{ site.url }}/images/2020-07-04-94ish-moon-300mm-single-frame/Single__0073.jpg)
+![Picture]({{ site.baseurl }}/images/2020-07-04-94ish-moon-300mm-single-frame/Single__0073.jpg)
 
 **Gear**
 
-![Gear 1]({{ site.url }}/images/2020-07-04-94ish-moon-300mm-single-frame/gear1.jpg)
+![Gear 1]({{ site.baseurl }}/images/2020-07-04-94ish-moon-300mm-single-frame/gear1.jpg)
 
-![Gear 2]({{ site.url }}/images/2020-07-04-94ish-moon-300mm-single-frame/gear2.jpg)
+![Gear 2]({{ site.baseurl }}/images/2020-07-04-94ish-moon-300mm-single-frame/gear2.jpg)
 
-![Gear 3]({{ site.url }}/images/2020-07-04-94ish-moon-300mm-single-frame/gear3.jpg)
+![Gear 3]({{ site.baseurl }}/images/2020-07-04-94ish-moon-300mm-single-frame/gear3.jpg)

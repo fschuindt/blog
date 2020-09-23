@@ -4,7 +4,7 @@ title: My Elixir Study Notes
 categories: IT
 ---
 
-![Article illustration]({{ site.url }}/images/2016-10-30-my-elixir-study-notes/header.jpg)
+![Article illustration]({{ site.baseurl }}/images/2016-10-30-my-elixir-study-notes/header.jpg)
 
 While studying the Elixir [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) I decided to begin resuming it out as a way to get it fixed. I ended up with a very useful document for those who already read the guide and want to quickly review any topic. It’s a one page document resuming the whole guide, which is just great to use with the *Find* command.
 
