@@ -1,0 +1,33 @@
+---
+layout: page
+---
+
+<div class="table_of_contents">
+  <h3>Table of Contents (Photography)</h3>
+  {% for post in site.categories.AP %}
+  <ul>
+    <li>
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+  </ul>
+  {% endfor %}
+</div>
+
+<div class="photography_spacer">
+</div>
+
+<div class="posts">
+  {% for post in site.categories.AP %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
