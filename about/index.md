@@ -9,10 +9,10 @@ title: The Author
   <img style="width: 30%; float: left;" src="{{ site.url }}/images/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, 28yo Brazilian.<br />Software Engineer @ <a href="https://foxbox.com/about/">foxbox.com</a></p>
-    <p>A passionate developer.<br />16 years of coding and 10 years of professional experience.<br /></p>
+    <p><strong>Fernando Schuindt</strong>, 29yo Brazilian.<br />Software Engineer (Elixir) @ <a href="https://foxbox.com/about/">foxbox.com</a></p>
+    <p>A passionate developer.<br />17 years of coding and 10 years of professional experience.<br /></p>
     <div style="height: 30px;"></div>
-    <p>Mostly working with back-end and DevOps.<br />Highly experienced with Elixir, Kubernetes and Ruby.</p>
+    <p>Mostly working with back-end and DevOps.<br />Experienced with Elixir, Kubernetes and Ruby.</p>
     <p>I do send copies of my <i>resumé</i>, just ask me. (Preferably via email)</p>
   </div>
 
@@ -22,7 +22,15 @@ title: The Author
 
 <div style="height: 60px;"></div>
 
-<p>At my current <i>fulltime</i> position I'm dividing myself between software development and DevOps administration.</p>
+<p>I started to learn programming in 2003. In 2006 I got my first contract, I was 15. Since 2010 I'm professionaly working was a back-end developer. At my current <i>fulltime</i> position I'm dividing myself between software development and DevOps administration.</p>
+
+<div style="height: 20px;"></div>
+
+<p>This page is also a blog, here you check:</p>
+- <a href="{{ site.baseurl }}/">my posts about IT</a>
+- <a href="{{ site.baseurl }}/astronomy">amateur astronomy</a>
+- <a href="{{ site.baseurl }}/photography">my astrophotographies</a>
+- or <a href="{{ site.baseurl }}/all">all together.</a>
 
 <div style="height: 30px;">
 </div>
