@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Author
+excerpt: Fernando Schuindt, 29yo Brazilian. Software engineer (Elixir) at foxbox.com. Passionate developer, 17 years of coding and 10 years of professional experience.
 ---
 
 * * *
@@ -31,6 +32,11 @@ title: The Author
 - <a href="{{ site.baseurl }}/astronomy">amateur astronomy</a>
 - <a href="{{ site.baseurl }}/photography">my astrophotographies</a>
 - or <a href="{{ site.baseurl }}/all">all together.</a>
+
+<div style="height: 12px;">
+</div>
+
+Please notice that **none** of my posts, thoughts or ideas represents any of my past or present employers. Those are all expressions of myself.
 
 <div style="height: 30px;">
 </div>

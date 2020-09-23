@@ -2,11 +2,13 @@
 layout: post
 title: Focuser grinding, tube ring and finder scope (Kugelblitz Telescope. Pt. 3)
 categories: Astronomy
+image: images/2019-12-05-focuser-grinding-tube-ring-and-finder-scope-kugelblitz-telescope-part-3/IMG_20191203_225611.jpg
+excerpt: "As I have mentioned before, the focuser is designed for 150mm tubes, so I had to disassembly and grind it to fit the 250mm tube diameter."
 ---
 
 *This post was originally published on my [old blog](https://boredprogrammer.postach.io/post/focuser-grinding-tube-ring-and-finder-scope-kugelblitz-telescope-part-3) dedicated to amateur astronomy.*
 
-As I have mentioned before, the focuser is designed for 150mm tubes, so I had to disassembly and grind it to fit the 250mm tube diameter.
+As I have mentioned before, the focuser is designed for 150mm tubes, so I had to disassembly and grind it to fit the 250mm tube diameter.
 
 ![Image 1]({{ site.baseurl }}/images/2019-12-05-focuser-grinding-tube-ring-and-finder-scope-kugelblitz-telescope-part-3/IMG_20191203_225611.jpg)
 These are the parts I took out during the grinding, to avoid plastic dust. That taught me about its internal workings, and I realized that the 4 screws in the bottom plate will make the focuser harder to move when tighten, it may account for the DSLR weight.

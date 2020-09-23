@@ -2,6 +2,8 @@
 layout: post
 title: Linkerd service mesh CPU footprint on Kubernetes
 categories: IT
+image: images/2019-10-04-linkerd-service-mesh-cpu-footprint-on-kubernetes/cpu-prod-node-1-annotations.png
+excerpt: "I've been using Linkerd for a while on staging environments, but now I finally deployed it to production. And I went to inspect its CPU/memory footprint on my older Prometheus/Grafana setup. The Kubernetes cluster for production is 3-node-sized with 2GB RAM each and it's running at DigitalOcean. After a whole day since the initial setup (which is really simple) the result is what follows."
 ---
 
 I've been using Linkerd for a while on staging environments, but now I finally deployed it to production. And I went to inspect its CPU/memory footprint on my older Prometheus/Grafana setup. The Kubernetes cluster for production is *3-node-sized* with 2GB RAM each and it's running at DigitalOcean. After a whole day since the initial setup (which is really simple) the result is what follows.

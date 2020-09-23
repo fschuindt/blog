@@ -2,6 +2,8 @@
 layout: post
 title: Setting up a residential K3s single node cluster with KVM in a Manjaro host and using Cloudflare dynamic DNS
 categories: IT
+image: images/2019-07-07-setting-up-a-residential-K3s-single-node-cluster-with-KVM-in-a-manjaro-host-and-using-cloudflare-dynamic-dns/press.jpg
+excerpt: "A guide on how to setup K3s Kubernetes dristro cluster on a local network of virtual computers with KVM."
 ---
 
 ![press]({{ site.baseurl }}/images/2019-07-07-setting-up-a-residential-K3s-single-node-cluster-with-KVM-in-a-manjaro-host-and-using-cloudflare-dynamic-dns/press.jpg)

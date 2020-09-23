@@ -2,6 +2,8 @@
 layout: post
 title: My first light with the Meade ETX 90, beautiful waning gibbous Moon
 categories: [Astronomy, AP]
+image: images/2020-07-11-my-first-light-with-the-meade-etx90-beautiful-waning-gibbous-moon/01.png
+excerpt: "Last week I bought an used Meade ETX 90 (90mm Maksutov), the fork mount was broken so I bought only the OTA to be used with my Meade LX85 equatorial mount. The OTA also had a problem with the 90° flip mirror mechanism to change the focuser image position, it was stuck on the upright 90° position, which is not only a bad place to fix a DSLR but it also makes the visual/AP change process a complicated one. I'll manage a way to fix this mechanism ASAP, but in the meantime I'm using the DSLR in the upright position."
 ---
 
 *This post was originally published on my [old blog](https://boredprogrammer.postach.io/post/my-first-light-with-the-meade-etx-90-beautiful-waning-gibbous-moon) dedicated to amateur astronomy.*

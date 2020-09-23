@@ -2,6 +2,8 @@
 layout: post
 title: My first focused picture (M42)
 categories: [Astronomy, AP]
+image: images/2020-01-06-my-first-focused-picture-m42/L_0038_ISO400_10s__34C.jpg
+excerpt: "All right, after studying some lessons from my professor and mentor in AP, Terry F.. I was able to take my first focused picture, haha. Me and my wife were spending the weekend in this nice property in the middle of the Praia do Saco beach in Estância - Sergipe, Brazil. I knew the place already as I have been there multiple times in the past. It has a nice sky and it was during the New Moon phase, so I took the opportunity to make some observations with my 114mm f/8.7 Newtonian, my 12x70 binoculars and to take some pictures with my wife's Canon EOS 600D."
 ---
 
 *This post was originally published on my [old blog](https://boredprogrammer.postach.io/post/my-first-focused-picture-m42) dedicated to amateur astronomy.*

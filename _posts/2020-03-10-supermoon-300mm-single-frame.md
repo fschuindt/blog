@@ -2,6 +2,8 @@
 layout: post
 title: Supermoon 300mm Single Frame
 categories: [Astronomy, AP]
+image: images/2020-03-10-supermoon-300mm-single-frame/P3093128.png
+excerpt: "Just a simple quick shot straight out my backyard. I didn't wanted to miss the Supermoon without a picture. It's not the kind of event that thrills me, but still a nice thing. So here it is."
 ---
 
 *This post was originally published on my [old blog](https://boredprogrammer.postach.io/post/supermoon-300mm-single-frame) dedicated to amateur astronomy.*

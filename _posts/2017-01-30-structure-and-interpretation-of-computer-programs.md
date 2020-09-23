@@ -2,6 +2,8 @@
 layout: post
 title: Structure And Interpretation Of Computer Programs
 categories: IT
+image: images/2017-01-30-structure-and-interpretation-of-computer-programs/sicp.jpg
+excerpt: "Link to SICP web book and video lessons playlist."
 ---
 
 ![Book cover illustration]({{ site.baseurl }}/images/2017-01-30-structure-and-interpretation-of-computer-programs/sicp.jpg)

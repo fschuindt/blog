@@ -2,6 +2,8 @@
 layout: post
 title: My first picture at the SSO (NGC 3372)
 categories: [Astronomy, AP]
+image: images/2020-01-06-my-first-picture-at-the-sso-ngc-3372/medium_hargb.jpg
+excerpt: "As I’m studying a lot about AP, I thought would be nice to give a try to iTelescope.net systems, and it was pretty fun. I picked the Siding Spring Observatory in Australia and the T8 telescope, which is a 106mm Takahashi FSQ Apochromatic, 0.10-m f/5 telescope. The target was NGC 3372, the Eta Carinae Nebula."
 ---
 
 *This post was originally published on my [old blog](https://boredprogrammer.postach.io/post/my-first-picture-at-the-sso) dedicated to amateur astronomy.*

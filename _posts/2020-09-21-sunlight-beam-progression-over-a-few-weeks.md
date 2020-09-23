@@ -2,6 +2,8 @@
 layout: post
 title: "Sunlight beam progression over a few weeks"
 categories: [Astronomy, IT]
+image: images/2020-09-21-sunlight-beam-progression-over-a-few-weeks/header.png
+excerpt: "Observing the sunlight projection size over a few days, gathering data and later processing it."
 ---
 
 *This post was originally published on my [old blog](https://boredprogrammer.postach.io/post/sunlight-beam-progression-over-a-few-weeks) dedicated to amateur astronomy.*

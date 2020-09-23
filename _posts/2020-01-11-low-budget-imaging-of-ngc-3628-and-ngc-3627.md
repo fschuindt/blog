@@ -2,6 +2,8 @@
 layout: post
 title: Low budget imaging of NGC 3628 and NGC 3627
 categories: [Astronomy, AP]
+image: images/2020-01-11-low-budget-imaging-of-ngc-3628-and-ngc-3627/DSS_LRGB_v3_large.jpg
+excerpt: "This one took me quite a good time to process, ended up making 3 versions of it and sticking with the latest. It's the first time I programmed a galaxy themed picture so my inexperience spoke during the whole process."
 ---
 
 *This post was originally published on my [old blog](https://boredprogrammer.postach.io/post/low-budget-imaging-of-ngc-3628-and-ngc-3627) dedicated to amateur astronomy.*

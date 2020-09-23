@@ -2,6 +2,8 @@
 layout: post
 title: My Elixir Study Notes
 categories: IT
+image: images/2016-10-30-my-elixir-study-notes/header.jpg
+excerpt: "My personal notes for studying Elixir. It's a 'cheat sheet' of the Getting Started guide from the official website."
 ---
 
 ![Article illustration]({{ site.baseurl }}/images/2016-10-30-my-elixir-study-notes/header.jpg)

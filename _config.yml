@@ -16,12 +16,13 @@
 title: Collateral Software
 email: f.schuindtcs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "fschuindt's personal blog about software development and stuff."  
+  Personal blog about software development and amateur astronomy.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://fschuindt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # url: "http://localhost:4000/blog"
 twitter_username: fschuindt
 github_username:  fschuindt
+permalink: /:year/:month/:day/:title:output_ext
 
 paginate: 10
 

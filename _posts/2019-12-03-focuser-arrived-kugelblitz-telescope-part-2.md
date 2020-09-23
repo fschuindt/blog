@@ -2,6 +2,8 @@
 layout: post
 title: Focuser arrived! (Kugelblitz Telescope. Pt. 2)
 categories: Astronomy
+image: images/2019-12-03-focuser-arrived-kugelblitz-telescope-part-2/IMG_20191203_163718.jpg
+excerpt: "After 14 days waiting the focuser arrived. It's one of the most important pieces in a telescope. I decided to go with the 1.25 inch barrel for lenses, as it's cheaper and easier to find oculars to fit in. It's a pretty popular choice as well."
 ---
 
 *This post was originally published on my [old blog](https://boredprogrammer.postach.io/post/focuser-arrived-kugelblitz-telescope-part-2) dedicated to amateur astronomy.*

@@ -2,6 +2,8 @@
 layout: post
 title: Improvised DSLR single shot of the Southern Cross (Crux)
 categories: [Astronomy, AP]
+image: images/2020-02-25-improvised-dslr-single-shot-of-the-southern-cross-crux/IMG_0536.png
+excerpt: "It's Brazilian carnival once more, one of the biggest local holidays around here. It's a time of parties and lots of people in the streets. For me it's being a time of retirement and relaxation. And by that I mean being alone in my house spending the entire holiday on the internet, or with friends and family in some not crowded small city with some good nature, away from all the craziness that is the carnival. Don't get me wrong, it's fun, but taking the time to enjoy nature and relax is too. So I did."
 ---
 
 *This post was originally published on my [old blog](https://boredprogrammer.postach.io/post/improvised-dslr-single-shot-of-the-southern-cross-crux) dedicated to amateur astronomy.*

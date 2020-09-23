@@ -2,6 +2,8 @@
 layout: post
 title: Concurrent Calculation Of Fibonacci In Elixir
 categories: IT
+image: images/2017-09-21-concurrent-calculation-of-fibonacci-in-elixir/fib_formula.jpg
+excerpt: "A simple experiemt using concurrency in Elixir to compute Fibonacci terms aproximations with a formula."
 ---
 
 There's a known formula to evaluate a *n* Fibonacci term position without iteration or recursion.

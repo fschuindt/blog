@@ -2,6 +2,7 @@
 layout: post
 title: "Mars occultation by the Moon video with Meade ETX 90 and Canon EOS 600D"
 categories: [Astronomy, AP]
+excerpt: "90mm aperture with 1250mm focal length."
 ---
 
 *This post was originally published on my [old blog](https://boredprogrammer.postach.io/post/mars-occultation-by-the-moon-video-with-meade-etx-90-and-canon-eos-600d) dedicated to amateur astronomy.*
