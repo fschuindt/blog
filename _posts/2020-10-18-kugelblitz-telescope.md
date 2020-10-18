@@ -45,13 +45,9 @@ I'm publishing this page to serve as a documentation/specification page for this
 
 ## Optical Project
 
-**Visual Setup**
+[![Visual Setup]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/K1-v2_1.png)]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/K1-v2_1.png)
 
-![Visual Setup]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/K1-v2_1.png)
-
-**AP Setup**
-
-![AP Setup]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/K1-v2_2.png)
+[![AP Setup]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/K1-v2_2.png)]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/K1-v2_2.png)
 
 ## Pictures
 
@@ -74,6 +70,5 @@ I'm publishing this page to serve as a documentation/specification page for this
 ![9]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/PA185390.jpg)
 
 Special thanks to Catarina Dantas and the following [Cloudy Nights](https://www.cloudynights.com/) members:
-```
-B 26354, SarverSkyGuy, Garyth64, JoeInMN, brebisson, GDAstrola, photomagica, Jon Isaacs, kathyastro, KLWalsh, dogbiscuit and Star Shooter.
-```
+
+*B 26354, SarverSkyGuy, Garyth64, JoeInMN, brebisson, GDAstrola, photomagica, Jon Isaacs, kathyastro, KLWalsh, dogbiscuit and Star Shooter.*
