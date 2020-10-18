@@ -8,7 +8,7 @@ excerpt: "Documentation and specs. for the Kugelblitz handmade Newtonian telesco
 
 The Kugelblitz is a handmade Newtonian reflector telescope. This project started on November 19th, 2019 when I decided to assemble my own Newtonian. 10 months after I can say the project is ready for clear skies.
 
-I'm publishing this page to serve as a documentation/specification page for this instrument.
+I'm publishing this page to serve as a documentation/specification for this instrument.
 
 ## Specs.
 
