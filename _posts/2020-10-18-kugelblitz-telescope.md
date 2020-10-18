@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kugelbltiz telescope"
+title: "Kugelblitz telescope"
 categories: [Astronomy]
 image: images/2020-10-18-kugelblitz-telescope/PA185351.jpg
 excerpt: "Documentation and specs. for the Kugelblitz handmade Newtonian telescope."
