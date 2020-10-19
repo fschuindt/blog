@@ -49,6 +49,34 @@ I'm publishing this page to serve as a documentation/specification for this inst
 
 [![AP Setup]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/K1-v2_2.png)]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/K1-v2_2.png)
 
+## Diagonal off-axis illumination
+
+![Off-axis illumination]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/diagonal_offaxis_illumination.png)
+
+```
+Results:
+Smallest possible diagonal = 32.62 (mm)
+Smallest user defined diagonal = 60 (mm)
+Diagonal size maximizing illumination integrated across the field = 60 (mm)
+Diagonal size for most even illumination across the field = 70 (mm)
+illumination integrated across the field:  60: 90.8%; 70: 88.9%;
+
+Central obstructions are 60: 28.6%; 70: 33.3%;
+RMS wave deformations due to central obstruction are 60: 1/16; 70: 1/14;
+
+Diagonal offset on fully illuminated field (towards primary mirror and away from focuser) = 1.84 (mm)
+Diagonal offset (along diagonal face) = 2.61 (mm)
+Diagonal offset on focal point (towards primary mirror and away from focuser) = 1.92 (mm)
+Diagonal offset above focal point (towards primary mirror and away from focuser) (76.2 (mm) above) = 3.08 (mm)
+Diagonal offset field edge (towards primary mirror and away from focuser) = 1.41 (mm)
+
+Off-axis mask results:
+maximum off-axis diameter = 76.84 (mm)
+highest magnification = 76x
+Dawes' Limit = 1.5 arc seconds
+limiting magnitude = 13.2
+```
+
 ## Pictures
 
 ![1]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/PA185328.jpg)
