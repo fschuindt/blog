@@ -19,8 +19,8 @@ I'm publishing this page to serve as a documentation/specification for this inst
 - **Distance from the secondary to the focal plane:** 275mm
 - **Visual secondary mirror dimensions:** 60x80mm
 - **AP secondary mirror dimensions:** 70x98mm
-- **OTA weight:** ??
-- **Dobsonian mount weight:** ??
+- **OTA weight:** 7.9kg
+- **Dobsonian mount weight:** 9.15kg
 
 ## Staff & Off-the-shelf
 
