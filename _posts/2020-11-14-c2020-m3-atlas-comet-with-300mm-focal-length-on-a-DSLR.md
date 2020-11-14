@@ -6,7 +6,7 @@ image: images/2020-11-14-c2020-m3-atlas-comet-with-300mm-focal-length-on-a-DSLR/
 excerpt: "My first stacked picture after polar alignment was trying to capture the C/2020 M3 ATLAS comet during his passage over Orion. That's not what you can call 'professional' by a long shot, but the end result got me pleased."
 ---
 
-That's my first stacked picture taken since my first polar alignment, I'm super excited.
+That's my first stacked picture taken since my first polar alignment, I'm super excited!
 
 **Author:** Fernando Schuindt  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
