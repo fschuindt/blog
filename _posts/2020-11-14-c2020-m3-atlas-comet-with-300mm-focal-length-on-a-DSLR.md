@@ -15,10 +15,10 @@ That's my first stacked picture taken since my first polar alignment, I'm super 
 **Composition:** 19x Light Frame 40" (12.66' total) ISO800 f/4.5, 25x Dark, 25x Flat, 25x Bias  
 **Processing:** Stacking with DeepSky Stacker, Photoshop Levels adjustments and Camera Raw Filter  
 **Location Name:** Aracaju - Sergipe, Brazil  
-**Bortle Scale:** 7
+**Bortle Scale:** 7  
 **Location Aprox. Coordinates:** 10°58'31.0"S 37°04'26.0"W  
 **Timestamp (Local Time):** From 11-13-2020 23:25:24 to 11-13-2020 23:54:30  
-**Timezone:** UTC-3 (No daylight saving time)
+**Timezone:** UTC-3 (No daylight saving time)  
 **Theme:** Comet C/2020 M3 ATLAS  
 **Center (RA, hms):** 05h 25m 58.341s  
 **Center (Dec, dms):** +03° 59' 31.651"  
