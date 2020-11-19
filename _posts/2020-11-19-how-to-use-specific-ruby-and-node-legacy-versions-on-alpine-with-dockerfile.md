@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to use specific Ruby and Node.js legacy versions on a Alpine Dockerfile"
+title: "How to use specific Ruby and Node.js legacy versions on Alpine with Dockerfile"
 categories: [IT]
 image: images/wizard_square.jpg
 excerpt: "A Alpine based Dockerfile to build legacy versions of Ruby and Node.js into containers."
