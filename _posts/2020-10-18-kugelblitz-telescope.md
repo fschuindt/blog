@@ -97,6 +97,11 @@ limiting magnitude = 13.2
 
 ![9]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/PA185390.jpg)
 
+![10]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/me_and_the_scope.jpg)
+*That's me preparing it for a session.*
+
+![11]({{ site.baseurl }}/images/2020-10-18-kugelblitz-telescope/scope_solo.jpg)
+
 Special thanks to Catarina Dantas and the following [Cloudy Nights](https://www.cloudynights.com/) members:
 
 *B 26354, SarverSkyGuy, Garyth64, JoeInMN, brebisson, GDAstrola, photomagica, Jon Isaacs, kathyastro, KLWalsh, dogbiscuit and Star Shooter.*
