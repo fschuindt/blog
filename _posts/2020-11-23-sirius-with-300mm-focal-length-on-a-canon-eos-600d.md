@@ -14,7 +14,7 @@ I've set up KStars on my notebook to wireless control my camera and mount using 
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 **Camera:** Canon EOS 600D  
 **Lens/Telescope:** Lens Zuiko Olympus 300mm f/4.5 Manual-Focus OM (Film)  
-**Composition:** 42x Light Frames 28" (19.6' total) ISO400 f/8, 25x Dark, 25x Flat, 25x Bias  
+**Composition:** 42x Light Frames 28" (19.6' total) ISO 800 f/8, 25x Dark, 25x Flat, 25x Bias  
 **Processing:** Stacking with DeepSky Stacker, Photoshop Levels adjustments and Camera Raw Filter  
 **Location Name:** Aracaju - Sergipe, Brazil  
 **Bortle Scale:** 7  
