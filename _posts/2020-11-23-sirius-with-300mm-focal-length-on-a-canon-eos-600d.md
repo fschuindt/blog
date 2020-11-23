@@ -31,14 +31,3 @@ I've set up KStars on my notebook to wireless control my camera and mount using 
 **Astrometry:** [http://nova.astrometry.net/user_images/4171943#annotated](http://nova.astrometry.net/user_images/4171943#annotated)  
 **Backup Images (On Google Photos):** [https://photos.app.goo.gl/c2LqFysiHfPPEwbs7](https://photos.app.goo.gl/c2LqFysiHfPPEwbs7)  
 
-[![Picture]({{ site.baseurl }}/images/2020-11-23-sirius-with-300mm-focal-length-on-a-canon-eos-600d/sirius_stacked_edit_v2_crop_full_res.jpg)]({{ site.baseurl }}/images/2020-11-23-sirius-with-300mm-focal-length-on-a-canon-eos-600d/sirius_stacked_edit_v2_crop_full_res.jpg)
-
-**Annotated:**
-[![Picture with notes]({{ site.baseurl }}/images/2020-11-23-sirius-with-300mm-focal-length-on-a-canon-eos-600d/astrometry.jpeg)]({{ site.baseurl }}/images/2020-11-23-sirius-with-300mm-focal-length-on-a-canon-eos-600d/astrometry.jpeg)
-
-**Equipment:**
-[![Gear 1]({{ site.baseurl }}/images/2020-11-23-sirius-with-300mm-focal-length-on-a-canon-eos-600d/gear_1.jpg)]({{ site.baseurl }}/images/2020-11-23-sirius-with-300mm-focal-length-on-a-canon-eos-600d/gear_1.jpg)
-
-[![Gear 2]({{ site.baseurl }}/images/2020-11-23-sirius-with-300mm-focal-length-on-a-canon-eos-600d/gear_2.jpg)]({{ site.baseurl }}/images/2020-11-23-sirius-with-300mm-focal-length-on-a-canon-eos-600d/gear_2.jpg)
-
-[![Gear 3]({{ site.baseurl }}/images/2020-11-23-sirius-with-300mm-focal-length-on-a-canon-eos-600d/gear_3.jpg)]({{ site.baseurl }}/images/2020-11-23-sirius-with-300mm-focal-length-on-a-canon-eos-600d/gear_3.jpg)
