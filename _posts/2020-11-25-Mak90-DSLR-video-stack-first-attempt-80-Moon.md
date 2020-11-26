@@ -30,7 +30,7 @@ My first impressions:
 **Outdoor temp.:** 25° C  
 **Outdoor humidity:** 94%  
 **Theme:** 80% Moon  
-**Other Gear:** Meade LX85 GEM *unguided* (Two-star alignment).
+**Other Gear:** Meade LX85 GEM *unguided* (Two-star alignment).  
 **Backup Images (On Google Photos):** [https://photos.app.goo.gl/5cPTxMpar66NPvgg8](https://photos.app.goo.gl/5cPTxMpar66NPvgg8)  
 
 (Click to zoom)
