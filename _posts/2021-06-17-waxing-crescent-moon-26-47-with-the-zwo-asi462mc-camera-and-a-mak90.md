@@ -2,7 +2,7 @@
 layout: post
 title: "Waxing crescent Moon (26.47%) with the ZWO ASI462MC camera and a Mak90 telescope"
 categories: [Astronomy, AP]
-image: images/2021-06-17-waxing-crescent-moon-26-47-with-the-zwo-asi462mc-camera-and-a-mak90/19_38_22_1x_no-filter_63frames_final.png
+image: images/2021-06-17-waxing-crescent-moon-26-47-with-the-zwo-asi462mc-camera-and-a-mak90/19_38_22_1x_no-filter_63frames_small_to_web.jpg
 excerpt: "Close up on the Moon using the ASI426MC camera with a 1250mm focal distance / 90mm aperture (f/13.88) telescope on top of a Meade LX85 computerized german equatorial mount."
 ---
 
