@@ -35,7 +35,7 @@ I'm also planning to build a Bahtinov mask to aid in focusing, as I was using ma
 **Theme:** Jupiter and the Galilean moons with notes  
 **Distance:** 4.039 AU  
 **Magnitude:** -2.85  
-**Lens/Telescope:** [Kugelblitz](https://fschuindt.github.io/blog/2020/10/18/kugelblitz-telescope.html) handmade telescope (210mm aperture, 1350mm focal length, f/6.62, Newtonian)  
+**Lens/Telescope:** [Kugelblitz](https://fschuindt.github.io/blog/2020/10/18/kugelblitz-telescope.html) handmade telescope (210mm aperture, 1390mm focal length, f/6.62, Newtonian)  
 **Composition:** 2698 frames captured (16.7GB .avi file), 700 frames stacked  
 **Processing:** AutoStakkert for stacking, RegiStax 6 for stretching and Photoshop for processing  
 **Timestamp (Local Time):** 06-08-2021 22:19:21  
@@ -50,7 +50,7 @@ I'm also planning to build a Bahtinov mask to aid in focusing, as I was using ma
 **Theme:** Jupiter and the Galilean moons without notes  
 **Distance:** 4.039 AU  
 **Magnitude:** -2.85  
-**Lens/Telescope:** [Kugelblitz](https://fschuindt.github.io/blog/2020/10/18/kugelblitz-telescope.html) handmade telescope (210mm aperture, 1350mm focal length, f/6.62, Newtonian)  
+**Lens/Telescope:** [Kugelblitz](https://fschuindt.github.io/blog/2020/10/18/kugelblitz-telescope.html) handmade telescope (210mm aperture, 1390mm focal length, f/6.62, Newtonian)  
 **Composition:** 2698 frames captured (16.7GB .avi file), 700 frames stacked  
 **Processing:** AutoStakkert for stacking, RegiStax 6 for stretching and Photoshop for processing  
 **Timestamp (Local Time):** 06-08-2021 22:19:21  
