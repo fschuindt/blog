@@ -10,9 +10,9 @@ excerpt: Fernando Schuindt, 29yo Brazilian. Software engineer (Elixir) at foxbox
   <img style="width: 30%; float: left;" src="{{ site.baseurl }}/images/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, 29yo Brazilian.<br />Software Engineer (Elixir) @ <a href="https://foxbox.com/about/">foxbox.com</a></p>
-    <p>A passionate developer.<br />17 years of coding and 10 years of professional experience.<br /></p>
-    <div style="height: 30px;"></div>
+    <p><strong>Fernando Schuindt</strong>, 30yo, Brazilian.<br />Software Engineer (Elixir) @ <a href="https://foxbox.com/about/">foxbox.com</a></p>
+    <p>A passionate developer.<br />21 years since my first HTML. (2000)<br />18 years since my first back-end code. (2003)</p>
+    <div style="height: 10px;"></div>
     <p>Mostly working with back-end and DevOps.<br />Experienced with Elixir, Kubernetes and Ruby.</p>
     <p>I do send copies of my <i>resumé</i>, just ask me. (Preferably via email)</p>
   </div>
@@ -23,7 +23,7 @@ excerpt: Fernando Schuindt, 29yo Brazilian. Software engineer (Elixir) at foxbox
 
 <div style="height: 60px;"></div>
 
-<p>I started to learn programming in 2003 and in 2006 I got my first contract. Since 2010 I'm professionaly working as a software engineer. At my current fulltime position I'm dividing myself between development and devops.</p>
+<p>I started to learn programming in 2003 and in 2006 I got my first contract. I've been working professionally as a software engineer. At my current fulltime position I'm dividing myself between software development and devops.</p>
 
 <div style="height: 20px;"></div>
 
@@ -57,100 +57,106 @@ Some of my open source:
 <div style="height: 60px;">
 </div>
 And you can find me at:
-+ [https://gitlab.com/fschuindt](https://gitlab.com/fschuindt) (Most of my recent activity is here)
 + [https://github.com/fschuindt](https://github.com/fschuindt)
++ [https://gitlab.com/fschuindt](https://gitlab.com/fschuindt)
 + [https://twitter.com/fschuindt](https://twitter.com/fschuindt)
 + [https://linkedin.com/in/fschuindt](https://linkedin.com/in/fschuindt)
 + *fschuindt* at irc.freenode.net
 
 <div style="height: 30px;"></div>
-Here's my Twitter list on Elixir: [https://twitter.com/fschuindt/lists/elixir](https://twitter.com/fschuindt/lists/elixir)
 
-<div style="height: 20px;"></div>
 <h3>Contact me</h3>
 <div style="height: 10px;"></div>
 ![Nothing important]({{ site.baseurl }}/images/nothing-important.png)
 
-BTC Wallet and PayPal address:  
+<div style="height: 20px;"></div>
+
+<h3>Cryptocurrency public wallets and PayPal (email) addresses</h3>
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA1
+Hash: SHA256
 
-My Bitcoin wallet address:
-1HGaDV8aa9ZK2t8Ni9kaFEHHXvpngdZsgF
+My public cryptocurrency wallet addresses.
+
+BTC: 1MpfofuNNtJL5FaX49qxUCgDBYms93ubFk
+ETH: 0x80B385A245951f27496864Fe8E1F7f81da73Dd42
+ADA: addr1qynl9py4teas8jj3p59vm420elu6cm9cgmlha9m9zrvlpu0wrvvulman975sx6jpf4630tg9yun9yuh2qedenvfqwlzspevw5w
+ALGO: DNEAWL4WJIDF3OVOQPL3CVFLWDJV3ENBN4SAPNYY3P72LBT6SHXFNW2CWE
 
 Fernando Schuindt <f.schuindtcs@gmail.com>
-
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBAgAGBQJblbYuAAoJEGnEKIpjDFqwiOEP/Ap5QBr/8P/QdLSsbFEfGXE1
-1vevpGenvGQ6ZqP7QvO293IzApIh8EZ1KLazCXroG9z3rOVk300apdzdwTD4MshW
-9AGDvCiK6UQ1/pJSZTnWwpGTnAJEwNnWgjeEjvjBZJsDiU3Fb4yYSuwKFiAiE4VJ
-VQ3bm0DqK79sxzIw4Htn/nli6CeJWZqgUGrTfZ2IioPio4RohczkVA0ZJS5epDd6
-fWfZFQvcc2YodtCFfzU/avKjaXIQTbxKTo1FX6Wx9ldFgIKtQon0BRt8qIVuxlOb
-UQerwO/QELQ91uGU3y9AoNnmvHp3WEgXQ5gF7XLL7q2FI8hPaNwyS6Oi2nzjlWCM
-AZQBjSWN79DoqxHbtCILR/6Ai1cwIpWl6WKiAqvXl0lXcf3wU0JvK68YhTvwgSvj
-SyCYf77bu+7KwON41qSOyYQ++mLFtkUYgP8rqWNeFWjtzXHmglBxb7CwaK7wBIv9
-fAEWhwKZzT9CainCNDcNcqgd68dxSfr1Wtdll7KBRmXOaDc2vnD91CEcYg7K7oH1
-+t5tKhuLTky1lTpI4cDrXLIFGmjkBAKihM1mI+Lt29R87vN2Q3+ZiYBxajb+ErY1
-dpF6kNLATKr6Tgk1r/SR1m7R+iVC3dd1pKb0+dKK4GWGmOICSFb9CzJ15WV/fDWf
-aFjZi5mdnh/yENpxVGXB
-=DEDM
+iQIzBAEBCAAdFiEEM+lBmx2k85d1cN3xDh6QJ3Cm2YcFAmGMej8ACgkQDh6QJ3Cm
+2YfNDRAA4rfbzShln7zsVSq69MBZu4El6RbrpDJc+z+HyG0bSCyHdA402mp5dPr5
+HaEOf84buQ6cX2jlBZDI9oXSNrN7KqbUjLFOkZfZuKmNjw0wI9gQl/oZ3cvmYp+y
+bfFyrJ8MpejbwY7sP8/9HVk7Q2qT0Q36X0r4T5xeV9bMnxKbpNKqT6g+O/Qja4qc
+db/rqKd+hygW9hzKdfBIxbqfBjZfjAaaZmC2k4Mc6Ol+25Bdk6Cwl7/0H1cjCfYc
+6MmxgXub3AQn6ApHoCG8YPqq1ZyFMz4+ceYQV8j8yFOYSv6I/G7OD5dQ/2rMq7fm
+l6iyFsxP8IfkpOF/sD3Ya5SQJj5R05+MHUPuxr/unV/lsn+qTPohfQlDwraXbk10
+3YYRbk/7yAGTRFQwu116kC97fnlEXJOd/MLjjuwwTe9dvEOxhF6xtrL6/Pr6HFzJ
+f1pF214icgRnXdX3bIkb7WLoFQBtLko8xC4F2CJ/XZkLzHewJfbr6j/dUhCER73j
+3Guy3WciKcCFrb6x+AgQAtZRNHy9Eo/eXWDw3n4FEjajotOsUyI/XcWyQJVZGYbF
+uIKVxRv0bWrqbF4XL+gHinwYxz3stmVJWrx9LTQdMvKk0KMq71cxp1j3TQjC75XE
+nRbiU9B/49epRx2w3QNLarU6MqU0BJrpx9/sGG5IhY6i9zNwHoo=
+=zMyi
 -----END PGP SIGNATURE-----
 ```
 
-If you wish, here is my PGP:  
-*Or via [https](https://github.com/fschuindt.gpg)*.
+<div style="height: 20px;"></div>
+
+<h3>My GPG Public Key</h3>
+*Or via [GitHub](https://github.com/fschuindt.gpg)*.
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-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
-/DpLZeVT1FXa
-=B/vC
+mQINBGGMXt4BEADvPCJvJN3Qm4DRluzdsBKjn3GlSe9sbNFavWWfLmAj4o1734H/
+eYKB2JskBqXggdOv6VW/BSXenyETbeSPPlZEfe3NbT66W2VxlYfXal83NCOPWG5o
+yQxYL9keUEQAKuFK3zSmXiEIQHyXodNMzZQQOsk3Pqqee1RhJiRIpaw61QnDTZxt
+81b3e1XJgT/bb8j/826nw6vMoM3CQLFL3Sc0KrDlxN17VyoXmTemsIGzg4J18Hw+
+aqS6JAlDzFUxjTImVc6//Z4oR2Qabz7oQkRAg774fHp/IT6XnVw95Q1rnsUtURcF
+pLLvHNgN5SRujeoKEFGXz67Xeld+81zsldbLdnVrZairs3GJEeCzQytbXMS5HlmJ
+fvJi7RMq5NdnXDaWgMjnlwiCeB12L1v6c5fcs+QxK+TQa/uuSZ2mWzUlaFn9sbNR
+6HgLrAdVTFDGbPrC6nAFO5/vzg3CUi2fDDElN3rr2mai/q8BD7trlGtUkRhqmEI3
+AXNXYb6CDs9Hv9JAWOvQ6W2kcJP3s6O3rBxYL03DsbcBB4AP7wCJfK76NRJWBuqa
+afuewtUgIzY/9aaRwqeWqjYqlF6PhF4WQsPF58fsgzexg0WAaFa8n0NfAK4p06ma
+dwAaJxsE/Sw2aKnY07OXMD98FvPQai/QZb0JfH2xRQXy3B/puBGP//6EywARAQAB
+tDNGZXJuYW5kbyBTY2h1aW5kdCAoVGV0aHlzKSA8Zi5zY2h1aW5kdGNzQGdtYWls
+LmNvbT6JAk4EEwEIADgWIQQz6UGbHaTzl3Vw3fEOHpAncKbZhwUCYYxe3gIbAwUL
+CQgHAgYVCgkICwIEFgIDAQIeAQIXgAAKCRAOHpAncKbZh4SOD/4+Je2w0PdGX7BF
+WHUMaN662aNQhA3W4TlhunTFSl81iRHzdEkR2VRO3AOqaDxhvRYGJCAf5LXm5khz
+oR4egTmOOzjRJrK36chNLUVclMjonplcQgHSWKGGWJIp7AQmwGQ+DGVqkGQr7Bma
+xDJQWGV9vwnlghNBHnYUtKmA2mwuhI3guvXhw8lgZVpkXOuaD9RpuHI2VU63FLnj
+rCJFxRHvnLOwZZJqg3lb11kSMWwClrMkLeDfsNWTE+gErikxAD5PLVbhKPe/TSSL
+6K5Mav2glJiAl6cFUdOLvwtqS0Aq2/qdzhqXQDGIoY3qQFC0uuFaHh7s2xUbUG9Z
+gW2YHs/qt2290FSGSj1sB4uP2v/LaXE3jjDCCH4g4rGOVy4psrUop1m0Nuo/p/jQ
+hqGOxAXtcVFb68wzijREOfNqnrfkQfkoKdtqWUHmsu/jDhvkgw7sMhFWjLrkIQf5
+JEj4lDE7+N3yjgre0Me7bLGBqreQzP84s0VXMxGC2tZ0Um6bgr6iTvt0C0F8/JsS
+FPh1exEvX1cKE+9hLUzCCnjCGDE/oqXwyvY5UfniJYNK+zsvAOmbSRdCSav+RLqP
+thH0f/QpDOCWcldqzg5CUciH485tMZ+0Fx304t4cVQbugCoS7aGbyjGdNFSCYgEg
+yNVJvrN4E9A+S5rumfToer7K9hetaLkCDQRhjF7eARAAn+YK/xrXgy/HHpVOoLhH
+u1g8U8aG7NhWPu5tEODcKN+ajR6xBfKya1qco0J+Q10BvUc/CELnWaf8W3+XWnkK
+Ys5TVrETM3TJobd2DPGjaA11kDuy0TiTNiKEsudrKq2SCvt7m1S4/3E1DAqR1Ltx
+zCDYCXfMuy8HQNH37F6oEzUiGRUG0uMa0bamJS+U4uHbnyXHv+CgZ2rT/HBJBMPT
+9LhJHyM92UuQIRb7IQDViGtu99qhtVN/2sz4uVtIzemIZ6uzuvjR81OenHieIrLj
+6Y4sNLcnt1wMsLuGzeYiSf+9it77kYPhXq46KO6nMQYgtjaMTfQtAB6Eo0vW669X
+CvukeTs0WoOeAWnDTicc3bQpvwTTCfW/lQOrSPNshG31zfVFl1P9f89j3YR/7RJF
+foxrWrjlUYaVW1oHfP6USMVgKxY55TPvzKJY9F2+wRT3L18YwPwljYTdv8/QjTa5
+af+/5ro3Lcqjw3+8lC/bjt6bZ9AU41Ejmd1XBrWf5IaT9NkCUuxMcXje/aiXsaZ3
+TTpNzwolEvfZfDrKqZTAdEcV96JSKetP+B8Ip4tSKwTknotg891UyKmcEFtbGoxx
+gAd6lMstEWmFE/H/hfr26Gyt+1rODuvKSOHNZ2+UjvgvZpBZVBWtIPt9jr33Zedq
+Me0UPLRXZilA2Xok5xSPFqEAEQEAAYkCNgQYAQgAIBYhBDPpQZsdpPOXdXDd8Q4e
+kCdwptmHBQJhjF7eAhsMAAoJEA4ekCdwptmHHsYQANbmBc3Kc9FSFXrMTLCgJZhh
+FvI49ANKIbdv7L3v1/kS8w/DZkFFrp1Xe3SkuQHvfKGs7+NCkXN6Bi7gWyRe2OXu
+L5qtwQ922Turg7OosPlI2C0m1/lJcv/uz95nZUODUr/jVSG1/P9i4v3yzX3CyCH3
+PAGHQbz7YvQp359w5u1NtgiRhJsiL8RPITzsAmQJNzgXlROvq6FjsRGpf0e358Sb
+Sp4XIYVEtjjSThUWEDcAwDUK04S9o9UQFC8iL7KAS+hX6sz/Gk3YmrvlhjRJlYXd
+berqrg71zr1QtLW7Ffm72x64horVPEuYFqkDOBQF9CnyQkPX122939JlGlIL5IXE
+INc+KMkLbC9eWtnmzWjeV8WZg7urZtN9+F79QOx0WmsHu2we1mbkpqSh0KxI9HaC
+QaJHhidGxD67SyArxp4H2xn1yDDPXNwEqnZPhMAL/PM1Ww2D907hBKDwx3pDCVg2
+1UMgW3aWxvhTo2YJklWew9TrpAVvt2gryirP42e5+9D++dWeD4MHMmjrv9vNBD6O
+KK5R5y2yQb78eycoEk8I/9gzjfXU8prQYWgAcXSzz6onFhMSRakKMdbwklTPzkz5
+J9TG+o7HQNiZI6COdOYu812h99YwdQfF3T9Sx3mIcrsYktZZ3i+zu3zg009mV+ut
+voRBqAQ2wn2IJsDAZgQT
+=TAhO
 -----END PGP PUBLIC KEY BLOCK-----
 ```
