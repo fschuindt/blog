@@ -23,7 +23,7 @@ excerpt: Fernando Schuindt, 29yo Brazilian. Software engineer (Elixir) at foxbox
 
 <div style="height: 60px;"></div>
 
-<p>I started to learn programming in 2003 and in 2006 I got my first contract. I've been working professionally as a software engineer. At my current fulltime position I'm dividing myself between software development and devops.</p>
+<p>I started to learn programming in 2003 and in 2006 I got my first contract. I've been working professionally as a software engineer since 2010. At my current fulltime position I'm dividing myself between software development and devops.</p>
 
 <div style="height: 20px;"></div>
 
