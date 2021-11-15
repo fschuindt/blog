@@ -11,7 +11,7 @@ excerpt: Fernando Schuindt, 29yo Brazilian. Software engineer (Elixir) at foxbox
 
   <div style="width: 65%; float: right;">
     <p><strong>Fernando Schuindt</strong>, 30yo, Brazilian.<br />Software Engineer (Elixir) @ <a href="https://foxbox.com/about/">foxbox.com</a></p>
-    <p>A passionate developer.<br />21 years since my first HTML. (2000)<br />18 years since my first back-end code. (2003)</p>
+    <p>A passionate developer.<br />21 years since my first HTML.<br />18 years since my first back-end code.</p>
     <div style="height: 10px;"></div>
     <p>Mostly working with back-end and DevOps.<br />Experienced with Elixir, Kubernetes and Ruby.</p>
     <p>I do send copies of my <i>resumé</i>, just ask me. (Preferably via email)</p>
@@ -81,24 +81,24 @@ My public cryptocurrency wallet addresses.
 BTC: 1MpfofuNNtJL5FaX49qxUCgDBYms93ubFk
 ETH: 0x80B385A245951f27496864Fe8E1F7f81da73Dd42
 ADA: addr1qynl9py4teas8jj3p59vm420elu6cm9cgmlha9m9zrvlpu0wrvvulman975sx6jpf4630tg9yun9yuh2qedenvfqwlzspevw5w
-ALGO: DNEAWL4WJIDF3OVOQPL3CVFLWDJV3ENBN4SAPNYY3P72LBT6SHXFNW2CWE
+ALGO: L7QCYXTJ4O5YHF3FWGNYXQVJTAVUYX4GAMLGAWY3DW4RJ2UJDVJPERNAQY
 
 Fernando Schuindt <f.schuindtcs@gmail.com>
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEM+lBmx2k85d1cN3xDh6QJ3Cm2YcFAmGMej8ACgkQDh6QJ3Cm
-2YfNDRAA4rfbzShln7zsVSq69MBZu4El6RbrpDJc+z+HyG0bSCyHdA402mp5dPr5
-HaEOf84buQ6cX2jlBZDI9oXSNrN7KqbUjLFOkZfZuKmNjw0wI9gQl/oZ3cvmYp+y
-bfFyrJ8MpejbwY7sP8/9HVk7Q2qT0Q36X0r4T5xeV9bMnxKbpNKqT6g+O/Qja4qc
-db/rqKd+hygW9hzKdfBIxbqfBjZfjAaaZmC2k4Mc6Ol+25Bdk6Cwl7/0H1cjCfYc
-6MmxgXub3AQn6ApHoCG8YPqq1ZyFMz4+ceYQV8j8yFOYSv6I/G7OD5dQ/2rMq7fm
-l6iyFsxP8IfkpOF/sD3Ya5SQJj5R05+MHUPuxr/unV/lsn+qTPohfQlDwraXbk10
-3YYRbk/7yAGTRFQwu116kC97fnlEXJOd/MLjjuwwTe9dvEOxhF6xtrL6/Pr6HFzJ
-f1pF214icgRnXdX3bIkb7WLoFQBtLko8xC4F2CJ/XZkLzHewJfbr6j/dUhCER73j
-3Guy3WciKcCFrb6x+AgQAtZRNHy9Eo/eXWDw3n4FEjajotOsUyI/XcWyQJVZGYbF
-uIKVxRv0bWrqbF4XL+gHinwYxz3stmVJWrx9LTQdMvKk0KMq71cxp1j3TQjC75XE
-nRbiU9B/49epRx2w3QNLarU6MqU0BJrpx9/sGG5IhY6i9zNwHoo=
-=zMyi
+iQIzBAEBCAAdFiEEM+lBmx2k85d1cN3xDh6QJ3Cm2YcFAmGSrRsACgkQDh6QJ3Cm
+2YeLug/+MR1X3QeOsJy9uVNVpRoCYBmwSG27oydrS8+yjEklb2o0PzMv1wcvBhIH
+VYMUvGownQBFEi/DnsS/sFt8mcCcdkvzQPtoEHHO8BWvEG1icdumoSveNN2mI57C
+NveqBT21SiExkZCnwjgohaoCLZtUak5nGNSphKNUwJln5bPWl3JW+hUH5vawt7kc
+5OnEgGIMQSwqBu+JoChCTrNQX3eVIAeDSbpF7xRm/FdrCgNZFGdXsX6zAcyrp3MG
+sYrlU1TABXxh7arauUCJIaRU/OgpLx6RumNX4adw/Ayx0L7qwwTE7PpX2SoACC1Y
+xHcCk/HV5WYq7h1jt21ALKv6NDDeSMi4vCt228UZc0dt7PDQNWZ5vNHVv1VSldTY
+igLNY8kLoBBKIl8Qv9YzJQoqO1g0YiRrb6U2KsnqRGfU6Q5+0GMyPvfMSwu55M1K
+UKPzo4wcE/1fkwMy4Uyvq0ZPFs++T6rZ/PMAd819umY7gYt8sRdwroZPfVl3khoz
+a/Mf3Jc+s5TVKpUzKdeajoz2veJ3F9q3tkR7F1DWf2XSevOwJEdLqtZGRdsD8HB0
+cKQN9UVOUcaUcdNDhD6lqapw5E6tVFFgJLRa8TCSVmF7xFAkCyv9HjK8sff5w/Pu
+Me8NUdK15Jn5fTv3YF/xZVqbVovUI9MoExHJL4mOvYmityDRO5Q=
+=3d94
 -----END PGP SIGNATURE-----
 ```
 
