@@ -11,9 +11,9 @@ excerpt: Fernando Schuindt, 29yo Brazilian. Software engineer (Elixir) at foxbox
 
   <div style="width: 65%; float: right;">
     <p><strong>Fernando Schuindt</strong>, 30yo, Brazilian.<br />Software Engineer (Elixir) @ <a href="https://foxbox.com/about/">foxbox.com</a></p>
-    <p>A passionate developer.<br />21 years since my first HTML.<br />18 years since my first back-end code.</p>
+    <p>A passionate programmer.<br />21 years since my first HTML.<br />18 years since my first back-end code.</p>
     <div style="height: 10px;"></div>
-    <p>Mostly working with back-end and DevOps.<br />Experienced with Elixir, Kubernetes and Ruby.</p>
+    <p>Mostly working with Elixir development.<br />Also experienced with Kubernetes, Ruby and PHP.</p>
     <p>I do send copies of my <i>resumé</i>, just ask me. (Preferably via email)</p>
   </div>
 
@@ -42,6 +42,7 @@ Please notice that **none** of my posts, thoughts or ideas represents any of my 
 </div>
 
 Some of my open source:  
++ [NGINX RTMP/RTMPS to HLS and MPEG-Dash media stream broadcaster NGINX distro](https://github.com/fschuindt/nginx_rtmp_hls_dash)
 + [Toucan, A Ruby framework for CLI applications](https://github.com/fschuindt/toucan)
 + [firebase_id_token, a Ruby Gem for validating Firebase JWT](https://github.com/fschuindt/firebase_id_token)
 + [Amethyst, a GraphQL banking server in Elixir](https://github.com/fschuindt/amethyst)
@@ -61,7 +62,7 @@ And you can find me at:
 + [https://gitlab.com/fschuindt](https://gitlab.com/fschuindt)
 + [https://twitter.com/fschuindt](https://twitter.com/fschuindt)
 + [https://linkedin.com/in/fschuindt](https://linkedin.com/in/fschuindt)
-+ *fschuindt* at irc.freenode.net
++ *fschuindt* at irc.freenode.net, irc.libera.chat, matrix.org
 
 <div style="height: 30px;"></div>
 
@@ -159,4 +160,12 @@ J9TG+o7HQNiZI6COdOYu812h99YwdQfF3T9Sx3mIcrsYktZZ3i+zu3zg009mV+ut
 voRBqAQ2wn2IJsDAZgQT
 =TAhO
 -----END PGP PUBLIC KEY BLOCK-----
+```
+
+<div style="height: 20px;"></div>
+
+<h3>My SSH Public Key</h3>
+*Or via [GitHub](https://github.com/fschuindt.keys)*.
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOI/iiwdpZwcxO0U1i/01kpjMWX7dUj/6KA9OJ5BczYT
 ```
