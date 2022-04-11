@@ -23,7 +23,7 @@ excerpt: Fernando Schuindt, 29yo Brazilian. Software engineer (Elixir) at foxbox
 
 <div style="height: 60px;"></div>
 
-<p>I started to learn programming in 2003 and in 2006 I got my first contract. Since 2010 I've been working professionally as a software engineer. At my current fulltime position I'm dividing myself between software development and devops.</p>
+<p>I started to learn programming in 2003 and in 2006 I got my first contract. Since 2010 I've been working professionally as a software engineer. At my current fulltime position I'm mainly working with Elixir development, but I'm also in charge for all the Kubernetes infra.</p>
 
 <div style="height: 20px;"></div>
 
@@ -169,5 +169,3 @@ voRBqAQ2wn2IJsDAZgQT
 ```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOI/iiwdpZwcxO0U1i/01kpjMWX7dUj/6KA9OJ5BczYT
 ```
-
-Testing
