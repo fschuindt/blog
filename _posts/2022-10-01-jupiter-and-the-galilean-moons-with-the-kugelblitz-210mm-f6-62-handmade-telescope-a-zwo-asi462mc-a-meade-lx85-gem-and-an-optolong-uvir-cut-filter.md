@@ -2,7 +2,7 @@
 layout: post
 title: "Jupiter and the Galilean moons with the Kugelblitz 210mm f/6.62 handmade telescope, a ZWO ASI462MC, a Meade LX85 GEM and an Optolong UV/IR-cut filter."
 categories: [Astronomy, AP]
-image: images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/thumb.png
+image: images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/thumb.png
 excerpt: "My first time using such a big OTA on my Meade LX85 GEM. Wind as a big challenge, but nothing more than the expected."
 ---
 
@@ -28,7 +28,7 @@ It is fun to see that huge scope with that GEM. The wind shook the hell out of i
 
 **Theme:** Jupiter and the Galilean moons  
 
-[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/montage.png)]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/montage.png)
+[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/montage.png)]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/montage.png)
 (Click to open full resolution)
 
 <div style="height: 30px;">
@@ -38,10 +38,10 @@ It is fun to see that huge scope with that GEM. The wind shook the hell out of i
 **Composition:** 2000 frames captured (11.8GB .avi file), 600 frames stacked  
 **Timestamp (UTC-3):** 30-09-2022 23:21:27  
 
-[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/23_21_27_final_with_subs.png)]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/23_21_27_final_with_subs.png)
+[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/23_21_27_final_with_subs.png)]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/23_21_27_final_with_subs.png)
 (Click to open full resolution)
 
-[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/23_21_27_final_no_subs.png)]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/23_21_27_final_no_subs.png)
+[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/23_21_27_final_no_subs.png)]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/23_21_27_final_no_subs.png)
 (Click to open full resolution)
 
 <div style="height: 30px;">
@@ -51,24 +51,24 @@ It is fun to see that huge scope with that GEM. The wind shook the hell out of i
 **Composition:** 1262 frames captured (7.8GB .avi file), 450 frames stacked  
 **Timestamp (UTC-3):** 30-09-2022 23:29:55  
 
-[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/23_29_55_final_with_subs.png)]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/23_29_55_final_with_subs.png)
+[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/23_29_55_final_with_subs.png)]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/23_29_55_final_with_subs.png)
 (Click to open full resolution)
 
-[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/23_29_55_final_no_subs.png)]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/23_29_55_final_no_subs.png)
+[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/23_29_55_final_no_subs.png)]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/23_29_55_final_no_subs.png)
 (Click to open full resolution)
 
 ## Gear & Bonus
 
-[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/me_and_the_scope_3.jpg)]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/me_and_the_scope_3.jpg)
+[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/me_and_the_scope_3.jpg)]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/me_and_the_scope_3.jpg)
 (Click to open full resolution)
 
-[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/me_and_the_scope_2.jpg)]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/me_and_the_scope_2.jpg)
+[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/me_and_the_scope_2.jpg)]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/me_and_the_scope_2.jpg)
 (Click to open full resolution)
 
-[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/me_and_the_scope_1.jpg)]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/me_and_the_scope_1.jpg)
+[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/me_and_the_scope_1.jpg)]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/me_and_the_scope_1.jpg)
 (Click to open full resolution)
 
-[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/gear.jpg)]({{ site.baseurl }}/images/2022-10-01-jupiter-first-attempt-with-an-atm-reflector-on-a-lx85-gem-using-the-zwo-462mc-camera/gear.jpg)
+[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/gear.jpg)]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/gear.jpg)
 (Click to open full resolution)
 
 ## Camera Settings
