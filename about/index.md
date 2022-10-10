@@ -10,8 +10,8 @@ excerpt: Fernando Schuindt, 29yo Brazilian. Software engineer (Elixir) at foxbox
   <img style="width: 30%; float: left;" src="{{ site.baseurl }}/images/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, 30yo, Brazilian.<br />Software Engineer (Elixir) @ <a href="https://foxbox.com/about/">foxbox.com</a></p>
-    <p>A passionate programmer.<br />21 years since my first HTML.<br />18 years since my first back-end code.</p>
+    <p><strong>Fernando Schuindt</strong>, 31yo, Brazilian.<br />Software Engineer (Elixir) @ <a href="https://foxbox.com/about/">foxbox.com</a></p>
+    <p>A passionate programmer.<br />22 years since my first HTML.<br />19 years since my first back-end code.</p>
     <div style="height: 10px;"></div>
     <p>Mostly working with Elixir development.<br />Also experienced with Kubernetes, Ruby and PHP.</p>
     <p>I do send copies of my <i>resumé</i>, just ask me. (Preferably via email)</p>
