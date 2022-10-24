@@ -8,24 +8,6 @@ layout: default
   {{ content }}
 </article>
 
-{% assign comments = site.data.comments[page.slug] %}
-
-{% if comments.size > 0 %}
-  <h3>Comments</h3>
-  <div id="comments">
-    {% for comment in comments %}
-      {% assign name = comment[1].name %}
-      {% assign email = comment[1].email %}
-      {% assign url = comment[1].url %}
-      {% assign date = comment[1].date %}
-      {% assign message = comment[1].comment %}
-      {% include comments/index.html index=forloop.index name=name email=email url=url message=message date=date %}
-    {% endfor %}
-  </div>
-{% endif %}
-
-{% include comments/new.html %}
-
 {% if site.related_posts != empty %}
 <aside class="related">
   <h3>Related posts</h3>
