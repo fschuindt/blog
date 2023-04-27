@@ -10,7 +10,7 @@ excerpt: Fernando Schuindt, 29yo Brazilian. Software engineer (Elixir) at foxbox
   <img style="width: 30%; float: left;" src="{{ site.baseurl }}/images/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, 31yo, Brazilian.<br />Software Engineer (Elixir) @ <a href="https://foxbox.com/about/">foxbox.com</a></p>
+    <p><strong>Fernando Schuindt</strong>, 31yo, Brazilian.<br />Software Engineer (Elixir) @ <a href="https://www.thexlife.co/">thexlife.co</a></p>
     <p>A passionate programmer.<br />22 years since my first HTML.<br />19 years since my first back-end code.</p>
     <div style="height: 10px;"></div>
     <p>Mostly working with Elixir development.<br />Also experienced with Kubernetes, Ruby and PHP.</p>
@@ -58,6 +58,7 @@ Some of my open source:
 <div style="height: 60px;">
 </div>
 And you can find me at:
++ **Email:** fschuindt@722.network
 + [https://github.com/fschuindt](https://github.com/fschuindt)
 + [https://gitlab.com/fschuindt](https://gitlab.com/fschuindt)
 + [https://twitter.com/fschuindt](https://twitter.com/fschuindt)
@@ -65,12 +66,6 @@ And you can find me at:
 + *fschuindt* at irc.freenode.net, irc.libera.chat, matrix.org
 
 <div style="height: 30px;"></div>
-
-<h3>Contact me</h3>
-<div style="height: 10px;"></div>
-![Nothing important]({{ site.baseurl }}/images/nothing-important.png)
-
-<div style="height: 20px;"></div>
 
 <h3>Cryptocurrency public wallets and PayPal (email) addresses</h3>
 ```
