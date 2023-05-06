@@ -34,7 +34,7 @@ No matter what you believe in, if we aren't in agreement with each other, it's d
 
 If you assume:
 + It's indeed possible.
-+ We can use one of the [Models of Computation](https://en.wikipedia.org/wiki/Model_of_computation) available today to achieve it. Like [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) or [Lambda Calculus](https://fschuindt.github.io/blog/2017/01/30/a-short-lambda-calculus-explanation/) (or any other equivalent model that satisfies the [Church-Turing Thesys](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)).
++ We can use one of the [Models of Computation](https://en.wikipedia.org/wiki/Model_of_computation) available today to achieve it. Like [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) or [Lambda Calculus](https://fschuindt.722.network/2017/01/30/a-short-lambda-calculus-explanation/) (or any other equivalent model that satisfies the [Church-Turing Thesys](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)).
 + We can compute all of it using [Boolean Algebra](https://en.wikipedia.org/wiki/Boolean_algebra) and a [Binary Based System](https://en.wikipedia.org/wiki/Binary_number).
 
 Then:

@@ -10,14 +10,14 @@ The wet season is still bringing lots of rain to my region, but once in a while 
 
 I could say this is my first real planetary image using the ZWO ASI462MC color camera. I've performed the following experiments:
 - Jupiter, no barlow, ETX90
-- Jupiter, no barlow, [Kugelblitz](https://fschuindt.github.io/blog/2020/10/18/kugelblitz-telescope.html)
+- Jupiter, no barlow, [Kugelblitz](https://fschuindt.722.network/2020/10/18/kugelblitz-telescope.html)
 - Jupiter, 2x barlow, ETX90
-- Jupiter, 2x barlow, [Kugelblitz](https://fschuindt.github.io/blog/2020/10/18/kugelblitz-telescope.html)
+- Jupiter, 2x barlow, [Kugelblitz](https://fschuindt.722.network/2020/10/18/kugelblitz-telescope.html)
 - Saturn, no barlow, ETX90
 
 I was focusing my attention over Jupiter, so the Saturn picture is really a bonus. The next time I'll try Saturn, and I'll also experiment using the ZWO 850nm IR-pass filter.
 
-Even so the ETX90 was taking advantage of a LX85 equatorial mount against a Dobsonian mount of the [Kugelblitz](https://fschuindt.github.io/blog/2020/10/18/kugelblitz-telescope.html), the [Kugelblitz](https://fschuindt.github.io/blog/2020/10/18/kugelblitz-telescope.html) images turned a lot more clear. I think that was mainly due to the f/6.62 of the [Kugelblitz](https://fschuindt.github.io/blog/2020/10/18/kugelblitz-telescope.html) against the f/13.88 of the ETX90.
+Even so the ETX90 was taking advantage of a LX85 equatorial mount against a Dobsonian mount of the [Kugelblitz](https://fschuindt.722.network/2020/10/18/kugelblitz-telescope.html), the [Kugelblitz](https://fschuindt.722.network/2020/10/18/kugelblitz-telescope.html) images turned a lot more clear. I think that was mainly due to the f/6.62 of the [Kugelblitz](https://fschuindt.722.network/2020/10/18/kugelblitz-telescope.html) against the f/13.88 of the ETX90.
 
 I'm also planning to build a Bahtinov mask to aid in focusing, as I was using manual/visual focusing, which makes it pretty hard to achieve good focus.
 
@@ -35,7 +35,7 @@ I'm also planning to build a Bahtinov mask to aid in focusing, as I was using ma
 **Theme:** Jupiter and the Galilean moons with notes  
 **Distance:** 4.039 AU  
 **Magnitude:** -2.85  
-**Lens/Telescope:** [Kugelblitz](https://fschuindt.github.io/blog/2020/10/18/kugelblitz-telescope.html) handmade telescope (210mm aperture, 1390mm focal length, f/6.62, Newtonian)  
+**Lens/Telescope:** [Kugelblitz](https://fschuindt.722.network/2020/10/18/kugelblitz-telescope.html) handmade telescope (210mm aperture, 1390mm focal length, f/6.62, Newtonian)  
 **Composition:** 2698 frames captured (16.7GB .avi file), 700 frames stacked  
 **Processing:** AutoStakkert for stacking, RegiStax 6 for stretching and Photoshop for processing  
 **Timestamp (Local Time):** 06-08-2021 22:19:21  
@@ -50,7 +50,7 @@ I'm also planning to build a Bahtinov mask to aid in focusing, as I was using ma
 **Theme:** Jupiter and the Galilean moons without notes  
 **Distance:** 4.039 AU  
 **Magnitude:** -2.85  
-**Lens/Telescope:** [Kugelblitz](https://fschuindt.github.io/blog/2020/10/18/kugelblitz-telescope.html) handmade telescope (210mm aperture, 1390mm focal length, f/6.62, Newtonian)  
+**Lens/Telescope:** [Kugelblitz](https://fschuindt.722.network/2020/10/18/kugelblitz-telescope.html) handmade telescope (210mm aperture, 1390mm focal length, f/6.62, Newtonian)  
 **Composition:** 2698 frames captured (16.7GB .avi file), 700 frames stacked  
 **Processing:** AutoStakkert for stacking, RegiStax 6 for stretching and Photoshop for processing  
 **Timestamp (Local Time):** 06-08-2021 22:19:21  
@@ -83,7 +83,7 @@ I'm also planning to build a Bahtinov mask to aid in focusing, as I was using ma
 ETX90, LX85, 462MC and the redlab. (And Zig on the background)
 [![ETX90, LX85, 462MC and the redlab]({{ site.baseurl }}/images/2021-08-08-jupiter-and-the-galilean-moons-with-the-kugelblitz-handmade-telescope-and-saturn-on-a-meade-etx90/etx90_lx85_462mc_redlab.jpg)]({{ site.baseurl }}/images/2021-08-08-jupiter-and-the-galilean-moons-with-the-kugelblitz-handmade-telescope-and-saturn-on-a-meade-etx90/etx90_lx85_462mc_redlab.jpg)
 
-[Kugelblitz](https://fschuindt.github.io/blog/2020/10/18/kugelblitz-telescope.html), 462MC and the redlab.
+[Kugelblitz](https://fschuindt.722.network/2020/10/18/kugelblitz-telescope.html), 462MC and the redlab.
 [![Kugelblitz, 462MC and the redlab.]({{ site.baseurl }}/images/2021-08-08-jupiter-and-the-galilean-moons-with-the-kugelblitz-handmade-telescope-and-saturn-on-a-meade-etx90/kugelblitz_462mc_redlab.jpg)]({{ site.baseurl }}/images/2021-08-08-jupiter-and-the-galilean-moons-with-the-kugelblitz-handmade-telescope-and-saturn-on-a-meade-etx90/kugelblitz_462mc_redlab.jpg)
 
 Inside the redlab.

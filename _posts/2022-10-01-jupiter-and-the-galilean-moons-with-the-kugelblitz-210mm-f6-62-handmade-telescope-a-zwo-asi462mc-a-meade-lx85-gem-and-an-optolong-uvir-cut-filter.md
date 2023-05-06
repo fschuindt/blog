@@ -12,7 +12,7 @@ It is fun to see that huge scope with that GEM. The wind shook the hell out of i
 
 **Author:** Fernando Schuindt  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-**Lens/Telescope:** [Kugelblitz](https://fschuindt.github.io/blog/2020/10/18/kugelblitz-telescope.html) handmade telescope (210mm aperture, 1390mm focal length, f/6.62, Newtonian)  
+**Lens/Telescope:** [Kugelblitz](https://fschuindt.722.network/2020/10/18/kugelblitz-telescope.html) handmade telescope (210mm aperture, 1390mm focal length, f/6.62, Newtonian)  
 **Camera:** ZWO ASI462MC (Color)  
 **Mount:** Meade LX85 GEM  
 **Other Gear:** Optolong UV/IR-cut filter, Redlab x86 homemade weather-resistant computer  

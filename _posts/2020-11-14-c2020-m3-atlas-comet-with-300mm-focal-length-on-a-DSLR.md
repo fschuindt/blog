@@ -23,7 +23,7 @@ That's my first stacked picture taken since my first polar alignment, I'm super 
 **Center (RA, hms):** 05h 25m 58.341s  
 **Center (Dec, dms):** +03° 59' 31.651"  
 **Legacy Surveys sky browser:** [Click here](http://legacysurvey.org/viewer/?ra=81.4931&dec=3.9921&layer=unwise-neo6&poly=80.2325,5.7621,80.3679,2.1349,82.7483,2.2202,82.6223,5.8461,80.2325,5.7621)  
-**Other Gear:** Meade LX85 GEM *unguided* (Two-star alignment), OM-EOS adapter, [homebuilt INDI wireless control station](https://fschuindt.github.io/blog/2020/07/31/build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear.html), [KStars](https://apps.kde.org/en/kstars) connected to [INDI](https://www.indilib.org/) running on a Manjaro Linux x86 notebook.
+**Other Gear:** Meade LX85 GEM *unguided* (Two-star alignment), OM-EOS adapter, [homebuilt INDI wireless control station](https://fschuindt.722.network/2020/07/31/build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear.html), [KStars](https://apps.kde.org/en/kstars) connected to [INDI](https://www.indilib.org/) running on a Manjaro Linux x86 notebook.
 **Astrometry:** [https://nova.astrometry.net/user_images/4145606](https://nova.astrometry.net/user_images/4145606)  
 **Full Resolution Images (On Google Photos):** [https://photos.app.goo.gl/ePXtc8o39rtynfs28](https://photos.app.goo.gl/ePXtc8o39rtynfs28)  
 
