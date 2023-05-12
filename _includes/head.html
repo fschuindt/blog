@@ -26,17 +26,17 @@
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="{% if page.excerpt %}{{ article }}{% else %}{{ website }}{% endif %}" />
-  <meta property="og:image" content="https://fschuindt.github.io/blog/{% if page.image %}{{ page.image }}{% else %}{{ site_img }}{% endif %}" />
+  <meta property="og:image" content="https://fschuindt.722.network/{% if page.image %}{{ page.image }}{% else %}{{ site_img }}{% endif %}" />
   <meta name="twitter:site" content="@fschuindt" />
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:creator" content="@fschuindt" />
   <meta name="twitter:title" content="{% if page.excerpt %}{{ page.title | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}" />
-  <meta name="twitter:image" content="https://fschuindt.github.io/blog/{% if page.image %}{{ page.image }}{% else %}{{ site_img }}{% endif %}" />
+  <meta name="twitter:image" content="https://fschuindt.722.network/{% if page.image %}{{ page.image }}{% else %}{{ site_img }}{% endif %}" />
   <meta name="title" content="{% if page.excerpt %}{{ page.title | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <meta itemprop="image" content="https://fschuindt.github.io/blog/{% if page.image %}{{ page.image }}{% else %}{{ site_img }}{% endif %}">
+  <meta itemprop="image" content="https://fschuindt.722.network/{% if page.image %}{{ page.image }}{% else %}{{ site_img }}{% endif %}">
 
   <!-- Posts -->
   {% if page.excerpt %}
