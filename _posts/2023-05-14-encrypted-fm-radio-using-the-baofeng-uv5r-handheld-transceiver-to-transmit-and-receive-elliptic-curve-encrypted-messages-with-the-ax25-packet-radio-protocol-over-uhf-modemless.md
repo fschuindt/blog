@@ -2,7 +2,7 @@
 layout: post
 title: "Encrypted FM radio: Using the Baofeng UV5R handheld transceiver to transmit and receive elliptic-curve encrypted messages with the AX.25 packet radio protocol over UHF (Modemless)"
 categories: [IT, ham]
-image: images/2023-05-14-encrypted-fm-radio-using-the-baofeng-uv5r-handheld-transceiver-to-transmit-and-receive-elliptic-curve-encrypted-messages-with-the-ax25-packet-radio-protocol-over-uhf-modemless/meta_image.jpg
+image: images/2023-05-14-encrypted-fm-radio-using-the-baofeng-uv5r-handheld-transceiver-to-transmit-and-receive-elliptic-curve-encrypted-messages-with-the-ax25-packet-radio-protocol-over-uhf-modemless/cover.jpg
 excerpt: "A practical guide on the concept of exchanging encrypted digital messages over AX.25 and UHF with the Baofeng UV-5R radio."
 ---
 
