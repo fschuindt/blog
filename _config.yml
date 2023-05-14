@@ -17,9 +17,10 @@ title: Collateral Software
 email: fschuindt@722.network
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog about software development and amateur astronomy.
+# baseurl: "/blog"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://722.network" # the base hostname & protocol for your site, e.g. http://example.com
-# url: "http://localhost:4000/blog"
+# url: "http://localhost:4000"
 twitter_username: fschuindt
 github_username:  fschuindt
 permalink: /:year/:month/:day/:title:output_ext
