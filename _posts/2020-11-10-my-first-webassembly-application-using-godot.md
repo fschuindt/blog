@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first WebAssembly application using Godot"
-categories: [IT]
+categories: [IT, archive]
 image: images/2020-11-10-my-first-webassembly-application-using-godot/wasm_application.png
 excerpt: "Today I just created my first WebAssembly application using the Godot game engine."
 ---

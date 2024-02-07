@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Venus and Mercury conjunction 300mm single frame
-categories: [Astronomy, AP]
+categories: [Astronomy, AP, archive]
 image: images/2020-05-21-venus-and-mercury-conjunction-300mm-single-frame/IMG_0881_big.png
 excerpt: "My great friend Terry F. reminded me just yesterday about the Venus/Mercury conjunction of today. I wasn't hopeful at all due to the 'rainy season' here in Northeast Brazil, all these days have been raining a lot. But even so I had set up the alarm to ring for it. Luck was on my side, I had a hole of clear sky among the clouds, just enough to see the two planets. It didn't last long, but I was able to take some frames and elect one to be published."
 ---

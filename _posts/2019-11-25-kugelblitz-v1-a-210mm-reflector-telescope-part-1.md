@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kugelblitz v1 a 210mm reflector telescope Pt. 1
-categories: Astronomy
+categories: [Astronomy, archive]
 image: images/2019-11-25-kugelblitz-v1-a-210mm-reflector-telescope-part-1/IMG_20191125_113955.jpg
 excerpt: "Me and Bruno went this morning to the construction store and bought a 6m long, 250mm diameter PVC pipe. We chopped it in 4 pieces of 1.5m so we can transport it. That would be the telescope tube, housing a 210mm primary mirror."
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Converting a old webcam into a planetary camera"
-categories: [Astronomy, IT]
+categories: [Astronomy, IT, archive]
 image: images/2020-09-20-converting-an-old-webcam-into-a-planetary-camera/1.jpg
 excerpt: "Removing the lens of a webcam allows us to use it on a telescope or with a DSLR lens, here I log the process I made to modify a old webcam to be used in amateur astronomy."
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Build showcase: My wireless Raspberry Pi powered 'science station' for controlling the telescope mount, DSLR camera and all future gear"
-categories: [IT, Astronomy]
+categories: [IT, Astronomy, archive]
 image: images/2020-07-31-build-showcase-my-wireless-raspberry-pi-powered-science-station-for-controlling-the-telescope-mount-dslr-camera-and-all-future-gear/IMG_20200730_171105.jpg
 excerpt: "I'm really happy to announce that I finished to building/setting up what I'm calling my 'science station'. It's a plastic box with a single board computer, a wifi router and some other stuff that allows me to control physical devices like equatorial telescope mounts and DSLR cameras remotely from my notebook with no wires in between."
 ---

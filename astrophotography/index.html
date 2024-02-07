@@ -1,0 +1,50 @@
+---
+layout: page
+excerpt: "My astrophotographies."
+---
+<div class="category_switch">
+  <div class="category_switch_image">
+    <img src="{{ site.baseurl }}/images/pointing_hand.png"/>
+  </div>
+  <div class="category_switch_text">
+    <p style="margin: 9px 0px 5px 0px; font-size: 90%; opacity: 80%;"><i>You're reading posts about astrophotography, for other categories:</i></p>
+    <ul>
+      <li><a href="{{ site.baseurl }}/">All posts</a></li>
+      <li><a href="{{ site.baseurl }}/it">IT and software development</a></li>
+      <li><a href="{{ site.baseurl }}/astronomy">Amateur astronomy</a></li>
+    </ul>
+  </div>
+  <div class="clear">
+  </div>
+</div>
+
+<div class="table_of_contents">
+  <h3>Table of Contents (Amateur astrophotography)</h3>
+  {% for post in site.categories.AP %}
+    <ul>
+      <li>
+        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </li>
+    </ul>
+  {% endfor %}
+</div>
+
+<div style="height: 60px;"></div>
+
+<div class="posts">
+  {% for post in site.categories.AP %}
+    {% unless post.categories contains 'archive' %}
+      <article class="post">
+        <h1 class="post-title">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h1>
+
+        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+        {{ post.content }}
+      </article>
+    {% endunless %}
+  {% endfor %}
+</div>

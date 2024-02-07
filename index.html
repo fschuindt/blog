@@ -2,42 +2,49 @@
 layout: default
 title: Home
 ---
-<div class="table_of_contents">
-  <h3>Table of Contents (IT only)</h3>
-  {% for post in site.categories.IT %}
-  <ul>
-    <li>
-      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  </ul>
-  {% endfor %}
-</div>
-
 <div class="category_switch">
   <div class="category_switch_image">
     <img src="{{ site.baseurl }}/images/pointing_hand.png"/>
   </div>
   <div class="category_switch_text">
-    <p>The "home" of this blog is for IT related topics only.</p>
-    <p><a href="{{ site.baseurl }}/astronomy">Click here</a> to see my posts about amateur astronomy and others.</p>
-    <p>Or <a href="{{ site.baseurl }}/all">click here</a> to see all.</p>
+    <p style="margin: 9px 0px 5px 0px; font-size: 90%; opacity: 80%;"><i>For specific categories:</i></p>
+    <ul>
+      <li><a href="{{ site.baseurl }}/it">IT and software development</a></li>
+      <li><a href="{{ site.baseurl }}/astrophotography">Amateur astrophotography</a></li>
+      <li><a href="{{ site.baseurl }}/astronomy">Amateur astronomy</a></li>
+    </ul>
   </div>
   <div class="clear">
   </div>
 </div>
 
+<div class="table_of_contents">
+  <h3>Table of Contents (All posts)</h3>
+  {% for post in site.posts %}
+    <ul>
+      <li>
+        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </li>
+    </ul>
+  {% endfor %}
+</div>
+
+<div style="height: 60px;"></div>
+
 <div class="posts">
-  {% for post in site.categories.IT %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+  {% for post in site.posts %}
+    {% unless post.categories contains 'archive' %}
+      <article class="post">
+        <h1 class="post-title">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h1>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-    {{ post.content }}
-  </article>
+        {{ post.content }}
+      </article>
+    {% endunless %}
   {% endfor %}
 </div>

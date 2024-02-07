@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jupiter and Saturn, second attempt"
-categories: [Astronomy, AP]
+categories: [Astronomy, AP, archive]
 image: images/2020-09-13-jupiter-and-saturn-second-attempt/jupiter.png
 excerpt: "A second attempt over my September 5th picture, this time gathering more data. Jupiter got significantly improved but I prefer the Saturn of the previous one."
 ---

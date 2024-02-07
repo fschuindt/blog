@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first planetary image processing with the Meade ETX 90: Jupiter, Saturn and Mars"
-categories: [Astronomy, AP]
+categories: [Astronomy, AP, archive]
 image: images/2020-09-05-my-first-planetary-image-processing-with-the-meade-etx90-jupiter-saturn-and-mars/saturn.jpg
 excerpt: "Yesterday I was trying to get ready for the Mars occultation by the Moon that should be visible from here in the first hours of tomorrow (Thank you Terry for this tip). So I decided to set up the equipment outside to enjoy a nice weather."
 ---

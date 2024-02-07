@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mak90 DSLR video stack first attempt: 80% Moon"
-categories: [Astronomy, AP]
+categories: [Astronomy, AP, archive]
 image: images/2020-11-25-Mak90-DSLR-video-stack-first-attempt-80-Moon/stack_sharp_7_3_15_full_res.jpg
 excerpt: "My first attempt with DSLR Moon videos stacked into one picture."
 ---

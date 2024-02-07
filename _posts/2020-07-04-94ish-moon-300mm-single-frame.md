@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 94%ish Moon 300mm Single Frame
-categories: [Astronomy, AP]
+categories: [Astronomy, AP, archive]
 image: images/2020-07-04-94ish-moon-300mm-single-frame/Single__0073.jpg
 excerpt: "It's Friday, sky is clear. I was willing to proceed with some stacking experiments, but the Moon glare was owning the night. I remembered I haven't yet took a Moon shot with the 300mm using the Canon, my last Moon (and only) shot was using the Olympus e410, so I saw on it a good chance. The Moon is almost full, but not yet. The remaining bit of penumbra is useful to reveal some terrain detail and I think it worked."
 ---

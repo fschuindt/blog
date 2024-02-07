@@ -59,16 +59,7 @@ It is fun to see that huge scope with that GEM. The wind shook the hell out of i
 
 ## Gear & Bonus
 
-[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/me_and_the_scope_3.jpg)]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/me_and_the_scope_3.jpg)
-(Click to open full resolution)
-
-[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/me_and_the_scope_2.jpg)]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/me_and_the_scope_2.jpg)
-(Click to open full resolution)
-
 [![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/me_and_the_scope_1.jpg)]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/me_and_the_scope_1.jpg)
-(Click to open full resolution)
-
-[![Jupiter with notes]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/gear.jpg)]({{ site.baseurl }}/images/2022-10-01-jupiter-and-the-galilean-moons-with-the-kugelblitz-210mm-f6-62-handmade-telescope-a-zwo-asi462mc-a-meade-lx85-gem-and-an-optolong-uvir-cut-filter/gear.jpg)
 (Click to open full resolution)
 
 ## Camera Settings

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Philosophical Perceiving Of Bits As The Fundamental Particles Of Our Universe
-categories: IT
+categories: [IT, archive]
 image: images/2017-09-26-philosophical-perceiving-of-bits-as-the-fundamental-particles-of-our-universe/de_berry.jpg
 excerpt: "Notice: I no longer believe this is accurate. Instead I see many flaws in it, the bigger being the misunderstanding of the Heisenberg’s Microscope thought experiment."
 ---
