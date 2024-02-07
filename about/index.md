@@ -59,4 +59,4 @@ Some of my open source:
 + [docker-smb - A containerized Samba server to share Docker host directories](https://github.com/fschuindt/docker-smb)
 + [my Emacs configuration](https://github.com/fschuindt/.emacs.d)
 
-<div style="height: 30px;"></div>
+<div style="height: 60px;"></div>
