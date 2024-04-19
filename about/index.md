@@ -11,11 +11,9 @@ excerpt: Fernando Schuindt, 32yo Brazilian. Software engineer at thexlife.co. Pa
 
   <div style="width: 65%; float: right;">
     <p><strong>Fernando Schuindt</strong>, Brazilian (UTC-3).<br />Software Engineer (Elixir) @ <a href="https://www.thexlife.co/">thexlife.co</a></p>
-    <p>A passionate programmer.<br />20 years writing code.</p>
+    <p>A passionate programmer.</p>
     <p>Contact:</p>
     <img style="width: 300px; margin: 0px; opacity: 70%;" src="{{ site.baseurl }}/images/nothing_relevant.png" alt="Nothing relevant" />
-    <div style="height: 10px;"></div>
-    <p style="font-size: 80%;">(It's an image to avoid 🤖)</p>
   </div>
 
   <div style="clear: both;">
@@ -24,7 +22,7 @@ excerpt: Fernando Schuindt, 32yo Brazilian. Software engineer at thexlife.co. Pa
 
 <div style="height: 40px;"></div>
 
-<p>I started with programming as a hobby in 2003, and since 2010 I've been working professionally with software development. At my current position, I'm working with Elixir architecture and engineering, as well as DevOps (mainly with Kubernetes).</p>
+<p>I started with programming as a hobby in 2003, and since 2010 I've been working professionally with it. At my current position, I'm working with Elixir engineering, as well as a bit of DevOps (mainly Kubernetes).</p>
 
 <p>This website is also my personal blog. Here I post some of the things I find interesting, not only about IT but also about amateur astronomy, astrophotography, electronics, HAM and anything that comes to mind.</p>
 
