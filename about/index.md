@@ -10,8 +10,7 @@ excerpt: Fernando Schuindt, 32yo Brazilian. Software engineer at thexlife.co. Pa
   <img style="width: 30%; float: left;" src="{{ site.baseurl }}/images/fschuindt.png" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, Brazilian (UTC-3).<br />Software Engineer (Elixir) @ <a href="https://www.thexlife.co/">thexlife.co</a></p>
-    <p>A passionate programmer.</p>
+    <p><strong>Fernando Schuindt</strong>, Brazilian (UTC-3).<br />Software Engineer (Elixir) @ <a href="https://www.thexlife.co/">thexlife.co</a><br />A passionate programmer.</p>
     <p>Contact:</p>
     <img style="width: 300px; margin: 0px; opacity: 70%;" src="{{ site.baseurl }}/images/nothing_relevant.png" alt="Nothing relevant" />
   </div>
