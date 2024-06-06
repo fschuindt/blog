@@ -169,7 +169,9 @@ Schematics:
 
 ### 4.4 Transmit
 
-Here follows a simple diagram of what's happening. ([Open here](https://gist.github.com/fschuindt/e8d94b0c8802931eeca3c99ad857cde5) for rendering it)
+Here follows a simple diagram of what's happening. ([Original version](https://gist.github.com/fschuindt/e8d94b0c8802931eeca3c99ad857cde5))
+
+[![TX Mermaid diagram]({{ site.baseurl }}/images/2023-05-14-encrypted-fm-radio-using-the-baofeng-uv5r-handheld-transceiver-to-transmit-and-receive-elliptic-curve-encrypted-messages-with-the-ax25-packet-radio-protocol-over-uhf-modemless/tx_diagram.png)]({{ site.baseurl }}/images/2023-05-14-encrypted-fm-radio-using-the-baofeng-uv5r-handheld-transceiver-to-transmit-and-receive-elliptic-curve-encrypted-messages-with-the-ax25-packet-radio-protocol-over-uhf-modemless/tx_diagram.png)
 
 <script src="https://gist.github.com/fschuindt/e8d94b0c8802931eeca3c99ad857cde5.js"></script>
 
