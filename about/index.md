@@ -10,8 +10,9 @@ excerpt: Fernando Schuindt, 32yo Brazilian. Software engineer at thexlife.co. Pa
   <img style="width: 30%; float: left;" src="{{ site.baseurl }}/images/fschuindt.png" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, Brazilian (UTC-3).<br />Software Engineer (Elixir) @ <a href="https://www.thexlife.co/">thexlife.co</a><br />A passionate programmer.</p>
-    <p>Contact:</p>
+    <p><strong>Fernando Schuindt</strong>, Brazil (UTC-3).<br />Software Engineer (Elixir) @ <a href="https://www.thexlife.co/">thexlife.co</a></p>
+    <p><strong style="color: #691d7f;">7 years of experience with Elixir. 🎉</strong><br />23 years developing web; 14 professionaly.</p>
+    <p>Contact me:</p>
     <img style="width: 300px; margin: 0px; opacity: 70%;" src="{{ site.baseurl }}/images/nothing_relevant.png" alt="Nothing relevant" />
   </div>
 
@@ -21,9 +22,11 @@ excerpt: Fernando Schuindt, 32yo Brazilian. Software engineer at thexlife.co. Pa
 
 <div style="height: 40px;"></div>
 
-<p>I started with programming as a hobby in 2003, and since 2010 I've been working professionally with it. At my current position, I'm working with Elixir engineering, as well as a bit of DevOps (mainly Kubernetes).</p>
+<p>I started programming as a hobby in 2003, and since 2010, I've been working in the field.</p>
 
-<p>This website is also my personal blog. Here I post some of the things I find interesting, not only about IT but also about amateur astronomy, astrophotography, electronics, ham radio and anything that comes to mind.</p>
+<p><a href="https://fschuindt.722.network/2016/10/30/my-elixir-study-notes.html">In 2016 I began studying Elixir</a>, and since early 2018, it's the central technology of my work. I also have a strong background in DevOps for concurrent, scalable and distributed back-end systems.</p>
+
+<p>This website is my personal blog. Here I post about things I find interesting, not only in IT but also in amateur astronomy, astrophotography, electronics, ham radio, and anything else that comes to mind.</p>
 
 <div style="height: 28px;"></div>
 
@@ -32,8 +35,8 @@ excerpt: Fernando Schuindt, 32yo Brazilian. Software engineer at thexlife.co. Pa
 <div style="height: 20px;"></div>
 
 <p>Blog categories:</p>
-- <a href="{{ site.baseurl }}/">all posts</a>
 - <a href="{{ site.baseurl }}/it">posts about IT</a>
+- <a href="{{ site.baseurl }}/">all posts</a>
 - <a href="{{ site.baseurl }}/astronomy">amateur astronomy</a>
 - <a href="{{ site.baseurl }}/astrophotography">amateur astrophotography</a>
 
@@ -49,7 +52,7 @@ You can find me at:
 <div style="height: 30px;">
 </div>
 
-Some of my open source:  
+Highlights:  
 + [TapTempo, limits the frequency that certain Elixir/BEAM functions can be called](https://github.com/fschuindt/tap_tempo)
 + [NGINX RTMP/RTMPS to HLS and MPEG-Dash media stream broadcaster NGINX distro](https://github.com/fschuindt/nginx_rtmp_hls_dash)
 + [firebase_id_token, a Ruby Gem for validating Firebase JWT](https://github.com/fschuindt/firebase_id_token)
