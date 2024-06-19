@@ -11,7 +11,7 @@ excerpt: Fernando Schuindt, 32yo Brazilian. Software engineer at thexlife.co. Pa
 
   <div style="width: 65%; float: right;">
     <p><strong>Fernando Schuindt</strong>, Brazil (UTC-3).<br />Software Engineer (Elixir) @ <a href="https://www.thexlife.co/">thexlife.co</a></p>
-    <p><strong style="color: #691d7f;">7 years of experience with Elixir. 🎉</strong><br />23 years developing web; 14 professionaly.</p>
+    <p><span style="color: #691d7f;">7 years of experience with Elixir.</span><br />23 years developing web; 14 professionaly.</p>
     <p>Contact me:</p>
     <img style="width: 300px; margin: 0px; opacity: 70%;" src="{{ site.baseurl }}/images/nothing_relevant.png" alt="Nothing relevant" />
   </div>
@@ -22,11 +22,11 @@ excerpt: Fernando Schuindt, 32yo Brazilian. Software engineer at thexlife.co. Pa
 
 <div style="height: 40px;"></div>
 
-<p>I started programming as a hobby in 2003, and since 2010, I've been working in the field.</p>
+<p>I started programming as a hobby in 2003, and since 2010 I've been working in the field.</p>
 
-<p><a href="https://fschuindt.722.network/2016/10/30/my-elixir-study-notes.html">In 2016 I began studying Elixir</a>, and since early 2018, it's the central technology of my work. I also have a strong background in DevOps for concurrent, scalable and distributed back-end systems.</p>
+<p><a href="https://fschuindt.722.network/2016/10/30/my-elixir-study-notes.html">In 2016 I began studying Elixir</a>, and in early 2018 I started to work professionaly with it. I also have a strong background in DevOps for concurrent, scalable and distributed back-end systems.</p>
 
-<p>This website is my personal blog. Here I post about things I find interesting, not only in IT but also in amateur astronomy, astrophotography, electronics, ham radio, and anything else that comes to mind.</p>
+<p>This website is also my personal blog. Here I post about things I find interesting, not only in IT but also in amateur astronomy, astrophotography, electronics, ham radio, and anything else that comes to mind.</p>
 
 <div style="height: 28px;"></div>
 
