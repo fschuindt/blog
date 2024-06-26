@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About me
-excerpt: Fernando Schuindt, 32yo Brazilian. Software engineer at thexlife.co. Passionate developer, 20 years of coding and 14 years of professional experience.
+excerpt: Fernando Schuindt. Software engineer at thexlife.co. Passionate developer, 23 years of coding and 14 years of professional experience.
 ---
 
 * * *
 
 <div style="width: 100%">
-  <img style="width: 30%; float: left;" src="{{ site.baseurl }}/images/fschuindt.png" alt="Fernando Schuindt picture" />
+  <img style="width: 30%; float: left;" src="{{ site.baseurl }}/images/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
     <p><strong>Fernando Schuindt</strong>, Brazil (UTC-3).<br />Software Engineer (Elixir) @ <a href="https://www.thexlife.co/">thexlife.co</a></p>
-    <p><span style="color: #691d7f;">7 years of experience with Elixir.</span><br />23 years developing web; 14 professionaly.</p>
-    <p>Contact me:</p>
+    <p>7 years of experience with Elixir.<br />23 years developing web; 14 professionaly.</p>
+    <p style="margin-bottom: 10px;">Contact me:</p>
     <img style="width: 300px; margin: 0px; opacity: 70%;" src="{{ site.baseurl }}/images/nothing_relevant.png" alt="Nothing relevant" />
   </div>
 
@@ -22,11 +22,13 @@ excerpt: Fernando Schuindt, 32yo Brazilian. Software engineer at thexlife.co. Pa
 
 <div style="height: 40px;"></div>
 
-<p>I started programming as a hobby in 2003, and since 2010 I've been working in the field.</p>
+<p>I started programming as a hobby in 2003, and I've been working in the field since 2010.</p>
 
-<p><a href="https://fschuindt.722.network/2016/10/30/my-elixir-study-notes.html">In 2016 I began studying Elixir</a>, and in early 2018 I started to work professionaly with it. I also have a strong background in DevOps for concurrent, scalable and distributed back-end systems.</p>
+<p>I'm heavily experienced with back-end software development, and <a href="https://fschuindt.722.network/2016/10/30/my-elixir-study-notes.html">since 2016</a>, Elixir has been my go-to technology for such systems, working professionally with it since early 2018. I'm also experienced with back-end architecture and DevOps.</p>
 
-<p>This website is also my personal blog. Here I post about things I find interesting, not only in IT but also in amateur astronomy, astrophotography, electronics, ham radio, and anything else that comes to mind.</p>
+<p>Technology is my core, and I get easily excited about it. For the past 23 years, I have played around with almost every major existing language, and I'm always tinkering with something new or interesting, whether it's AI, systems programming, cryptography, smart contracts, IoT, telecom, drones, astronomy, electronics, or many others.</p>
+
+<p>My job is to convert what I learn from my ventures into value for the business I provide services for.</p>
 
 <div style="height: 28px;"></div>
 

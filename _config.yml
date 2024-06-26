@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Collateral Software
+title: Fernando Schuindt
 email: fschuindt@722.network
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog about software development, amateur astronomy, electronics, HAM and anything that comes to mind.
+  Personal blog about software development, amateur astronomy, electronics, ham and anything that comes to mind.
 # baseurl: "/blog"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fschuindt.722.network" # the base hostname & protocol for your site, e.g. http://example.com
