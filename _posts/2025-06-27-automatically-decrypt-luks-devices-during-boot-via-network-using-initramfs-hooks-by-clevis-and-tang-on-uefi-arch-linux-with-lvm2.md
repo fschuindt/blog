@@ -120,6 +120,8 @@ HOOKS=(base udev autodetect microcode modconf kms keyboard keymap consolefont bl
 
 The `net` hook is responsible for setting up networking during early boot.
 
+**Note:** As pointed out in Jelle's post (URL at the bottom), there's no timeout in the `net` hook, so it won't fall back to the `encrypt` hook if it fails. He recommends editing the `/usr/lib/initcpio/hooks/net` file and replacing the `ipconfig` call with `ipconfig -t 30 "ip=${ip}"`.
+
 Then, rebuild the initramfs:
 ```bash
 mkinitcpio -P
