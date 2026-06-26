@@ -9,6 +9,12 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "kramdown-parser-gfm"
+gem "base64"
+gem "bigdecimal"
+gem "csv"
+gem "json"
+gem "logger"
+gem "ostruct"
 gem "jekyll", "~> 4.3"
 gem "kramdown", "~> 2.4"
 gem "rexml", "~> 3.3"

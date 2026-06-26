@@ -1,0 +1,199 @@
+---
+layout: bare
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gallery</title>
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/public/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/public/favicon-32x32.png?v=2" sizes="32x32">
+<link rel="icon" type="image/png" href="{{ site.baseurl }}/public/favicon-16x16.png?v=2" sizes="16x16">
+<link rel="manifest" href="{{ site.baseurl }}/public/manifest.json">
+<link rel="mask-icon" href="{{ site.baseurl }}/public/safari-pinned-tab.svg" color="#5bbad5">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #fff;
+    color: #111;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .gallery {
+    column-count: 3;
+    column-gap: 4px;
+    padding: 4px;
+  }
+
+  .gallery a {
+    display: block;
+    margin-bottom: 4px;
+    line-height: 0;
+    break-inside: avoid;
+    cursor: pointer;
+  }
+
+  .gallery img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  @media (max-width: 1200px) {
+    .gallery { column-count: 2; }
+  }
+
+  @media (max-width: 600px) {
+    .gallery { column-count: 1; column-gap: 0; padding: 0; }
+    .gallery a { margin-bottom: 2px; }
+  }
+
+  .lightbox {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.92);
+    z-index: 100;
+    cursor: pointer;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .lightbox.open {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .lightbox.portrait.open {
+    justify-content: flex-start;
+  }
+
+  .lightbox img {
+    display: block;
+    max-width: 92vw;
+    max-height: 85vh;
+    object-fit: contain;
+    border: 1px solid #fff;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  .lightbox.portrait img {
+    max-height: none;
+    max-width: 40vw;
+    margin: 32px 0;
+  }
+
+  .lightbox-actions {
+    padding: 16px 0 24px;
+    flex-shrink: 0;
+    display: flex;
+    gap: 16px;
+    align-items: center;
+  }
+
+  .lightbox-actions a {
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    font-size: 13px;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+  }
+
+  .lightbox-actions a:hover {
+    color: rgba(255, 255, 255, 0.9);
+  }
+
+  .lightbox-separator {
+    width: 1px;
+    height: 12px;
+    background: rgba(255, 255, 255, 0.25);
+  }
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a href="{{ site.baseurl }}/images/gallery/01.jpg"><img src="{{ site.baseurl }}/images/gallery/01.jpg" alt="" loading="lazy" width="3500" height="2294"></a>
+  <a href="{{ site.baseurl }}/images/gallery/04.jpg"><img src="{{ site.baseurl }}/images/gallery/04.jpg" alt="" loading="lazy" width="1556" height="2500"></a>
+  <a href="{{ site.baseurl }}/images/gallery/02.jpg"><img src="{{ site.baseurl }}/images/gallery/02.jpg" alt="" loading="lazy" width="3500" height="2314"></a>
+  <a href="{{ site.baseurl }}/images/gallery/11.png" data-details="https://fschuindt.722.network/2021/08/08/jupiter-and-the-galilean-moons-with-the-kugelblitz-handmade-telescope-and-saturn-on-a-meade-etx90.html"><img src="{{ site.baseurl }}/images/gallery/11.png" alt="" loading="lazy" width="1936" height="1096"></a>
+  <a href="{{ site.baseurl }}/images/gallery/03.jpg"><img src="{{ site.baseurl }}/images/gallery/03.jpg" alt="" loading="lazy" width="2500" height="1658"></a>
+  <a href="{{ site.baseurl }}/images/gallery/06.jpg"><img src="{{ site.baseurl }}/images/gallery/06.jpg" alt="" loading="lazy" width="1632" height="2500"></a>
+  <a href="{{ site.baseurl }}/images/gallery/05.jpg"><img src="{{ site.baseurl }}/images/gallery/05.jpg" alt="" loading="lazy" width="2500" height="1649"></a>
+  <a href="{{ site.baseurl }}/images/gallery/10.jpg" data-details="https://fschuindt.722.network/2021/10/10/my-first-moon-mosaic.html"><img src="{{ site.baseurl }}/images/gallery/10.jpg" alt="" loading="lazy" width="3443" height="2763"></a>
+  <a href="{{ site.baseurl }}/images/gallery/07.jpg"><img src="{{ site.baseurl }}/images/gallery/07.jpg" alt="" loading="lazy" width="2500" height="1646"></a>
+  <a href="{{ site.baseurl }}/images/gallery/12.jpg" data-details="https://fschuindt.722.network/2021/10/10/my-first-moon-mosaic.html"><img src="{{ site.baseurl }}/images/gallery/12.jpg" alt="" loading="lazy" width="6687" height="4018"></a>
+  <a href="{{ site.baseurl }}/images/gallery/08.jpg"><img src="{{ site.baseurl }}/images/gallery/08.jpg" alt="" loading="lazy" width="2500" height="1598"></a>
+  <a href="{{ site.baseurl }}/images/gallery/14.png" data-details="https://fschuindt.722.network/2023/03/23/mineral-moon-with-the-askar-fra400-and-a-canon-t3i.html"><img src="{{ site.baseurl }}/images/gallery/14.png" alt="" loading="lazy" width="2452" height="1363"></a>
+  <a href="{{ site.baseurl }}/images/gallery/09.jpg"><img src="{{ site.baseurl }}/images/gallery/09.jpg" alt="" loading="lazy" width="2500" height="1609"></a>
+  <a href="{{ site.baseurl }}/images/gallery/13.jpg" data-details="https://fschuindt.722.network/2022/10/23/48x-12s-iso1600-on-m42.html"><img src="{{ site.baseurl }}/images/gallery/13.jpg" alt="" loading="lazy" width="5058" height="3361"></a>
+  <a href="{{ site.baseurl }}/images/gallery/15.png" data-details="https://fschuindt.722.network/2021/08/08/jupiter-and-the-galilean-moons-with-the-kugelblitz-handmade-telescope-and-saturn-on-a-meade-etx90.html"><img src="{{ site.baseurl }}/images/gallery/15.png" alt="" loading="lazy" width="1218" height="618"></a>
+  <a href="{{ site.baseurl }}/images/gallery/16.jpg" data-details="https://fschuindt.722.network/2020/11/23/sirius-with-300mm-focal-length-on-a-canon-eos-600d.html"><img src="{{ site.baseurl }}/images/gallery/16.jpg" alt="" loading="lazy" width="4428" height="2943"></a>
+</div>
+
+<div class="lightbox" id="lightbox">
+  <img id="lightbox-img" src="" alt="">
+  <div class="lightbox-actions">
+    <a id="lightbox-fullres" href="" target="_blank" rel="noopener">Full res.</a>
+    <div class="lightbox-separator" id="lightbox-separator" style="display:none;"></div>
+    <a id="lightbox-link" href="" target="_blank" rel="noopener" style="display:none;">Details</a>
+  </div>
+</div>
+
+<script>
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = document.getElementById('lightbox-img');
+  const lightboxFullres = document.getElementById('lightbox-fullres');
+  const lightboxSeparator = document.getElementById('lightbox-separator');
+  const lightboxLink = document.getElementById('lightbox-link');
+
+  function closeLightbox() {
+    lightbox.classList.remove('open', 'portrait');
+    lightboxImg.src = '';
+    lightboxLink.style.display = 'none';
+    lightboxSeparator.style.display = 'none';
+    document.body.style.overflow = '';
+  }
+
+  document.querySelector('.gallery').addEventListener('click', function(e) {
+    e.preventDefault();
+    const link = e.target.closest('a');
+    if (!link) return;
+    const img = link.querySelector('img');
+    const isPortrait = parseInt(img.getAttribute('height')) > parseInt(img.getAttribute('width'));
+    lightbox.classList.toggle('portrait', isPortrait);
+    lightboxImg.src = link.href;
+    lightboxFullres.href = link.href;
+    const detailsUrl = link.dataset.details;
+    if (detailsUrl) {
+      lightboxLink.href = detailsUrl;
+      lightboxLink.style.display = '';
+      lightboxSeparator.style.display = '';
+    } else {
+      lightboxLink.style.display = 'none';
+      lightboxSeparator.style.display = 'none';
+    }
+    lightbox.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  });
+
+  lightbox.addEventListener('click', function(e) {
+    if (e.target.closest('.lightbox-actions')) return;
+    closeLightbox();
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && lightbox.classList.contains('open')) {
+      closeLightbox();
+    }
+  });
+</script>
+
+</body>
+</html>
