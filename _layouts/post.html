@@ -11,11 +11,29 @@ layout: default
   {{ content }}
 </article>
 
-{% if site.related_posts != empty %}
+{% assign related = "" | split: "" %}
+{% for post in site.posts %}
+  {% unless post.url == page.url %}
+    {% assign match = false %}
+    {% for cat in page.categories %}
+      {% if post.categories contains cat %}
+        {% assign match = true %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    {% if match %}
+      {% assign related = related | push: post %}
+    {% endif %}
+  {% endunless %}
+{% endfor %}
+{% if related == empty %}
+  {% assign related = site.related_posts %}
+{% endif %}
+{% if related != empty %}
 <aside class="related">
   <h3>Related posts</h3>
   <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
+    {% for post in related limit:3 %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.title }}
