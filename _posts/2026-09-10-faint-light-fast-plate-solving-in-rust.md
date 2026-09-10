@@ -3,7 +3,7 @@ layout: post
 title: "Faint Light, fast plate-solving in Rust"
 categories: [IT]
 image: images/2026-09-10-faint-light-fast-plate-solving-in-rust/preview.png
-excerpt: "Publishing a new open source software for plate-solving astronomy images up to 100x faster."
+excerpt: "10-100x faster plate-solving open source implementation"
 ---
 
 ![Cover]({{ site.baseurl }}/images/2026-09-10-faint-light-fast-plate-solving-in-rust/Medieval_knight_puppets_from_Hortus_Deliciarum.png)
