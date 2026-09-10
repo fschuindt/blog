@@ -10,8 +10,8 @@ excerpt: Fernando Schuindt. Software engineer at thexlife.co. Passionate develop
   <img style="width: 30%; float: left;" src="{{ site.baseurl }}/images/fschuindt.jpg" alt="Fernando Schuindt picture" />
 
   <div style="width: 65%; float: right;">
-    <p><strong>Fernando Schuindt</strong>, Brazil (UTC-3).<br />Software Engineer (Elixir) @ <a href="https://www.thexlife.co/">thexlife.co</a></p>
-    <p>7 years of experience with Elixir.<br />23 years developing web; 14 professionaly.</p>
+    <p><strong>Fernando Schuindt</strong>, Brazil (UTC-3).<br />Software Engineer (Elixir) @ farmbackup.dk</p>
+    <p>More than 10 years of experience with Elixir.<br />26 years developing web; 17 professionaly.</p>
     <p style="margin-bottom: 10px;">Contact me:</p>
     <img style="width: 300px; margin: 0px; opacity: 70%;" src="{{ site.baseurl }}/images/nothing_relevant.png" alt="Nothing relevant" />
   </div>
@@ -26,7 +26,7 @@ excerpt: Fernando Schuindt. Software engineer at thexlife.co. Passionate develop
 
 <p>I'm heavily experienced with back-end software development, and <a href="https://fschuindt.722.network/2016/10/30/my-elixir-study-notes.html">since 2016</a>, Elixir has been my go-to technology for such systems, working professionally with it since early 2018. I'm also experienced with back-end architecture and DevOps.</p>
 
-<p>Technology is my core, and I get easily excited about it. For the past 23 years, I have played around with almost every major existing language, and I'm always tinkering with something new or interesting, whether it's AI, systems programming, cryptography, smart contracts, IoT, telecom, drones, astronomy, electronics, or many others.</p>
+<p>Technology is my core, and I get easily excited about it. For the past 26 years, I have played around with almost every major existing language, and I'm always tinkering with something new or interesting, whether it's AI, systems programming, cryptography, smart contracts, IoT, telecom, drones, astronomy, electronics, or many others.</p>
 
 <p>My job is to convert what I learn from my ventures into value for the business I provide services for.</p>
 
@@ -55,8 +55,9 @@ You can find me at:
 </div>
 
 Highlights:  
-+ [TapTempo, limits the frequency that certain Elixir/BEAM functions can be called](https://github.com/fschuindt/tap_tempo)
-+ [NGINX RTMP/RTMPS to HLS and MPEG-Dash media stream broadcaster NGINX distro](https://github.com/fschuindt/nginx_rtmp_hls_dash)
++ [Faint Light, fast astrometry/plate-solving computation in Rust](https://github.com/fschuindt/faint_light)
 + [firebase_id_token, a Ruby Gem for validating Firebase JWT](https://github.com/fschuindt/firebase_id_token)
++ [NGINX RTMP/RTMPS to HLS and MPEG-Dash media stream broadcaster NGINX distro](https://github.com/fschuindt/nginx_rtmp_hls_dash)
++ [TapTempo, limits the frequency that certain Elixir/BEAM functions can be called](https://github.com/fschuindt/tap_tempo)
 
 <div style="height: 60px;"></div>
